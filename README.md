@@ -29,6 +29,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | ??? |
 | Perfect Dark | ??? | 29/05/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | ??? |
 | StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | ??? |
+| Super Mario 64 | *unreleased* | 08/07/2026 | [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex/) | [My Switch Port Repo](https://github.com/robzilla10001/mspr/) |
 
 ### Gameboy  
 | Game | Version | Last Updated? | Link | Instructions need updating? |
