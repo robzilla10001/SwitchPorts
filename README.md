@@ -34,3 +34,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Game | Version | Last Updated? | Link | Instructions need updating? |
 | --- | --- | --- | --- | --- |
 | Chrono Trigger | *unreleased* | 07/07/2026 | [ppkantorski/ct_nx](https://github.com/ppkantorski/ct_nx) | [Current build, state of affairs](https://gbatemp.net/threads/chrono-trigger-switch-port.682630/page-5#post-10880335) |
+### PC
+Game | Version | Last Updated? | Link | Instructions need updating? |
+| --- | --- | --- | --- | --- |
+| Nazi Zombies: Portable | 01/07/2026 | 2.0.0 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable) | ??? |
