@@ -37,4 +37,4 @@ improved instructions/directions. Expect this readme to expand over time.
 ### PC
 Game | Version | Last Updated? | Link | Instructions need updating? |
 | --- | --- | --- | --- | --- |
-| Nazi Zombies: Portable | 01/07/2026 | 2.0.0 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable) | ??? |
+| Nazi Zombies: Portable | 2.0.0 | 01/07/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable) | ??? |
