@@ -51,7 +51,7 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Android
 | Game | Version | Last Updated? | Link | Instructions need updating? |
 | --- | --- | --- | --- | --- |
-| Adventures of Mana | ? | ? | [Nagaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | ? |
+| Adventures of Mana | ? | ? | [Nagaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [GBATemp Thread](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) |
 | After Burner Climax | ? | ? | [Nagaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | ? |
 | Angry Birds Classic | ? | ? | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | ? |
 | Bad Piggies | ? | ? | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | ? |
