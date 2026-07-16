@@ -54,7 +54,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Adventures of Mana | 1.0.2 | 30/06/2026 | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx/) | ??? |
 | Castle of Illusion | 1.0.0 | 30/06/2026 | [NaGaa95/coi_nx](https://github.com/NaGaa95/coi_nx/) | ??? |
 | Castlevania: Symphony of the Night | 1.0.2 | 06/07/2026 | [NaGaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx/) | ??? |
-| Chrono Trigger | *unreleased* | 07/07/2026 | [ppkantorski/ct_nx](https://github.com/ppkantorski/ct_nx/) | [Current build, state of affairs](https://gbatemp.net/threads/chrono-trigger-switch-port.682630/page-6#post-10881303) |
+| Chrono Trigger | *unreleased* | 07/07/2026 | [Nagaa/ct_nx](https://github.com/NaGaa95/ct_nx/) | [Current build, state of affairs](https://gbatemp.net/threads/chrono-trigger-switch-port.682630/page-6#post-10881303) |
 | Counter Strike: Source | 1.0.0 | 07/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx/) | ??? |
 | Half Life 2 | 1.0.2 | 01/07/2026 | [NaGaa95/hl2_nx](https://github.comNaGaa95/hl2_nx/) | ??? |
 
