@@ -114,5 +114,4 @@ Game | Version | Last Updated? | Link | Instructions need updating? |
 | Silent Hill | ? | ? | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/releases) | ??? |
 | Sonic 2006 (MarathonRecomp) | ? | ? | [Nagaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | ??? |
 | Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | ??? |
-| Sonic Unleashed (UnleashedRecomp) | ? | ? | [Nagaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX) | ??? |
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | ??? |
