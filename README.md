@@ -24,11 +24,11 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Nintendo 64
 | Game | Version | Last Updated? | Link | Instructions need updating? |  
 | --- | --- | --- | --- | --- |
-| LoZ: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | ??? |
-| LoZ: Ocarina of Time | 8.0.6 | 12/08/2024 | [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright/) | ??? |
-| Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | ??? |
-| Perfect Dark | ??? | 29/05/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | ??? |
-| StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | ??? |
+| LoZ: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [???](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) |
+| LoZ: Ocarina of Time | 8.0.6 | 12/08/2024 | [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright/) | [???](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) |
+| Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [???](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) |
+| Perfect Dark | ??? | 29/05/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [???](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) |
+| StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [???](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) |
 | Super Mario 64 | *unreleased* | 08/07/2026 | [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex/) | [My Switch Port Repo](https://github.com/robzilla10001/mspr/) |
 
 ### Gameboy  
@@ -46,7 +46,7 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Xbox 360
 | Game | Version | Last Updated? | Link | Instructions need updating? |
 | --- | --- | --- | --- | --- |
-| Sonic Unleashed | 0.0.2 | 04/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | ??? |
+| Sonic Unleashed | 0.0.2 | 04/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [???](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) |
 
 ### Android
 | Game | Version | Last Updated? | Link | Instructions need updating? |
