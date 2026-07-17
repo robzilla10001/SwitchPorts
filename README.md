@@ -63,11 +63,11 @@ improved instructions/directions. Expect this readme to expand over time.
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |  
 
-### Gameboy Color  
+### Gameboy Advance  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |  
 
-### Gameboy Advance  
+### Gameboy Color  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |  
 
