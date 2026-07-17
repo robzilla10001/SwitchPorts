@@ -11,46 +11,6 @@ improved instructions/directions. Expect this readme to expand over time.
 
 ## List (perpetual WIP)
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
-### Nintendo Enterntainment System  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |
-
-### Super Nintendo Entertainment System
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |
-| Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) / [GBATemp](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | [Link](https://github.com/snesrev/sm/blob/main/BUILDING.md) | ??? |  
-| LoZ: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | Link | No |
-
-### Nintendo 64
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |
-| LoZ: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) | ??? |  
-| LoZ: Ocarina of Time | 8.0.6 | 12/08/2024 | [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) | ??? |  
-| Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [Link](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) | ??? |  
-| Perfect Dark | Link | 29/05/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) | ??? |  
-| StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
-| Super Mario 64 | *unreleased* | 08/07/2026 | [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex/) | [Link]() | ??? |  
-
-### Gameboy  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  
-
-### Gameboy Color  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  
-
-### Gameboy Advance  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  
-
-### Playstation
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
-| --- | --- | --- | --- | --- | --- |  
-
-### Xbox 360
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  
-| Sonic Unleashed | 0.0.2 | 04/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | ??? |  
 
 ### Android
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
@@ -99,6 +59,32 @@ improved instructions/directions. Expect this readme to expand over time.
 | Very Little Nightmares | ? | ? | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | Link | ??? |  
 | ZOOKEEPER DX | ? | ? | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | Link | ??? |  
 
+### Gameboy  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |  
+
+### Gameboy Color  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |  
+
+### Gameboy Advance  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |  
+
+### Nintendo 64
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |
+| LoZ: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) | ??? |  
+| LoZ: Ocarina of Time | 8.0.6 | 12/08/2024 | [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) | ??? |  
+| Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [Link](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) | ??? |  
+| Perfect Dark | Link | 29/05/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) | ??? |  
+| StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
+| Super Mario 64 | *unreleased* | 08/07/2026 | [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex/) | [Link]() | ??? |  
+
+### Nintendo Enterntainment System  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |
+
 ### PC
 Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |
@@ -120,3 +106,18 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Sonic 2006 (MarathonRecomp) | ? | ? | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | Link | ??? |  
 | Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | Link | ??? |  
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | Link | ??? |  
+
+### Playstation
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| --- | --- | --- | --- | --- | --- |  
+
+### Super Nintendo Entertainment System
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |
+| Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) / [GBATemp](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | [Link](https://github.com/snesrev/sm/blob/main/BUILDING.md) | ??? |  
+| LoZ: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | Link | No |
+
+### Xbox 360
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| --- | --- | --- | --- | --- | --- |  
+| Sonic Unleashed | 0.0.2 | 04/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | ??? |  
