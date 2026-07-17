@@ -18,33 +18,34 @@ improved instructions/directions. Expect this readme to expand over time.
 | Adventures of Mana | ? | ? | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | ??? |  
 | After Burner Climax | ? | ? | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
 | Angry Birds Classic | ? | ? | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | Link | ??? |  
-| Bad Piggies | ? | ? | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | Link | ??? |  
-| Bloons TD 5 Mobile | ? | ? | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | Link | ??? |  
-| Burger Shop 2 | ? | ? | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | Link | ??? |  
+| Bad Piggies | ? | ? | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
+| Bloons TD 5 Mobile | ? | ? | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
+| Burger Shop 2 | ? | ? | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | [Link](https://gbatemp.net/threads/burger-shop-2-switch-port.682912/) | ??? |  
 | Burger Shop | ? | ? | [ChanseyIsTheBest/burgershop_nx](https://github.com/ChanseyIsTheBest/burgershop_nx) | Link | ??? |  
-| Castle of Illusion | ? | ? | [NaGaa95/coi_nx](https://github.com/NaGaa95/coi_nx) | Link | ??? |  
+| Castle of Illusion | ? | ? | [NaGaa95/coi_nx](https://github.com/NaGaa95/coi_nx) | [Link](https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/) | ??? |  
 | Castlevania Symphony of the Night | ? | ? | [NaGaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx) | [Link](https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/) | ??? |  
-| Chaos Rings III | ? | ? | [NaGaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | Link | ??? |  
+| Chaos Rings III | ? | ? | [NaGaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | [Link](https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/) | ??? |  
 | Chrono Trigger | ? | ? | [NaGaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | Link | ??? |  
-| Color Sheep | ? | ? | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | Link | ??? |  
-| Counter Strike Source | ? | ? | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | Link | ??? |  
-| Crazy Taxi | ? | ? | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | Link | ??? |  
+| Color Sheep | ? | ? | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | ??? |  
+| Counter Strike Source | ? | ? | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
+| Crazy Taxi | ? | ? | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
 | Final Fantasy Dimension II | ? | ? | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
-| Final Fantasy Dimensions | ? | ? | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | Link | ??? |  
+| Final Fantasy Dimensions | ? | ? | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
 | Final Fantasy III 3D Remake | ? | ? | [NaGaa95/ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | Link | ??? |  
-| Final Fantasy IV 3D Remake | ? | ? | [NaGaa95/ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | Link | ??? |  
+| Final Fantasy IV 3D Remake | ? | ? | [NaGaa95/ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/) | ??? |  
+| | ? | ? | [GlitchedDeveloper/ff4_nx](https://github.com/GlitchedDeveloper/ff4_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.683136/) | ??? |
 | Final Fantasy IV The After Years | ? | ? | [NaGaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | Link | ??? |  
-| Geometry Dash | ? | ? | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | Link | ??? |  
+| Geometry Dash | ? | ? | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | [Link](https://gbatemp.net/threads/geometry-dash-switch-port.682926/) | ??? |  
 | Grand Theft Auto Chinatown Wars | ? | ? | [NaGaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | Link | ??? |  
-| Grand Theft Auto San Andreas | ? | ? | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | Link | ??? |  
-| Grand Theft Auto Liberity City Stories | ? | ? | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | Link | ??? |  
-| Half Life 2 | ? | ? | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | Link | ??? |  
+| Grand Theft Auto San Andreas | ? | ? | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | [Link](https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/) | ??? |  
+| Grand Theft Auto Liberity City Stories | ? | ? | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | [Link](https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/) | ??? |  
+| Half Life 2 | ? | ? | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | [Link](https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread) | ??? |  
 | Kingdom Hearts Union χ Dark Road | ? | ? | [NaGaa95/](https://github.com/NaGaa95/KHUx_nx) | [Link](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) | ??? |  
-| Layton Brothers Mystery Room | ? | ? | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | Link | ??? |  
+| Layton Brothers Mystery Room | ? | ? | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | [Link](https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/) | ??? |  
 | LEGO Batman Beyond Gotham | ? | ? | [NaGaa95/lbbg_nx](https://github.com/NaGaa95/lbbg_nx) | Link | ??? |  
 | LEGO Batman DC Super Heroes | ? | ? | [NaGaa95/lbdcsh_nx](https://github.com/NaGaa95/lbdcsh_nx) | Link | ??? |  
 | LEGO Ninjago Shadow of Ronin | ? | ? | [NaGaa95/lnsor_nx](https://github.com/NaGaa95/lnsor_nx) | [Link](https://gbatemp.net/threads/lego-ninjago-shadow-of-ronin-switch-port.682953/) | ??? |  
-| LEGO Star Wars The Complete Saga | ? | ? | [NaGaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) | Link | ??? |  
+| LEGO Star Wars The Complete Saga | ? | ? | [NaGaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-complete-saga-switch-port.682412/) | ??? |  
 | LEGO Star Wars The Force Awakens | ? | ? | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | Link | ??? |  
 | Max Payne | ? | ? | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | Link | ??? |  
 | NBA Jam | ? | ? | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | ??? |  
@@ -56,8 +57,8 @@ improved instructions/directions. Expect this readme to expand over time.
 | Stick With It | ? | ? | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | Link | ??? |  
 | Swordigo | ? | ? | [NaGaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | Link | ??? |  
 | Team Fortress 2 ReClassic | ? | ? | [NaGaa95/tf2_nx](https://github.com/NaGaa95/tf2_nx) | Link | ??? |  
-| Very Little Nightmares | ? | ? | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | Link | ??? |  
-| ZOOKEEPER DX | ? | ? | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | Link | ??? |  
+| Very Little Nightmares | ? | ? | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |  
+| ZOOKEEPER DX | ? | ? | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
 
 ### Gameboy  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
@@ -103,13 +104,14 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Nazi Zombies: Portable | 2.0.0 | 01/07/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | Link | ??? |  
 | The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | Link | ??? |  
 | Silent Hill | ? | ? | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/releases) | Link | ??? |  
-| Sonic 2006 (MarathonRecomp) | ? | ? | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | Link | ??? |  
+| Sonic 2006 (MarathonRecomp) | ? | ? | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | ??? |  
 | Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | Link | ??? |  
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | Link | ??? |  
 
 ### Playstation
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- |  
+| Lain | ? | ? | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) | ??? |
 
 ### Super Nintendo Entertainment System
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
