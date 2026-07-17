@@ -51,47 +51,48 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Android
 | Game | Version | Last Updated? | Link | Instructions need updating? |
 | --- | --- | --- | --- | --- |
-| Adventures of Mana | ? | ? | [Nagaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [GBATemp Thread](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) |
-| After Burner Climax | ? | ? | [Nagaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | ? |
+| Adventures of Mana | ? | ? | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [GBATemp Thread](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) |
+| After Burner Climax | ? | ? | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | ? |
 | Angry Birds Classic | ? | ? | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | ? |
 | Bad Piggies | ? | ? | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | ? |
 | Bloons TD 5 Mobile | ? | ? | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | ? |
 | Burger Shop 2 | ? | ? | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | ? |
 | Burger Shop | ? | ? | [ChanseyIsTheBest/burgershop_nx](https://github.com/ChanseyIsTheBest/burgershop_nx) | ? |
-| Castle of Illusion | ? | ? | [Nagaa95/coi_nx](https://github.com/NaGaa95/coi_nx) | ? |
-| Castlevania Symphony of the Night | ? | ? | [Nagaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx) | ? |
-| Chaos Rings III | ? | ? | [Nagaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | ? |
-| Chrono Trigger | ? | ? | [Nagaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | ? |
+| Castle of Illusion | ? | ? | [NaGaa95/coi_nx](https://github.com/NaGaa95/coi_nx) | ? |
+| Castlevania Symphony of the Night | ? | ? | [NaGaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx) | ? |
+| Chaos Rings III | ? | ? | [NaGaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | ? |
+| Chrono Trigger | ? | ? | [NaGaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | ? |
 | Color Sheep | ? | ? | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | ? |
-| Counter Strike Source | ? | ? | [Nagaa95/css_nx](https://github.com/NaGaa95/css_nx) | ? |
+| Counter Strike Source | ? | ? | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | ? |
 | Crazy Taxi | ? | ? | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | ? |
-| Final Fantasy Dimension II | ? | ? | [Nagaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | ? |
-| Final Fantasy Dimensions | ? | ? | [Nagaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | ? |
-| Final Fantasy III 3D Remake | ? | ? | [Nagaa95/ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | ? |
-| Final Fantasy IV 3D Remake | ? | ? | [Nagaa95/ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | ? |
-| Final Fantasy IV The After Years | ? | ? | [Nagaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | ? |
-| Geometry Dash | ? | ? | [Nagaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | ? |
-| Grand Theft Auto Chinatown Wars | ? | ? | [Nagaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | ? |
-| Grand Theft Auto San Andreas | ? | ? | [Nagaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | ? |
-| Grand Theft Auto Liberity City Stories | ? | ? | [Nagaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | ? |
-| Half Life 2 | ? | ? | [Nagaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | ? |
-| Layton Brothers Mystery Room | ? | ? | [Nagaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | ? |
-| LEGO Batman Beyond Gotham | ? | ? | [Nagaa95/lbbg_nx](https://github.com/NaGaa95/lbbg_nx) | ? |
-| LEGO Batman DC Super Heroes | ? | ? | [Nagaa95/lbdcsh_nx](https://github.com/NaGaa95/lbdcsh_nx) | ? |
-| LEGO Ninjago Shadow of Ronin | ? | ? | [Nagaa95/lnsor_nx](https://github.com/NaGaa95/lnsor_nx) | ? |
-| LEGO Star Wars The Complete Saga | ? | ? | [Nagaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) | ? |
-| LEGO Star Wars The Force Awakens | ? | ? | [Nagaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | ? |
-| Max Payne | ? | ? | [Nagaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | ? |
+| Final Fantasy Dimension II | ? | ? | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | ? |
+| Final Fantasy Dimensions | ? | ? | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | ? |
+| Final Fantasy III 3D Remake | ? | ? | [NaGaa95/ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | ? |
+| Final Fantasy IV 3D Remake | ? | ? | [NaGaa95/ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | ? |
+| Final Fantasy IV The After Years | ? | ? | [NaGaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | ? |
+| Geometry Dash | ? | ? | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | ? |
+| Grand Theft Auto Chinatown Wars | ? | ? | [NaGaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | ? |
+| Grand Theft Auto San Andreas | ? | ? | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | ? |
+| Grand Theft Auto Liberity City Stories | ? | ? | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | ? |
+| Half Life 2 | ? | ? | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | ? |
+| Kingdom Hearts Union χ Dark Road | ? | ? | [NaGaa95/](https://github.com/NaGaa95/KHUx_nx) | [???](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) |
+| Layton Brothers Mystery Room | ? | ? | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | ? |
+| LEGO Batman Beyond Gotham | ? | ? | [NaGaa95/lbbg_nx](https://github.com/NaGaa95/lbbg_nx) | ? |
+| LEGO Batman DC Super Heroes | ? | ? | [NaGaa95/lbdcsh_nx](https://github.com/NaGaa95/lbdcsh_nx) | ? |
+| LEGO Ninjago Shadow of Ronin | ? | ? | [NaGaa95/lnsor_nx](https://github.com/NaGaa95/lnsor_nx) | ? |
+| LEGO Star Wars The Complete Saga | ? | ? | [NaGaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) | ? |
+| LEGO Star Wars The Force Awakens | ? | ? | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | ? |
+| Max Payne | ? | ? | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | ? |
 | NBA Jam | ? | ? | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | ? |
-| Professor Layton Curious Village HD | ? | ? | [Nagaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | ? |
-| Professor Layton Lost Hope HD | ? | ? | [Nagaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | ? |
-| Professor Layton Pandora's Box HD | ? | ? | [Nagaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | ? |
+| Professor Layton Curious Village HD | ? | ? | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | ? |
+| Professor Layton Lost Hope HD | ? | ? | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | ? |
+| Professor Layton Pandora's Box HD | ? | ? | [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | ? |
 | Sonic 4 Episode 2 | ? | ? | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | ? |
 | Sonic Triple Trouble 16-bit | ? | ? | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | ? |
 | Stick With It | ? | ? | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | ? |
-| Swordigo | ? | ? | [Nagaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | ? |
-| Team Fortress 2 ReClassic | ? | ? | [Nagaa95/tf2_nx](https://github.com/NaGaa95/tf2_nx) | ? |
-| Very Little Nightmares | ? | ? | [Nagaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | ? |
+| Swordigo | ? | ? | [NaGaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | ? |
+| Team Fortress 2 ReClassic | ? | ? | [NaGaa95/tf2_nx](https://github.com/NaGaa95/tf2_nx) | ? |
+| Very Little Nightmares | ? | ? | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | ? |
 | ZOOKEEPER DX | ? | ? | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | ? |
 
 ### PC
@@ -104,7 +105,7 @@ Game | Version | Last Updated? | Link | Instructions need updating? |
 | Driver 2 (REDRIVER2) | ? | ? | [jamyaro/REDRIVER2-switch](https://github.com/jamyaro/REDRIVER2-switch) | ??? |
 | Fallout CE | 1.1.0 | 21/05/2026 | [ryandeering/fallout-ce-switch](https://github.com/ryandeering/fallout-ce-switch/) | ??? |
 | Fallout 2 CE | 1.1.1 | 21/05/2026 | [ryandeering/fallou2-ce-switch](https://github.com/ryandeering/fallout2-ce-switch/) | ??? |
-| Freespace 2 | ? | ? | [Nagaa95/freespace2_nx](https://github.com/NaGaa95/freespace2_nx) | ??? |
+| Freespace 2 | ? | ? | [NaGaa95/freespace2_nx](https://github.com/NaGaa95/freespace2_nx) | ??? |
 | Half Life | 4109 | 01/07/2026 | [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs/) | ??? |
 | Heroes of Might & Magic II | 1.1.17 | 30/06/2026 | [ihhub/fheroes2](https://github.com/ihhub/fheroes2/) | ??? |
 | Heroes of Might & Magic III | 1.8.0 R2 | 06/07/2026 | [NaGaa95/vcmi_nx](https://github.com/NaGaa95/vcmi_nx/) | ??? |
@@ -112,6 +113,6 @@ Game | Version | Last Updated? | Link | Instructions need updating? |
 | Nazi Zombies: Portable | 2.0.0 | 01/07/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | ??? |
 | The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | ??? |
 | Silent Hill | ? | ? | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/releases) | ??? |
-| Sonic 2006 (MarathonRecomp) | ? | ? | [Nagaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | ??? |
+| Sonic 2006 (MarathonRecomp) | ? | ? | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | ??? |
 | Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | ??? |
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | ??? |
