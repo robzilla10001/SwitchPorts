@@ -46,11 +46,11 @@ improved instructions/directions. Expect this readme to expand over time.
 | LEGO Batman DC Super Heroes | ? | ? | [NaGaa95/lbdcsh_nx](https://github.com/NaGaa95/lbdcsh_nx) | Link | ??? |  
 | LEGO Ninjago Shadow of Ronin | ? | ? | [NaGaa95/lnsor_nx](https://github.com/NaGaa95/lnsor_nx) | [Link](https://gbatemp.net/threads/lego-ninjago-shadow-of-ronin-switch-port.682953/) | ??? |  
 | LEGO Star Wars The Complete Saga | ? | ? | [NaGaa95/lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-complete-saga-switch-port.682412/) | ??? |  
-| LEGO Star Wars The Force Awakens | ? | ? | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | Link | ??? |  
+| LEGO Star Wars The Force Awakens | 1.0.1 | 30/06/2026 | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/) | ??? |  
 | Max Payne | ? | ? | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | Link | ??? |  
 | NBA Jam | ? | ? | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | ??? |  
 | Professor Layton Curious Village HD | ? | ? | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | Link | ??? |  
-| Professor Layton Lost Hope HD | ? | ? | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | Link | ??? |  
+| Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | ??? |  
 | Professor Layton Pandora's Box HD | ? | ? | [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | Link | ??? |  
 | Sonic 4 Episode 2 | ? | ? | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | Link | ??? |  
 | Sonic Triple Trouble 16-bit | ? | ? | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | Link | ??? |  
@@ -85,7 +85,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [Link](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) | ??? |  
 | Perfect Dark | Link | 29/05/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) | ??? |  
 | StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
-| Super Mario 64 | *unreleased* | 08/07/2026 | [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex/) | [Link]() | ??? |  
+| Super Mario 64 | 2.0.0 | 29/05/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) | ??? |  
 
 ### Nintendo Entertainment System  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
@@ -105,7 +105,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Fallout CE | 1.1.0 | 21/05/2026 | [ryandeering/fallout-ce-switch](https://github.com/ryandeering/fallout-ce-switch/) | Link | ??? |  
 | Fallout 2 CE | 1.1.1 | 21/05/2026 | [ryandeering/fallou2-ce-switch](https://github.com/ryandeering/fallout2-ce-switch/) | Link | ??? |  
 | Freespace 2 | ? | ? | [NaGaa95/freespace2_nx](https://github.com/NaGaa95/freespace2_nx) | Link | ??? |  
-| Half Life | 4109 | 01/07/2026 | [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs/) | Link | ??? |  
+| Half Life | 4109 | 01/07/2026 | [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs/) | [Link](https://gbatemp.net/threads/xash3d-half-life-custom-goldsrc-engine-for-switch.522848/) | ??? |  
 | Heroes of Might & Magic II | 1.1.17 | 30/06/2026 | [ihhub/fheroes2](https://github.com/ihhub/fheroes2/) | Link | ??? |  
 | Heroes of Might & Magic III | 1.8.0 R2 | 06/07/2026 | [NaGaa95/vcmi_nx](https://github.com/NaGaa95/vcmi_nx/) | Link | ??? |  
 | Jazz Jackrabbit (OpenJazz) | 1.2.1 | 18/09/2019 | [KranKRival/OpenJazzNX](https://github.com/KranKRival/OpenJazzNX?) | [Link](https://gbatemp.net/threads/openjazznx-openjazz-port-with-sdl2-for-the-nintendo-switch.546759/) | ??? |  
