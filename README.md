@@ -18,6 +18,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Adventures of Mana | 1.0.3 | 14/07/2026 | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | ??? |  
 | After Burner Climax | 1.0.0 | 06/07/2026 | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
 | Angry Birds Classic | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | [Link](https://gbatemp.net/threads/angry-birds-classic-switch-port.682955/) | ??? |  
+| Animal Crossing: Pocket Camp | 1.0.0 | 20/07/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | ??? |
 | Bad Piggies | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
 | Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
 | Burger Shop 2 | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | [Link](https://gbatemp.net/threads/burger-shop-2-switch-port.682912/) | ??? |  
@@ -49,6 +50,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | LEGO Star Wars The Force Awakens | 1.0.1 | 30/06/2026 | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/) | ??? |  
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) | ??? |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | ??? |  
+| Plants vs. Zombies: Fusion | 1.0.0 | 20/07/2026 | [ChanseyIsTheBest/pvz_fusion_en_nx](https://github.com/ChanseyIsTheBest/pvz_fusion_en_nx) | [Link](https://gbatemp.net/threads/plants-vs-zombies-fusion-switch-port.683213/) | ??? |
 | Professor Layton Curious Village HD | 1.0.4 | 29/06/2026 | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | [Link](https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/) | ??? |  
 | Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | ??? |  
 | Professor Layton Pandora's Box HD | 1.0.2 | 29/06/2026 | [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | [Link](https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/) | ??? |  
@@ -116,6 +118,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Sonic 2006 (MarathonRecomp) | ? | ? | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | ??? |  
 | Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | Link | ??? |  
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | [Link](https://gbatemp.net/threads/space-cadet-pinball-switch-port.601370/) | ??? |  
+| Touhou 6: Embodiment of the Scarlet Devil | *released* | 01/07/2026 | [Swiizyu/th06-switch](https://github.com/Swiizyu/th06-switch) | [Link](https://gbatemp.net/threads/touhou-6-switch-port.682936/) | ??? |  
 | XCOM (OpenXcom) | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | ??? |  
 
 ### Playstation
