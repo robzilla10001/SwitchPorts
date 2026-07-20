@@ -15,12 +15,12 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Android
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- |
-| Adventures of Mana | ? | ? | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | ??? |  
-| After Burner Climax | ? | ? | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
-| Angry Birds Classic | ? | ? | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | Link | ??? |  
-| Bad Piggies | ? | ? | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
-| Bloons TD 5 Mobile | ? | ? | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
-| Burger Shop 2 | ? | ? | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | [Link](https://gbatemp.net/threads/burger-shop-2-switch-port.682912/) | ??? |  
+| Adventures of Mana | 1.0.3 | 14/07/2026 | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | ??? |  
+| After Burner Climax | 1.0.0 | 06/07/2026 | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
+| Angry Birds Classic | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | Link | ??? |  
+| Bad Piggies | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
+| Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
+| Burger Shop 2 | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | [Link](https://gbatemp.net/threads/burger-shop-2-switch-port.682912/) | ??? |  
 | Burger Shop | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/burgershop_nx](https://github.com/ChanseyIsTheBest/burgershop_nx) | [Link](https://gbatemp.net/threads/burger-shop-switch-port.682910/) | ??? |  
 | Castle of Illusion | ? | ? | [NaGaa95/coi_nx](https://github.com/NaGaa95/coi_nx) | [Link](https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/) | ??? |  
 | Castlevania Symphony of the Night | ? | ? | [NaGaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx) | [Link](https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/) | ??? |  
