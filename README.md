@@ -62,7 +62,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Very Little Nightmares | 1.0.1 | 15/07/2026 | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |  
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
 
-### Gameboy  
+<!--### Gameboy  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |  
 
@@ -72,7 +72,7 @@ improved instructions/directions. Expect this readme to expand over time.
 
 ### Gameboy Color  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  
+| --- | --- | --- | --- | --- | --- |  -->
 
 ### GameCube
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
@@ -89,9 +89,9 @@ improved instructions/directions. Expect this readme to expand over time.
 | StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
 | Super Mario 64 | 2.0.0 | 29/05/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) | ??? |  
 
-### Nintendo Entertainment System  
+<!--### Nintendo Entertainment System  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | -->
 
 ### PC
 Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
