@@ -26,7 +26,8 @@ improved instructions/directions. Expect this readme to expand over time.
 | Castle of Illusion | 1.0.1 | 14/07/2026 | [NaGaa95/coi_nx](https://github.com/NaGaa95/coi_nx) | [Link](https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/) | ??? |  
 | Castlevania Symphony of the Night | 1.0.2 | 05/07/2026 | [NaGaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx) | [Link](https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/) | ??? |  
 | Chaos Rings III | 1.0.1 | 28/06/2026 | [NaGaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | [Link](https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/) | ??? |  
-| Chrono Trigger | 1.1.0 | 13/07/2026 | [NaGaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | Link | ??? |  
+| Chrono Trigger | 1.1.0 | 13/07/2026 | [NaGaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | [Link](https://gbatemp.net/threads/chrono-trigger-switch-port.682630/) | ??? |
+| CloverPit | 1.0.0 | 24/07/2026 | [ChanseyIsTheBest/cloverpit_nx](https://github.com/ChanseyIsTheBest/cloverpit_nx) | [Link](https://gbatemp.net/threads/cloverpit-switch-port.683303/#post-10887272)
 | Color Sheep | 1.0.1 | 18/07/2026 | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | ??? |  
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
@@ -60,7 +61,8 @@ improved instructions/directions. Expect this readme to expand over time.
 | Super Mario World Remastered Plus | *released* | 19/07/2026 | [delsonazevedo/Super-Mario-World-Remastered-Plus-Switch](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-3#post-10885621) | ??? |  
 | Swordigo | 1.0.1 | 14/07/2026 | [NaGaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678) | ??? |  
 | Team Fortress 2 ReClassic | 1.0.0 | 26/06/2026 | [NaGaa95/tf2_nx](https://github.com/NaGaa95/tf2_nx) | [Link](https://gbatemp.net/threads/team-fortress-2-switch-port.682734/) | ??? |  
-| Very Little Nightmares | 1.0.1 | 15/07/2026 | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |  
+| Very Little Nightmares | 1.0.1 | 15/07/2026 | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |
+| Ys Chronicles 1 | 1.0.0 | 24/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ???
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
 
 <!--### Gameboy  
