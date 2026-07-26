@@ -67,18 +67,10 @@ improved instructions/directions. Expect this readme to expand over time.
 | Ys Chronicles 1 | 1.0.0 | 24/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ???
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
 
-<!-### Gameboy  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  
-
 ### Gameboy Advance  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: The Minish Cap | v0.25 | 04/06/2026 | [HayatoG/tmc](https://github.com/HayatoG/tmc) | Link | ??? |
-
-<!-### ### Gameboy Color  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  -->
 
 ### GameCube
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
