@@ -62,7 +62,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Super Mario World Remastered Plus | *released* | 19/07/2026 | [delsonazevedo/Super-Mario-World-Remastered-Plus-Switch](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-3#post-10885621) | ??? |  
 | Swordigo | 1.0.1 | 14/07/2026 | [NaGaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678) | ??? |  
 | Team Fortress 2 ReClassic | 1.0.0 | 26/06/2026 | [NaGaa95/tf2_nx](https://github.com/NaGaa95/tf2_nx) | [Link](https://gbatemp.net/threads/team-fortress-2-switch-port.682734/) | ??? |
-| Valkyrie Profile Lenneth | 1.0.0 | 25/06/2026 | [delsonazevedo/vpl_nx](https://github.com/delsonazevedo/vpl_nx] | [Link] | ??? |
+| Valkyrie Profile Lenneth | 1.0.0 | 25/06/2026 | [delsonazevedo/vpl_nx](https://github.com/delsonazevedo/vpl_nx) | [Link] | ??? |
 | Very Little Nightmares | 1.0.1 | 15/07/2026 | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |
 | Ys Chronicles 1 | 1.0.0 | 24/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ???
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
