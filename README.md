@@ -69,7 +69,8 @@ improved instructions/directions. Expect this readme to expand over time.
 
 <!--### Gameboy
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
-| --- | --- | --- | --- | --- | --- |  -->  
+| --- | --- | --- | --- | --- | --- |
+-->  
 
 ### Gameboy Color
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
