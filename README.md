@@ -67,6 +67,11 @@ improved instructions/directions. Expect this readme to expand over time.
 | Ys Chronicles 1 | 1.0.0 | 24/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ???
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
 
+### PC
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| --- | --- | --- | --- | --- | --- |
+| 0 A.D. | 0.28.0 | WIP | [souldbminer/0ad-switch](https://github.com/souldbminerr/0ad-switch) | Link | ??? |   
+
 <!--### Gameboy
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |
