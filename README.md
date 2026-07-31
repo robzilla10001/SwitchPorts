@@ -12,6 +12,11 @@ improved instructions/directions. Expect this readme to expand over time.
 ## List (perpetual WIP)
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
 
+### Emulators
+| System | Title | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| --- | --- | --- | --- | --- | --- | --- |
+| PSP | PPSSPP Switch Community Build | 0.6.0 | 31/07/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | Link | ??? |   
+
 ### Android
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- |
