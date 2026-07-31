@@ -15,8 +15,13 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Emulators
 | System | Title | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- | --- |
+| MULTI | Tico | 0.7.8 | 26/07/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | ??? |  
 | NDS | DrasticDS | 1.0.6 | 27/07/2026 | [NaGaa95/DrasticDS_nx](https://github.com/NaGaa95/DrasticDS_nx) | [Link](https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/) | ??? |  
+| NGC | Dolphin | 1.0.0 | 26/07/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) | ??? |  
+| PS2 | NetherSX2 | 1.2.1 | 26/07/2026 | [NaGaa95/NetherSX2_nx](https://github.com/NaGaa95/NetherSX2_nx) | [Link](https://gbatemp.net/threads/nethersx2-switch-port.683038/) | ??? |  
+| PS2 | ARMSX2 | 2.0.0 | 08/07/2026 | [PalindromicBreadLoaf/ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) | [Link](https://gbatemp.net/threads/armsx2-nx-initial-release.682645/) | ??? |  
 | PSP | PPSSPP Switch Community Build | 0.6.0 | 31/07/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | Link | ??? |   
+| WIIU | Cemu | 1.1.0 | 28/07/2026 | [NaGaa95/Cemu-nx](https://github.com/NaGaa95/Cemu-nx) | [Link](https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/) | ??? |  
 
 ### Android
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
