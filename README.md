@@ -15,6 +15,7 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Emulators
 | System | Title | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- | --- |
+| NDS | DrasticDS | 1.0.6 | 27/07/2026 | [NaGaa95/DrasticDS_nx](https://github.com/NaGaa95/DrasticDS_nx) | [Link](https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/) | ??? |  
 | PSP | PPSSPP Switch Community Build | 0.6.0 | 31/07/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | Link | ??? |   
 
 ### Android
