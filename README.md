@@ -32,6 +32,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Adventures of Mana | 1.0.3 | 14/07/2026 | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | ??? |  
 | After Burner Climax | 1.0.0 | 06/07/2026 | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
 | Angry Birds Classic | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | [Link](https://gbatemp.net/threads/angry-birds-classic-switch-port.682955/) | ??? |  
+| Angry Birds 2 | 1.0.1 | 02/08/2026 | [NaGaa95/angrybirds2_nx](https://github.com/NaGaa95/angrybirds2_nx) | [Link](https://gbatemp.net/threads/angry-birds-2-switch-port.683461/) | ??? |  
 | Animal Crossing: Pocket Camp | 1.0.0 | 20/07/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | ??? |
 | Bad Piggies | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
 | Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
@@ -107,6 +108,7 @@ improved instructions/directions. Expect this readme to expand over time.
 ### Nintendo 64
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |
+| Banjo Kazooie | 1.0.1 | 01/08/2026 | [PalindromicBreadLoaf/Docklight](https://github.com/PalindromicBreadLoaf/Docklight) | [Link](https://gbatemp.net/threads/docklight-a-port-of-lighthouse-to-the-nintendo-switch.683488/) | ??? |  
 | The Legend of Zelda: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) | ??? |  
 | The Legened of Zelda: Ocarina of Time | 8.0.6 | 12/08/2024 | [timschneeb/Shipwright-Switch](https://github.com/timschneeb/Shipwright-Switch/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) | ??? |  
 | Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [Link](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) | ??? |  
