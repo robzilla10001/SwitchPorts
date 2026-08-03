@@ -129,7 +129,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Command & Conquer / Red Alert | 0.6 | 01/01/2021 | [capsterx-switch](https://github.com/capsterx-switch/Vanilla-Conquer/) | [Link](https://gbatemp.net/threads/c-c-vanilla-conquer.579074/) | ??? |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/) | ??? |  
 | Dethrace (Carmageddon) | 1.1 | 01/05/2025 | [alexart878/dethrace-switch](https://github.com/alexart878/dethrace-switch) | [Link](https://gbatemp.net/threads/dethrace-nx.670358/) | ??? | 
-| Diablo (DevilutionX) | 0.95b | 14/07/2019 | [lantas/devilution-nx](https://github.com/lantus/devilution-nx/releases) | [Link](https://gbatemp.net/threads/diablo-nx-nintendo-switch-port-of-devilutionx-diablo.542414/) | ??? |  
+| Diablo (DevilutionX) | 0.95b | 14/07/2019 | [lantas/devilution-nx](https://github.com/lantus/devilution-nx/) | [Link](https://gbatemp.net/threads/diablo-nx-nintendo-switch-port-of-devilutionx-diablo.542414/) | ??? |  
 | ~~Diablo III~~ | ~~3.1~~ | ~~09/02/2026~~ | [~~god-jester/d3hack~~](https://github.com/god-jester/d3hack/) | ~~[Link](https://gbatemp.net/threads/d3hack-diablo-iii-eternal-collection-4k-1440p-1080p-seasonal-events-challenge-rifts-more-mod-menu-v2-7-6.678660/)~~ | Evidently this is a hack, not a port. |  
 | Doom | 1.02 | 26/07/2018 | [lantus/chocolate-doom-nx](https://github.com/lantus/chocolate-doom-nx/) | Link | ??? |  
 | Driver 2 (REDRIVER2) | 0.1.0 | 07/06/2026 | [jamyaro/REDRIVER2-switch](https://github.com/jamyaro/REDRIVER2-switch) | [Link](https://gbatemp.net/threads/redriver2-driver-2-playstation-game-reverse-engineering.682414/) | ??? |  
@@ -143,14 +143,14 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Heroes of Might & Magic III | 1.8.0 R2 | 06/07/2026 | [NaGaa95/vcmi_nx](https://github.com/NaGaa95/vcmi_nx/) | Link | ??? |  
 | Jazz Jackrabbit (OpenJazz) | 1.2.1 | 18/09/2019 | [KranKRival/OpenJazzNX](https://github.com/KranKRival/OpenJazzNX?) | [Link](https://gbatemp.net/threads/openjazznx-openjazz-port-with-sdl2-for-the-nintendo-switch.546759/) | ??? |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | Link | ??? |  
-| Nazi Zombies: Portable | 2.0.0 | 01/07/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | ??? | 
-| Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG](https://github.com/HayatoG/PvZ-Portable/releases/tag/v2026.07.02) | Link | ??? |
+| Nazi Zombies: Portable | 2.0.0 | 03/08/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | ??? | 
+| Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG](https://github.com/HayatoG/PvZ-Portable/) | Link | ??? |
 | The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | Link | ??? |  
-| Silent Hill | 1.0.0 | 30/06/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/releases) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
-| Sonic 2006 (MarathonRecomp) | ? | ? | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | ??? |  
+| Silent Hill | 1.0.0 | 30/06/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
+| Sonic 2006 (MarathonRecomp) | 1.0.2 | 31/07/2026 | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | ??? |  
 | Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | Link | ??? |  
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | [Link](https://gbatemp.net/threads/space-cadet-pinball-switch-port.601370/) | ??? |
-| Starbound (OpenStarbound Mobile) | 1.1 | 26/07/2026 | [RohanBhattacharyya/oSBM](https://github.com/RohanBhattacharyya/oSBM) | Link | ??? |
+| Starbound (OpenStarbound Mobile) | 1.1 | 23/07/2026 | [RohanBhattacharyya/oSBM](https://github.com/RohanBhattacharyya/oSBM) | Link | ??? |
 | Touhou 6: Embodiment of the Scarlet Devil | *released* | 01/07/2026 | [Swiizyu/th06-switch](https://github.com/Swiizyu/th06-switch) | [Link](https://gbatemp.net/threads/touhou-6-switch-port.682936/) | ??? |  
 | XCOM (OpenXcom) | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | ??? |  
 
