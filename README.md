@@ -46,6 +46,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Color Sheep | 1.0.1 | 18/07/2026 | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | ??? |  
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
+| Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
 | Final Fantasy Dimension II | 1.0.1 | 15/07/2026 | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
 | Final Fantasy III 3D Remake | 1.0.0 | 23/06/2026 | [NaGaa95/ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/) | ??? |  
