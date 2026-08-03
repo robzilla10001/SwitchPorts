@@ -4,7 +4,7 @@
 This is intended to be an (ever-growing) list of ports that have been compiled for the Nintendo Switch.
 Obvious requirements to run this software would be that you A.) Have access to a modded Nintendo Switch,
 B.) have access to the source material (all of these projects require commercially acquired assets to 
-make them functional and C.) have a little know how to get everything working. Where applicable, I will
+make them functional) and C.) have a little know how to get everything working. Where applicable, I will
 defer to the projects build notes; however, most of these projects I will attempt to build myself to
 ensure functionality and ease of use. Where I encounter issues, I will attempt to rectify and provide
 improved instructions/directions. Expect this readme to expand over time.
@@ -47,16 +47,16 @@ improved instructions/directions. Expect this readme to expand over time.
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
-| Final Fantasy Dimension II | 1.0.1 | 15/07/2026 | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
+| Final Fantasy Dimension II | 1.0.1 | 15/07/2026 | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
 | Final Fantasy III 3D Remake | 1.0.0 | 23/06/2026 | [NaGaa95/ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/) | ??? |  
 | Final Fantasy IV 3D Remake | 1.0.2 | 29/06/2026 | [NaGaa95/ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/) | ??? |  
 | | 1.0.4 | 24/07/2026 | [GlitchedDeveloper/ff4_nx](https://github.com/GlitchedDeveloper/ff4_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.683136/) | ??? |
 | Final Fantasy IV The After Years | 1.0.1 | 18/06/2026 | [NaGaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/) | ??? |  
 | Geometry Dash | 1.0.1 | 06/07/2026 | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | [Link](https://gbatemp.net/threads/geometry-dash-switch-port.682926/) | ??? |  
 | Grand Theft Auto Chinatown Wars | 1.0.1 | 29/06/2026 | [NaGaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | [Link](https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/) | ??? |  
+| Grand Theft Auto Liberty City Stories | 1.0.3 | 30/06/2026 | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | [Link](https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/) | ??? |  
 | Grand Theft Auto San Andreas | 1.0.2 | 13/07/2026 | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | [Link](https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/) | ??? |  
-| Grand Theft Auto Liberity City Stories | 1.0.3 | 30/06/2026 | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | [Link](https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/) | ??? |  
 | Half Life 2 | 1.0.4 | 03/08/2026 | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | [Link](https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread) | ??? |  
 | Hitman Go | 1.0.0 | 02/08/2026 | [ChanseyIsTheBest/hitmango_nx](https://github.com/ChanseyIsTheBest/hitmango_nx) | [Link](https://gbatemp.net/threads/hitman-go-switch-port.683497/) | ??? |  
 | Kingdom Hearts Union χ Dark Road | 1.0.1 | 03/08/2026 | [NaGaa95/KHUx_nx](https://github.com/NaGaa95/KHUx_nx) | [Link](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) | ??? |  
