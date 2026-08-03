@@ -42,6 +42,7 @@ improved instructions/directions. Expect this readme to expand over time.
 | Castlevania Symphony of the Night | 1.0.2 | 05/07/2026 | [NaGaa95/sotn_nx](https://github.com/NaGaa95/sotn_nx) | [Link](https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/) | ??? |  
 | Chaos Rings III | 1.0.1 | 28/06/2026 | [NaGaa95/cr3_nx](https://github.com/NaGaa95/cr3_nx) | [Link](https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/) | ??? |  
 | Chrono Trigger | 1.1.0 | 13/07/2026 | [NaGaa95/ct_nx](https://github.com/NaGaa95/ct_nx) | [Link](https://gbatemp.net/threads/chrono-trigger-switch-port.682630/) | ??? |
+| Clay Jam Classic | 1.0.0 | 27/07/2026 | [ChanseyIsTheBest/clayjamclassic_nx](https://github.com/ChanseyIsTheBest/clayjamclassic_nx) | [Link](https://gbatemp.net/threads/clay-jam-classic-switch-port.683368/) | ??? |  
 | CloverPit | 1.0.0 | 24/07/2026 | [ChanseyIsTheBest/cloverpit_nx](https://github.com/ChanseyIsTheBest/cloverpit_nx) | [Link](https://gbatemp.net/threads/cloverpit-switch-port.683303/#post-10887272)
 | Color Sheep | 1.0.1 | 18/07/2026 | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | ??? |  
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
