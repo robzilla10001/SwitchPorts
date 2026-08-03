@@ -7,7 +7,8 @@ B.) have access to the source material (all of these projects require commercial
 make them functional) and C.) have a little know how to get everything working. Where applicable, I will
 defer to the projects build notes; however, most of these projects I will attempt to build myself to
 ensure functionality and ease of use. Where I encounter issues, I will attempt to rectify and provide
-improved instructions/directions. Expect this readme to expand over time.
+improved instructions/directions. Expect this readme to expand over time. See [here](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/)
+for the GBATemp thread discussing this topic.
 
 ## List (perpetual WIP)
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
