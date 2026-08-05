@@ -48,6 +48,7 @@ for the GBATemp thread discussing this topic.
 | Color Sheep | 1.0.1 | 18/07/2026 | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | ??? |  
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
+| Deus Ex Go | 1.0.1 | 02/08/2026 | [chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | ??? |
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
 | Final Fantasy Dimension II | 1.0.1 | 15/07/2026 | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
@@ -61,6 +62,7 @@ for the GBATemp thread discussing this topic.
 | Grand Theft Auto San Andreas | 1.0.2 | 13/07/2026 | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | [Link](https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/) | ??? |  
 | Half Life 2 | 1.0.4 | 03/08/2026 | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | [Link](https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread) | ??? |  
 | Hitman Go | 1.0.0 | 02/08/2026 | [ChanseyIsTheBest/hitmango_nx](https://github.com/ChanseyIsTheBest/hitmango_nx) | [Link](https://gbatemp.net/threads/hitman-go-switch-port.683497/) | ??? |  
+| How Many Dudes? | 1.0.0 | 04/08/2026 [boraeskicioglu/hmd_nx](https://github.com/boraeskicioglu/hmd_nx) | [Link](https://gbatemp.net/threads/how-many-dudes-switch-port.683527/) | ??? |
 | Kingdom Hearts Union χ Dark Road | 1.0.1 | 03/08/2026 | [NaGaa95/KHUx_nx](https://github.com/NaGaa95/KHUx_nx) | [Link](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) | ??? |  
 | Lara Croft Go | 1.0.0 | 03/08/2026 | [ChanseyIsTheBest/laracroftgo_nx](https://github.com/ChanseyIsTheBest/laracroftgo_nx) | [Link](https://gbatemp.net/threads/lara-croft-go-switch-port.683509/) | ??? |  
 | Layton Brothers Mystery Room | 1.0.1 | 15/07/2026 | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | [Link](https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/) | ??? |  
@@ -83,6 +85,7 @@ for the GBATemp thread discussing this topic.
 | Super Mario World Remastered Plus | *released* | 19/07/2026 | [delsonazevedo/Super-Mario-World-Remastered-Plus-Switch](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-3#post-10885621) | ??? |  
 | Swordigo | 1.0.1 | 14/07/2026 | [NaGaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678) | ??? |  
 | Team Fortress 2 ReClassic | 1.0.0 | 26/06/2026 | [NaGaa95/tf2_nx](https://github.com/NaGaa95/tf2_nx) | [Link](https://gbatemp.net/threads/team-fortress-2-switch-port.682734/) | ??? |
+| Ticket to Earth | 1.0.0 | 05/08/2026 | [ChanseyIsTheBest/tte_nx](https://github.com/ChanseyIsTheBest/tte_nx) | [Link](https://gbatemp.net/threads/ticket-to-earth-switch-port.683549/) | ??? |
 | Valkyrie Profile Lenneth | 1.0.0 | 25/07/2026 | [delsonazevedo/vpl_nx](https://github.com/delsonazevedo/vpl_nx) | [Link] | ??? |
 | Very Little Nightmares | 1.0.1 | 15/07/2026 | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |  
 | Where's My Water | 1.0.0 | 28/07/2026 | [ChanseyIsTheBest/wmw_nx](https://github.com/ChanseyIsTheBest/wmw_nx) | [Link](https://gbatemp.net/threads/wheres-my-water-1-2-switch-port.683427/) | ??? |  
