@@ -18,7 +18,6 @@ for the GBATemp thread discussing this topic.
 | --- | --- | --- | --- | --- | --- | --- |
 | 3DS | Dekopon | 2.0.0 | 28/07/2026 | [PalindromicBreadLoaf/dekopon](https://github.com/PalindromicBreadLoaf/dekopon) | [Link](https://gbatemp.net/threads/dekopon-mostly-fullspeed-3ds-emulation-on-nintendo-switch.683132/) | ??? |  
 | 3DS | Raika Azahar | 2.0.0 | 04/08/2026 | [Raibatsu/raikopon](https://github.com/Raibatsu/raikopon) | [Link](https://gbatemp.net/threads/nintendo-switch-raika-azahar-the-3ds-emulator-aimed-at-base-nintendo-switch.683593/) | ??? |  
-| 3DS | Raikopon | 1.6.1 rai | 02/08/2026 | [Raibatsu/raikopon](https://github.com/Raibatsu/raikopon) | [Link](https://gbatemp.net/threads/raikopon-a-speedy-experimental-3ds-emulator-for-nintendo-switch-dekopon-fork.683244/#post-10886757) | ??? |  
 | DC | Flycast | ??? | 21/07/2026 | [https://flyinghead.github.io/](https://flyinghead.github.io/flycast-builds/) | [Link](https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/) | ??? |  
 | MULTI | Tico | 0.7.8 | 26/07/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | ??? |  
 | NDS | DrasticDS | 1.0.6 | 27/07/2026 | [NaGaa95/DrasticDS_nx](https://github.com/NaGaa95/DrasticDS_nx) | [Link](https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/) | ??? |  
