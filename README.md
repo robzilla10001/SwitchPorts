@@ -17,6 +17,7 @@ for the GBATemp thread discussing this topic.
 | System | Title | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- | --- |
 | 3DS | Dekopon | 2.0.0 | 28/07/2026 | [PalindromicBreadLoaf/dekopon](https://github.com/PalindromicBreadLoaf/dekopon) | [Link](https://gbatemp.net/threads/dekopon-mostly-fullspeed-3ds-emulation-on-nintendo-switch.683132/) | ??? |  
+| 3DS | Raika Azahar | 2.0.0 | 04/08/2026 | [Raibatsu/raikopon](https://github.com/Raibatsu/raikopon) | [Link](https://gbatemp.net/threads/nintendo-switch-raika-azahar-the-3ds-emulator-aimed-at-base-nintendo-switch.683593/) | ??? |  
 | 3DS | Raikopon | 1.6.1 rai | 02/08/2026 | [Raibatsu/raikopon](https://github.com/Raibatsu/raikopon) | [Link](https://gbatemp.net/threads/raikopon-a-speedy-experimental-3ds-emulator-for-nintendo-switch-dekopon-fork.683244/#post-10886757) | ??? |  
 | DC | Flycast | ??? | 21/07/2026 | [https://flyinghead.github.io/](https://flyinghead.github.io/flycast-builds/) | [Link](https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/) | ??? |  
 | MULTI | Tico | 0.7.8 | 26/07/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | ??? |  
@@ -35,6 +36,7 @@ for the GBATemp thread discussing this topic.
 | After Burner Climax | 1.0.0 | 06/07/2026 | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
 | Angry Birds Classic | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/angrybirdsclassic_nx](https://github.com/ChanseyIsTheBest/angrybirdsclassic_nx) | [Link](https://gbatemp.net/threads/angry-birds-classic-switch-port.682955/) | ??? |  
 | Angry Birds 2 | 1.0.1 | 02/08/2026 | [NaGaa95/angrybirds2_nx](https://github.com/NaGaa95/angrybirds2_nx) | [Link](https://gbatemp.net/threads/angry-birds-2-switch-port.683461/) | ??? |  
+| Angry Birds Journey | 1.0.0 | 06/08/2026 | [NaGaa95/angrybirdsjourney_nx](https://github.com/NaGaa95/angrybirdsjourney_nx) | Link | ??? |  
 | Animal Crossing: Pocket Camp | 1.0.0 | 20/07/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | ??? |
 | Bad Piggies | 1.0.3 | 30/07/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
 | Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
@@ -49,6 +51,8 @@ for the GBATemp thread discussing this topic.
 | Color Sheep | 1.0.1 | 18/07/2026 | [ChanseyIsTheBest/colorsheep_nx](https://github.com/ChanseyIsTheBest/colorsheep_nx) | [Link](https://gbatemp.net/threads/color-sheep-switch-port.683025/unread) | ??? |  
 | Counter Strike Source | 1.0.0 | 06/07/2026 | [NaGaa95/css_nx](https://github.com/NaGaa95/css_nx) | [Link](https://gbatemp.net/threads/counter-strike-source-switch-port.682944/) | ??? |  
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
+| Cut the Rope | 1.0.1 | 06/08/2026 | [NaGaa95/ctr_nx](https://github.com/NaGaa95/ctr_nx) | Link | ??? |  
+| Cut the Rope 2 | 1.0.0 | 06/08/2026 | [NaGaa95/ctr2_nx](https://github.com/NaGaa95/ctr2_nx) | Link | ??? |  
 | Deus Ex Go | 1.0.1 | 02/08/2026 | [chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | ??? |
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
@@ -64,6 +68,7 @@ for the GBATemp thread discussing this topic.
 | Half Life 2 | 1.0.4 | 03/08/2026 | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | [Link](https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread) | ??? |  
 | Hitman Go | 1.0.0 | 02/08/2026 | [ChanseyIsTheBest/hitmango_nx](https://github.com/ChanseyIsTheBest/hitmango_nx) | [Link](https://gbatemp.net/threads/hitman-go-switch-port.683497/) | ??? |  
 | How Many Dudes? | 1.0.0 | 04/08/2026 | [boraeskicioglu/hmd_nx](https://github.com/boraeskicioglu/hmd_nx) | [Link](https://gbatemp.net/threads/how-many-dudes-switch-port.683527/) | ??? |
+| Jetpack Joyride | 1.0.0 | 06/08/2026 | [NaGaa95/ctr_nx](https://github.com/NaGaa95/ctr_nx) | Link | ??? |  
 | Kingdom Hearts Union χ Dark Road | 1.0.1 | 03/08/2026 | [NaGaa95/KHUx_nx](https://github.com/NaGaa95/KHUx_nx) | [Link](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) | ??? |  
 | Lara Croft Go | 1.0.0 | 03/08/2026 | [ChanseyIsTheBest/laracroftgo_nx](https://github.com/ChanseyIsTheBest/laracroftgo_nx) | [Link](https://gbatemp.net/threads/lara-croft-go-switch-port.683509/) | ??? |  
 | Layton Brothers Mystery Room | 1.0.1 | 15/07/2026 | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | [Link](https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/) | ??? |  
@@ -80,6 +85,8 @@ for the GBATemp thread discussing this topic.
 | Professor Layton Curious Village HD | 1.0.4 | 29/06/2026 | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | [Link](https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/) | ??? |  
 | Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | ??? |  
 | Professor Layton Pandora's Box HD | 1.0.2 | 29/06/2026 | [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | [Link](https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/) | ??? |  
+| The Room 3 | 1.0.0 | 06/08/2026 | [ChanseyIsTheBest/theroomthree_nx](https://github.com/ChanseyIsTheBest/theroomthree_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | ??? | 
+| The Room: Old Sins | 1.0.0 | 06/08/2026 | [ChanseyIsTheBest/theroom4_nx](https://github.com/ChanseyIsTheBest/theroom4_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | ??? |  
 | Sonic 4 Episode 2 | 0.1 | 25/06/2026 | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | [Link](https://gbatemp.net/threads/sonic-the-hedgehog-4-episode-2-switch-port.682698/) | ??? |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) | ??? |  
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) | ??? |  
@@ -90,6 +97,7 @@ for the GBATemp thread discussing this topic.
 | Ticket to Earth | 1.0.0 | 05/08/2026 | [ChanseyIsTheBest/tte_nx](https://github.com/ChanseyIsTheBest/tte_nx) | [Link](https://gbatemp.net/threads/ticket-to-earth-switch-port.683549/) | ??? |
 | Valkyrie Profile Lenneth | 1.0.0 | 25/07/2026 | [delsonazevedo/vpl_nx](https://github.com/delsonazevedo/vpl_nx) | [Link] | ??? |
 | Very Little Nightmares | 1.0.1 | 15/07/2026 | [NaGaa95/vln_nx](https://github.com/NaGaa95/vln_nx) | [Link](https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread) | ??? |  
+| VVVVVV | *released* | 04/05/2026 | [auggeythecat/NX-VVVVVV--recomp](https://github.com/auggeythecat/NX-VVVVVV--recomp) | Link | ??? |  
 | Where's My Water | 1.0.0 | 28/07/2026 | [ChanseyIsTheBest/wmw_nx](https://github.com/ChanseyIsTheBest/wmw_nx) | [Link](https://gbatemp.net/threads/wheres-my-water-1-2-switch-port.683427/) | ??? |  
 | Where's My Water 2 | 1.0.0 | 30/07/2026 | [ChanseyIsTheBest/wmw2_nx](https://github.com/ChanseyIsTheBest/wmw2_nx) | [Link](https://gbatemp.net/threads/wheres-my-water-1-2-switch-port.683427/) | ??? |  
 | Ys Chronicles 1 | 0.2 | 29/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ???
