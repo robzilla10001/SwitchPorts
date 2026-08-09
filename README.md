@@ -10,6 +10,19 @@ ensure functionality and ease of use. Where I encounter issues, I will attempt t
 improved instructions/directions. Expect this readme to expand over time. See [here](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/)
 for the GBATemp thread discussing this topic.
 
+## TOC
+⎯ [Emulators](#emulators)  
+⎯ [Android](#android)  
+⎯ [Gameboy](#gameboy)  
+⎯ [Gameboy Color](#gameboy-color)  
+⎯ [Gameboy Advance](#gameboy-advance)  
+⎯ [GameCube](#gamecube)  
+⎯ [Nintendo 64](#nintendo-64)  
+⎯ [PC](#pc)  
+⎯ [Playstation](#playstation)  
+⎯ [Super Nintendo](#super-nintendo-entertainment-system)  
+⎯ [Xbox 360](#xbox-360)  
+
 ## List (perpetual WIP)
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
 
