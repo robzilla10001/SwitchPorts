@@ -142,6 +142,7 @@ for the GBATemp thread discussing this topic.
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |
 | Banjo Kazooie | 1.0.1 | 01/08/2026 | [PalindromicBreadLoaf/Docklight](https://github.com/PalindromicBreadLoaf/Docklight) | [Link](https://gbatemp.net/threads/docklight-a-port-of-lighthouse-to-the-nintendo-switch.683488/) | ??? |  
+| Diddy Kong Racing | 1.2.0 | 11/08/2026 | [boraeskicioglu/goldenballoon_nx](https://github.com/boraeskicioglu/goldenballoon_nx) | [Link](https://gbatemp.net/threads/diddy-kong-racing-golden-balloon-switch-port.683670/) | ??? |  
 | The Legend of Zelda: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) | ??? |  
 | | 4.0.2 | 02/08/2026 | [reflex909/2ship2harkinian-Switch](https://github.com/reflex909/2ship2harkinian-Switch) | [Link](https://gbatemp.net/threads/2ship2harkinian-switch-port-gyro-and-rumble-support.683491/) | ??? |  
 | The Legened of Zelda: Ocarina of Time | 9.2.3 | 25/05/2026 | [timschneeb/Shipwright-Switch](https://github.com/timschneeb/Shipwright-Switch/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) | ??? |  
