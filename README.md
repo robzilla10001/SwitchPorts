@@ -206,7 +206,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
 | --- | --- | --- | --- | --- | --- |  
 | Lain | 0.4.4-nx.5 | 16/07/2026 | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) | ??? |
-| SilentHillNX | 1.0.0 | 30/06/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
+| Silent Hill | 1.0.0 | 30/06/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
 
 ⎯ [Top](#switchports)  
 
@@ -214,7 +214,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |
 | Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
-| LoZ: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-nintendo-switch-port.620124/) | No |
+| The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-nintendo-switch-port.620124/) | No |
 
 ⎯ [Top](#switchports)  
 
