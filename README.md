@@ -95,8 +95,10 @@ for the GBATemp thread discussing this topic.
 | LEGO Star Wars The Force Awakens | 1.0.1 | 30/06/2026 | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/) | ??? |  
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) | ??? |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | ??? |
-| Papers, Please | 1.0.1 | 28/07/2026 | [ChanseyIsTheBest/papersplease_nx](https://github.com/ChanseyIsTheBest/papersplease_nx) | [Link](https://gbatemp.net/threads/papers-please-switch-port.683337/) | ??? |
+| Papers, Please | 1.0.1 | 28/07/2026 | [ChanseyIsTheBest/papersplease_nx](https://github.com/ChanseyIsTheBest/papersplease_nx) | [Link](https://gbatemp.net/threads/papers-please-switch-port.683337/) | ??? |  
+| Phigros | 1.0.0 | 13/08/2026 | [ChanseyIsTheBest/phigros_nx](https://github.com/ChanseyIsTheBest/phigros_nx) | [Link](https://gbatemp.net/threads/phigros-switch-port.683727/) | ??? |  
 | Plants vs. Zombies: Fusion | 1.0.0 | 20/07/2026 | [ChanseyIsTheBest/pvz_fusion_en_nx](https://github.com/ChanseyIsTheBest/pvz_fusion_en_nx) | [Link](https://gbatemp.net/threads/plants-vs-zombies-fusion-switch-port.683213/) | ??? |  
+| Plants vs. Zombies 2 | 1.0.0 | 12/08/2026 | [xflipperkast/PVZ2_NX](https://github.com/xflipperkast/PVZ2_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-switch-port.683717/) | ??? |  
 | POINPY | 1.0.0 | 05/08/2026 | [ChanseyIsTheBest/poinpy_nx/](https://github.com/ChanseyIsTheBest/poinpy_nx/) | [Link](https://gbatemp.net/threads/poinpy-switch-port.683562/) | ??? |  
 | Professor Layton Curious Village HD | 1.0.4 | 29/06/2026 | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | [Link](https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/) | ??? |  
 | Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | ??? |  
@@ -104,6 +106,7 @@ for the GBATemp thread discussing this topic.
 | The Room 3 | 1.0.0 | 06/08/2026 | [ChanseyIsTheBest/theroomthree_nx](https://github.com/ChanseyIsTheBest/theroomthree_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | ??? | 
 | The Room: Old Sins | 1.0.0 | 06/08/2026 | [ChanseyIsTheBest/theroom4_nx](https://github.com/ChanseyIsTheBest/theroom4_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | ??? |  
 | Sonic 4 Episode 2 | 0.1 | 25/06/2026 | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | [Link](https://gbatemp.net/threads/sonic-the-hedgehog-4-episode-2-switch-port.682698/) | ??? |  
+| Sonic Jump | 1.0.0 | 14/08/2026 | [ChanseyIsTheBest/sonicjump_nx](https://github.com/ChanseyIsTheBest/sonicjump_nx) | [Link](https://gbatemp.net/threads/sonic-jump-switch-port.683742/) | ??? |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) | ??? |  
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) | ??? |  
 | Subway Surfers | 1.0.3 | 03/08/2026 | [NaGaa95/subwaysurfers_nx](https://github.com/NaGaa95/subwaysurfers_nx) | [Link](https://gbatemp.net/threads/subway-surfers-switch-port.683440/) | ??? |  
