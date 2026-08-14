@@ -22,6 +22,7 @@ for the GBATemp thread discussing this topic.
 ⎯ [Playstation](#playstation)  
 ⎯ [Super Nintendo](#super-nintendo-entertainment-system)  
 ⎯ [Xbox 360](#xbox-360)  
+⎯ [Special Thanks](#special-thanks)  
 
 ## List (perpetual WIP)
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
@@ -67,7 +68,7 @@ for the GBATemp thread discussing this topic.
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
 | Cut the Rope | 1.0.1 | 06/08/2026 | [NaGaa95/ctr_nx](https://github.com/NaGaa95/ctr_nx) | Link | ??? |  
 | Cut the Rope 2 | 1.0.0 | 06/08/2026 | [NaGaa95/ctr2_nx](https://github.com/NaGaa95/ctr2_nx) | Link | ??? |  
-| Deus Ex Go | 1.0.1 | 02/08/2026 | [chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | ??? |
+| Deus Ex Go | 1.0.1 | 02/08/2026 | [Chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | ??? |
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
 | Final Fantasy Dimension II | 1.0.1 | 15/07/2026 | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
@@ -193,7 +194,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | McOsu | 33.14 | 08/08/2026 | [McKay42/McOsu-NX](https://github.com/McKay42/McOsu-NX) | [Link](https://gbatemp.net/threads/mcosu-osu-for-the-switch.529564/) | ??? |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | Link | ??? |  
 | Nazi Zombies: Portable | 2.0.0 | 03/08/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | ??? | 
-| Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG](https://github.com/HayatoG/PvZ-Portable/) | Link | ??? |
+| Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | Link | ??? |
 | The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | Link | ??? |  
 | Silent Hill | 1.0.0 | 30/06/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
 | Sonic 2006 (MarathonRecomp) | 1.0.2 | 31/07/2026 | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | ??? |  
@@ -225,5 +226,10 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
 | --- | --- | --- | --- | --- | --- |  
 | Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | ??? |  
+
+⎯ [Top](#switchports)  
+
+### Special Thanks  
+Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `tico`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `delsonazevedo`, `GlitchedDeveloper`, `boraeskicioglu`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryanthaboi`, `HayatoG`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx`, [Elias Oenal](https://eliasoenal.com/), `alexart878`, `lantas`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `Swiizyu`, `amydevs` and `Snesrev`. If I missed anyone, I sincerely apologize.
 
 ⎯ [Top](#switchports)  
