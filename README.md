@@ -10,7 +10,15 @@ ensure functionality and ease of use. Where I encounter issues, I will attempt t
 improved instructions/directions. Expect this readme to expand over time. See [here](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/)
 for the GBATemp thread discussing this topic.
 
-🟢 - indicates the title is new and/or updated on the most recent edit.
+## Recent Changes:
+- Changed `Instructions accurate?` header to `Updated for FW 21+?`, which will link to
+  [MSPR](https://github.com/robzilla10001/mspr) page for compiled NRO's (if I or a
+  contributor is responsible for the update). NOTE: I cannot guarantee that the version
+  that appears on MSPR is the most up-to-date version of the title; the original author
+  may come along and update the base version of the game, at which point our NRO will
+  be out of date. Please check the source and MSPR to ensure you're getting the latest
+  version.
+- 🟢 - indicates the title is new and/or updated on the most recent edit.
 
 ## TOC
 ⎯ [Emulators](#emulators)  
@@ -30,7 +38,7 @@ for the GBATemp thread discussing this topic.
 `(note: these games may have originated on other systems; this label is just an indication of which version has been adapted; Android is a prime example)`
 
 ### Emulators
-| System | Title | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| System | Title | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- | --- |
 | 3DS | Dekopon | 2.0.0 | 28/07/2026 | [PalindromicBreadLoaf/dekopon](https://github.com/PalindromicBreadLoaf/dekopon) | [Link](https://gbatemp.net/threads/dekopon-mostly-fullspeed-3ds-emulation-on-nintendo-switch.683132/) | ??? |  
 | 3DS | Raika Azahar | 2.0.0 | 04/08/2026 | [Raibatsu/raikopon](https://github.com/Raibatsu/raikopon) | [Link](https://gbatemp.net/threads/nintendo-switch-raika-azahar-the-3ds-emulator-aimed-at-base-nintendo-switch.683593/) | ??? |  
@@ -47,7 +55,7 @@ for the GBATemp thread discussing this topic.
 ⎯ [Top](#switchports)  
 
 ### Android
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |
 | Adventures of Mana | 1.0.3 | 14/07/2026 | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | ??? |  
 | After Burner Climax | 1.0.0 | 06/07/2026 | [NaGaa95/abc_nx](https://github.com/NaGaa95/abc_nx) | [Link](https://gbatemp.net/threads/after-burner-climax-switch-port.682933/) | ??? |  
@@ -129,35 +137,35 @@ for the GBATemp thread discussing this topic.
 
 ⎯ [Top](#switchports)  
 ### Gameboy
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | Pokemon Gen 1 | 0.1.68 | 04/08/2026 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | Link | ??? |  
 
 ⎯ [Top](#switchports)  
 
 ### Gameboy Color
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |
 | The Legend of Zelda: Link's Awakening DX HD | 1.7.3 | 25/04/2026 | [delsonazevedo/Zelda-LA-DX-HD-Updated](https://github.com/delsonazevedo/Zelda-LA-DX-HD-Updated) | Link | ??? |   
 
 ⎯ [Top](#switchports)  
 
 ### Gameboy Advance  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: The Minish Cap | v0.25 | 04/06/2026 | [HayatoG/tmc](https://github.com/HayatoG/tmc) | Link | ??? |
 
 ⎯ [Top](#switchports)  
 
 ### GameCube
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | ??? |  
 
 ⎯ [Top](#switchports)  
 
 ### Nintendo 64
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | Banjo Kazooie | 1.0.1 | 01/08/2026 | [PalindromicBreadLoaf/Docklight](https://github.com/PalindromicBreadLoaf/Docklight) | [Link](https://gbatemp.net/threads/docklight-a-port-of-lighthouse-to-the-nintendo-switch.683488/) | ??? |  
 | Diddy Kong Racing | 1.2.0 | 11/08/2026 | [boraeskicioglu/goldenballoon_nx](https://github.com/boraeskicioglu/goldenballoon_nx) | [Link](https://gbatemp.net/threads/diddy-kong-racing-golden-balloon-switch-port.683670/) | ??? |  
@@ -173,11 +181,11 @@ for the GBATemp thread discussing this topic.
 ⎯ [Top](#switchports)  
 
 <!--### Nintendo Entertainment System  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- | -->
 
 ### PC
-Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) | ??? |  
 | Command & Conquer / Red Alert | 0.6 | 01/01/2021 | [capsterx-switch](https://github.com/capsterx-switch/Vanilla-Conquer/) | [Link](https://gbatemp.net/threads/c-c-vanilla-conquer.579074/) | ??? |  
@@ -214,7 +222,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 ⎯ [Top](#switchports)  
 
 ### Playstation
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | Lain | 0.4.4-nx.5 | 16/07/2026 | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) | ??? |
 | Silent Hill | 1.0.0 | 30/06/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
@@ -222,7 +230,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 ⎯ [Top](#switchports)  
 
 ### Super Nintendo Entertainment System
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
 | The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-nintendo-switch-port.620124/) | No |
@@ -230,7 +238,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate?
 ⎯ [Top](#switchports)  
 
 ### Xbox 360
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Instructions accurate? |
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | ??? |  
 
