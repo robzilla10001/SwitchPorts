@@ -18,7 +18,7 @@ for the GBATemp thread discussing this topic.
   may come along and update the base version of the game, at which point our NRO will
   be out of date. Please check the source and MSPR to ensure you're getting the latest
   version.
-- 🟢 - indicates the title is new and/or updated on the most recent edit.
+- 🟢 - indicates the title is new and/or updated in a recent edit.
 
 ## TOC
 ⎯ [Emulators](#emulators)  
@@ -94,6 +94,7 @@ for the GBATemp thread discussing this topic.
 | Grand Theft Auto San Andreas | 1.0.2 | 13/07/2026 | [NaGaa95/gtasa_nx](https://github.com/NaGaa95/gtasa_nx) | [Link](https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/) | ??? |  
 | Half Life 2 | 1.0.4 | 03/08/2026 | [NaGaa95/hl2_nx](https://github.com/NaGaa95/hl2_nx) | [Link](https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread) | ??? |  
 | Happy Wheels | 1.0.0 | 11/08/2026 | [ChanseyIsTheBest/happywheels_nx](https://github.com/ChanseyIsTheBest/happywheels_nx) | [Link](https://gbatemp.net/threads/happy-wheels-switch-port.683669/) | ??? |  
+| 🟢Hill Climb Racing | 1.0.0 | 16/08/2026 | [xflipperkast/HCR_NX](https://github.com/xflipperkast/HCR_NX) | [Link](https://gbatemp.net/threads/hill-climb-racing-switch-port.683801/) | ??? |  
 | Hitman Go | 1.0.0 | 02/08/2026 | [ChanseyIsTheBest/hitmango_nx](https://github.com/ChanseyIsTheBest/hitmango_nx) | [Link](https://gbatemp.net/threads/hitman-go-switch-port.683497/) | ??? |  
 | How Many Dudes? | 1.0.0 | 04/08/2026 | [boraeskicioglu/hmd_nx](https://github.com/boraeskicioglu/hmd_nx) | [Link](https://gbatemp.net/threads/how-many-dudes-switch-port.683527/) | ??? |
 | Jetpack Joyride | 1.0.0 | 06/08/2026 | [NaGaa95/jetpackjoyride_nx](https://github.com/NaGaa95/jetpackjoyride_nx) | Link | ??? |  
