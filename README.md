@@ -134,7 +134,8 @@ for the GBATemp thread discussing this topic.
 | VVVVVV | *released* | 04/05/2026 | [auggeythecat/NX-VVVVVV--recomp](https://github.com/auggeythecat/NX-VVVVVV--recomp) | Link | ??? |  
 | Where's My Water | 1.0.0 | 28/07/2026 | [ChanseyIsTheBest/wmw_nx](https://github.com/ChanseyIsTheBest/wmw_nx) | [Link](https://gbatemp.net/threads/wheres-my-water-1-2-switch-port.683427/) | ??? |  
 | Where's My Water 2 | 1.0.0 | 30/07/2026 | [ChanseyIsTheBest/wmw2_nx](https://github.com/ChanseyIsTheBest/wmw2_nx) | [Link](https://gbatemp.net/threads/wheres-my-water-1-2-switch-port.683427/) | ??? |  
-| Ys Chronicles 1 | 0.2 | 29/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ???
+| Ys Chronicles 1 | 0.2 | 29/07/2026 | [DI4VOLO-dev](https://github.com/DI4VOLO-dev/ys1x_nx) | Link | ??? |  
+| 🟢Zombotron Re-Boot | 1.0.2 | 16/08/2026 | [StevensND/zombotron_nx](https://github.com/StevensND/zombotron_nx) | Link | ??? |  
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | ??? |  
 
 ⎯ [Top](#toc)  
