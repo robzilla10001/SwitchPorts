@@ -79,6 +79,7 @@ for the GBATemp thread discussing this topic.
 | Crazy Taxi | 1.0.0 | 01/07/2026 | [delsonazevedo/crazytaxy_nx](https://github.com/delsonazevedo/crazytaxy_nx) | [Link](https://gbatemp.net/threads/crazy-taxi-port.683085/) | ??? |  
 | Cut the Rope | 1.0.1 | 06/08/2026 | [NaGaa95/ctr_nx](https://github.com/NaGaa95/ctr_nx) | Link | ??? |  
 | Cut the Rope 2 | 1.0.0 | 06/08/2026 | [NaGaa95/ctr2_nx](https://github.com/NaGaa95/ctr2_nx) | Link | ??? |  
+| 🟢Cut the Rope Experiments | 1.0.0 | 19/08/2026 | [1timewire1/ctr_experiments_nx](https://github.com/1timewire1/ctr_experiments_nx) | Link | ??? |  
 | Deus Ex Go | 1.0.1 | 02/08/2026 | [Chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | ??? |
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
