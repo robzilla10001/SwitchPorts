@@ -63,7 +63,7 @@ for the GBATemp thread discussing this topic.
 | 🟢Angry Birds 2 | 1.0.2 | 06/08/2026 | [NaGaa95/angrybirds2_nx](https://github.com/NaGaa95/angrybirds2_nx) | [Link](https://gbatemp.net/threads/angry-birds-2-switch-port.683461/) | ??? |  
 | Angry Birds Journey | 1.0.0 | 06/08/2026 | [NaGaa95/angrybirdsjourney_nx](https://github.com/NaGaa95/angrybirdsjourney_nx) | Link | ??? |  
 | 🟢Animal Crossing: Pocket Camp | 1.0.1 | 09/08/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | ??? |
-| Bad Piggies | 1.0.3 | 30/07/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
+| 🟢Bad Piggies | 1.0.4 | 18/08/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | ??? |  
 | Baldi's Basic Classic | 1.0.0 | 15/08/2026 | [ChanseyIsTheBest/baldi_nx](https://github.com/ChanseyIsTheBest/baldi_nx) | Link | ??? |  
 | Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | ??? |  
 | Burger Shop 2 | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/burgershop2_nx](https://github.com/ChanseyIsTheBest/burgershop2_nx) | [Link](https://gbatemp.net/threads/burger-shop-2-switch-port.682912/) | ??? |  
@@ -87,7 +87,7 @@ for the GBATemp thread discussing this topic.
 | Final Fantasy IV 3D Remake | 1.0.2 | 29/06/2026 | [NaGaa95/ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/) | ??? |  
 | | 1.0.4 | 24/07/2026 | [GlitchedDeveloper/ff4_nx](https://github.com/GlitchedDeveloper/ff4_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.683136/) | ??? |
 | Final Fantasy IV The After Years | 1.0.1 | 18/06/2026 | [NaGaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/) | ??? |  
-| Fruit Ninja Classic + | 1.0.0 | 09/08/2026 | [ChanseyIsTheBest/fruitninjaclassic_nx](https://github.com/ChanseyIsTheBest/fruitninjaclassic_nx) | [Link](https://gbatemp.net/threads/fruit-ninja-classic-switch-port.683634/) | ??? |  
+| 🟢Fruit Ninja Classic + | 1.0.2 | 18/08/2026 | [ChanseyIsTheBest/fruitninjaclassic_nx](https://github.com/ChanseyIsTheBest/fruitninjaclassic_nx) | [Link](https://gbatemp.net/threads/fruit-ninja-classic-switch-port.683634/) | ??? |  
 | 🟢Geometry Dash | 1.0.2 | 07/08/2026 | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | [Link](https://gbatemp.net/threads/geometry-dash-switch-port.682926/) | ??? |  
 | Grand Theft Auto Chinatown Wars | 1.0.1 | 29/06/2026 | [NaGaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | [Link](https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/) | ??? |  
 | Grand Theft Auto Liberty City Stories | 1.0.3 | 30/06/2026 | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | [Link](https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/) | ??? |  
@@ -98,7 +98,7 @@ for the GBATemp thread discussing this topic.
 | Hitman Go | 1.0.0 | 02/08/2026 | [ChanseyIsTheBest/hitmango_nx](https://github.com/ChanseyIsTheBest/hitmango_nx) | [Link](https://gbatemp.net/threads/hitman-go-switch-port.683497/) | ??? |  
 | How Many Dudes? | 1.0.0 | 04/08/2026 | [boraeskicioglu/hmd_nx](https://github.com/boraeskicioglu/hmd_nx) | [Link](https://gbatemp.net/threads/how-many-dudes-switch-port.683527/) | ??? |
 | Jetpack Joyride | 1.0.0 | 06/08/2026 | [NaGaa95/jetpackjoyride_nx](https://github.com/NaGaa95/jetpackjoyride_nx) | Link | ??? |  
-| 🟢Killer Bean Unleashed | 1.0.0 | 17/08/2026 | [ChanseyIsTheBest/killerbean_nx/tree/main](https://github.com/ChanseyIsTheBest/killerbean_nx/tree/main) | [Link](https://gbatemp.net/threads/killer-bean-unleashed-switch-port.683815/) | ??? |  
+| 🟢Killer Bean Unleashed | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/killerbean_nx/tree/main](https://github.com/ChanseyIsTheBest/killerbean_nx/tree/main) | [Link](https://gbatemp.net/threads/killer-bean-unleashed-switch-port.683815/) | ??? |  
 | Kingdom Hearts Union χ Dark Road | 1.0.1 | 03/08/2026 | [NaGaa95/KHUx_nx](https://github.com/NaGaa95/KHUx_nx) | [Link](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) | ??? |  
 | Lara Croft Go | 1.0.0 | 03/08/2026 | [ChanseyIsTheBest/laracroftgo_nx](https://github.com/ChanseyIsTheBest/laracroftgo_nx) | [Link](https://gbatemp.net/threads/lara-croft-go-switch-port.683509/) | ??? |  
 | Layton Brothers Mystery Room | 1.0.1 | 15/07/2026 | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | [Link](https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/) | ??? |  
@@ -110,9 +110,10 @@ for the GBATemp thread discussing this topic.
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) | ??? |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | ??? |
 | Papers, Please | 1.0.1 | 28/07/2026 | [ChanseyIsTheBest/papersplease_nx](https://github.com/ChanseyIsTheBest/papersplease_nx) | [Link](https://gbatemp.net/threads/papers-please-switch-port.683337/) | ??? |  
-| Phigros | 1.0.0 | 13/08/2026 | [ChanseyIsTheBest/phigros_nx](https://github.com/ChanseyIsTheBest/phigros_nx) | [Link](https://gbatemp.net/threads/phigros-switch-port.683727/) | ??? |  
+| 🟢Phigros | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/phigros_nx](https://github.com/ChanseyIsTheBest/phigros_nx) | [Link](https://gbatemp.net/threads/phigros-switch-port.683727/) | ??? |  
 | Plants vs. Zombies: Fusion | 1.0.0 | 20/07/2026 | [ChanseyIsTheBest/pvz_fusion_en_nx](https://github.com/ChanseyIsTheBest/pvz_fusion_en_nx) | [Link](https://gbatemp.net/threads/plants-vs-zombies-fusion-switch-port.683213/) | ??? |  
 | 🟢Plants vs. Zombies 2 | 1.1.1 | 16/08/2026 | [xflipperkast/PVZ2_NX](https://github.com/xflipperkast/PVZ2_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-switch-port.683717/) | ??? |  
+| 🟢Plants vs. Zombies Ultimate | 1.0.0 | 19/08/2026 | [ChanseyIsTheBest/pvz_ultimate_nx](https://github.com/ChanseyIsTheBest/pvz_ultimate_nx) | Link | ??? |  
 | 🟢POINPY | 1.0.1 | 06/08/2026 | [ChanseyIsTheBest/poinpy_nx/](https://github.com/ChanseyIsTheBest/poinpy_nx/) | [Link](https://gbatemp.net/threads/poinpy-switch-port.683562/) | ??? |  
 | Professor Layton Curious Village HD | 1.0.4 | 29/06/2026 | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | [Link](https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/) | ??? |  
 | Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | ??? |  
@@ -120,7 +121,8 @@ for the GBATemp thread discussing this topic.
 | The Room 3 | 1.0.0 | 06/08/2026 | [ChanseyIsTheBest/theroomthree_nx](https://github.com/ChanseyIsTheBest/theroomthree_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | ??? | 
 | The Room: Old Sins | 1.0.0 | 06/08/2026 | [ChanseyIsTheBest/theroom4_nx](https://github.com/ChanseyIsTheBest/theroom4_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | ??? |  
 | 🟢Sonic 4 Episode 2 | 0.2 | 11/08/2026 | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | [Link](https://gbatemp.net/threads/sonic-the-hedgehog-4-episode-2-switch-port.682698/) | ??? |  
-| Sonic Jump | 1.0.0 | 14/08/2026 | [ChanseyIsTheBest/sonicjump_nx](https://github.com/ChanseyIsTheBest/sonicjump_nx) | [Link](https://gbatemp.net/threads/sonic-jump-switch-port.683742/) | ??? |  
+| 🟢Sonic Jump | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/sonicjump_nx](https://github.com/ChanseyIsTheBest/sonicjump_nx) | [Link](https://gbatemp.net/threads/sonic-jump-switch-port.683742/) | ??? |  
+| 🟢Sonic Runners Adventure | 0.1.46 | 18/08/2026 | [boraeskicioglu/sonic_runners_adventure_nx](https://github.com/boraeskicioglu/sonic_runners_adventure_nx) | Link | ??? |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) | ??? |  
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) | ??? |  
 | Streets of Rage X | 1.0.1 | 14/08/2026 | [delsonazevedo/sorx_nx](https://github.com/delsonazevedo/sorx_nx) | Link | ??? |  
