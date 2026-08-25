@@ -120,6 +120,7 @@ for the GBATemp thread discussing this topic.
 | Plants vs. Zombies 2 | 1.1.1 | 16/08/2026 | [xflipperkast/PVZ2_NX](https://github.com/xflipperkast/PVZ2_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-switch-port.683717/) | ??? |  
 | Plants vs. Zombies Ultimate | 1.0.2 | 22/08/2026 | [ChanseyIsTheBest/pvz_ultimate_nx](https://github.com/ChanseyIsTheBest/pvz_ultimate_nx) | [Link](https://gbatemp.net/threads/pvz-ultimate-switch-port.683858/) | ??? |  
 | POINPY | 1.0.1 | 06/08/2026 | [ChanseyIsTheBest/poinpy_nx/](https://github.com/ChanseyIsTheBest/poinpy_nx/) | [Link](https://gbatemp.net/threads/poinpy-switch-port.683562/) | ??? |  
+| 🟢Pou | 1.0.0 | 24/08/2026 | [xflipperkast/pou_nx](https://github.com/xflipperkast/pou_nx) | [Link](https://gbatemp.net/threads/pou-switch-port.683953/) | ??? |  
 | Professor Layton Curious Village HD | 1.0.4 | 29/06/2026 | [NaGaa95/layton_nx](https://github.com/NaGaa95/layton_nx) | [Link](https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/) | ??? |  
 | Professor Layton Lost Hope HD | 1.0.3 | 29/06/2026 | [NaGaa95/layton3_nx](https://github.com/NaGaa95/layton3_nx) | [Link](https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/) | ??? |  
 | Professor Layton Pandora's Box HD | 1.0.2 | 29/06/2026 | [NaGaa95/layton2_nx](https://github.com/NaGaa95/layton2_nx) | [Link](https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/) | ??? |  
@@ -164,7 +165,7 @@ for the GBATemp thread discussing this topic.
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: The Minish Cap | v0.25 | 04/06/2026 | [HayatoG/tmc](https://github.com/HayatoG/tmc) | Link | ??? |  
-| 🟢| 0.1.2 | 22/08/2026 | [Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-14#post-10898392) | ??? |  
+| 🟢| 1.0.0 | 25/08/2026 | [Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-14#post-10898392) | ??? |  
 
 ⎯ [Top](#toc)  
 
@@ -242,7 +243,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
-| The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-nintendo-switch-port.620124/) | No |
+| The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-nintendo-switch-port.620124/) | No |  
+| 🟢| 1.0.0 | 24/08/2026 | [Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10899736) | ??? |  
 
 ⎯ [Top](#toc)  
 
