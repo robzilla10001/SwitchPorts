@@ -255,6 +255,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | ??? |  
+| Skate 3 | 2.0.2 | 24/08/2026 |[NaGaa95/skate3recomp-nx](https://github.com/NaGaa95/skate3recomp-nx) | ??? (possibly not yet) | ??? |
+NOTE FOR SKATE 3 PORT: Runs poorly on 8GB RAM, will probably crash on 4GB
 
 ⎯ [Top](#toc)  
 
