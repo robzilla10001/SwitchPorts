@@ -45,8 +45,7 @@ for the GBATemp thread discussing this topic.
 | DC | 🟢Flycast | ??? | 23/08/2026 | [https://flyinghead.github.io/](https://flyinghead.github.io/flycast-builds/) | [Link](https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/) | ??? |  
 | G&W | 🟢Yokoi | 1.0.1 | 28/08/2026 | [1timewire1/Yokoi_Game_-_Watch_emulator_switch/tree/switch-port](https://github.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch/tree/switch-port) | [Link](https://gbatemp.net/threads/yokoi-game-watch-sm5xx-based-lcd-handhelds-emulator.684004/) | ??? |  
 | MULTI | Tico | 0.7.9 | 13/08/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | ??? |  
-| MULTI | RetroArch |  
-| | | ??? | *nightly* | [Libretro NX Nightly Builds](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/) | Link | ??? |  
+| MULTI | 🟢RetroArch | *nightly* | *nightly* | [Libretro NX Nightly Builds](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/) | Link | ??? |  
 | NDS | 🟢DrasticDS | 1.1.0 | 23/08/2026 | [NaGaa95/DrasticDS_nx](https://github.com/NaGaa95/DrasticDS_nx) | [Link](https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/) | ??? |  
 | NGC | 🟢Dolphin | 1.0.4 | 23/08/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) | ??? |  
 | PSX | Duckstation | PR 2 | 07/08/2026 | [shooterspps/duckstation](https://github.com/shooterspps/duckstation) | [Link](https://gbatemp.net/threads/duckstation-for-switch.654484/) | ??? |  
