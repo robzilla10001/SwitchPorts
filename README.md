@@ -108,6 +108,7 @@ for the GBATemp thread discussing this topic.
 | 🟢 Hill Climb Racing | 1.1.0 | 24/08/2026 | [xflipperkast/HCR_NX](https://github.com/xflipperkast/HCR_NX) | [Link](https://gbatemp.net/threads/hill-climb-racing-switch-port.683801/) | ??? |  
 | Hitman Go | 1.0.0 | 02/08/2026 | [ChanseyIsTheBest/hitmango_nx](https://github.com/ChanseyIsTheBest/hitmango_nx) | [Link](https://gbatemp.net/threads/hitman-go-switch-port.683497/) | ??? |  
 | How Many Dudes? | 1.0.0 | 04/08/2026 | [boraeskicioglu/hmd_nx](https://github.com/boraeskicioglu/hmd_nx) | [Link](https://gbatemp.net/threads/how-many-dudes-switch-port.683527/) | ??? |
+| 🟢 Infinity Blade | 1.0.0 | 31/08/2026 | [aks796/infinityblade_nx](https://github.com/aks796/infinityblade_nx) | Link | ??? |  
 | 🟢 Jackie Chan Stuntmaster | 1.0.1 | 31/08/2026 | [CostelaCNX/ReChan-Switch](https://github.com/CostelaCNX/ReChan-Switch) | Link | ??? |  
 | Jetpack Joyride | 1.0.0 | 06/08/2026 | [NaGaa95/jetpackjoyride_nx](https://github.com/NaGaa95/jetpackjoyride_nx) | Link | ??? |  
 | Killer Bean Unleashed | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/killerbean_nx/tree/main](https://github.com/ChanseyIsTheBest/killerbean_nx/tree/main) | [Link](https://gbatemp.net/threads/killer-bean-unleashed-switch-port.683815/) | ??? |  
@@ -240,7 +241,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | McOsu | 33.14 | 08/08/2026 | [McKay42/McOsu-NX](https://github.com/McKay42/McOsu-NX) | [Link](https://gbatemp.net/threads/mcosu-osu-for-the-switch.529564/) | ??? |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | Link | ??? |  
 | 🟢 Nazi Zombies: Portable | 2.0.0 | 31/08/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | ??? | 
-| Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | Link | ??? |
+| Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | Link | ??? |  
+| 🟢 Quake | 0.93.2 NX | 01/09/2026 | [Thorhax/Quakespasm-NX-Modern](https://github.com/Thorhax/Quakespasm-NX-Modern) | Link | ??? |  
 | The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | Link | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | ??? |  
 | Sonic 2006 (MarathonRecomp) | 1.0.2 | 31/07/2026 | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | ??? |  
