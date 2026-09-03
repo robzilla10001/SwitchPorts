@@ -93,6 +93,7 @@ for the GBATemp thread discussing this topic.
 | 🟢 Data Defense | 1.0.0 | 02/09/2026 | [ChanseyIsTheBest/datadefense_nx/](https://github.com/ChanseyIsTheBest/datadefense_nx/) | [Link](https://gbatemp.net/threads/data-defense-switch-port.684178/) | ??? |  
 | Deus Ex Go | 1.0.1 | 02/08/2026 | [Chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | ??? |
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | ??? |  
+| 🟢 The Executive | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/the_executive_nx](https://github.com/ChanseyIsTheBest/the_executive_nx) | Link | ??? |  
 | Final Fantasy Dimensions | 1.0.0 | 28/06/2026 | [NaGaa95/ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) | ??? |  
 | Final Fantasy Dimension II | 1.0.1 | 15/07/2026 | [NaGaa95/ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) | ??? |  
 | Final Fantasy III 3D Remake | 1.0.0 | 23/06/2026 | [NaGaa95/ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/) | ??? |  
@@ -126,6 +127,7 @@ for the GBATemp thread discussing this topic.
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) | ??? |  
 | 🟢 Mega Man X Regenesis | 1.0.0 | 01/09/2026 | [StevensND/mmxregenesis_nx](https://github.com/StevensND/mmxregenesis_nx) | [Link](https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/) | ??? |  
 | 🟢 Metroid Prime Origins | 1.1.0 | 31/08/2026 | [bshurikan/mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10898868) | ??? |  
+| 🟢 MUL.MASH.TAB.BA.GAL.GAL | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/mulmash_nx](https://github.com/ChanseyIsTheBest/mulmash_nx) | Link | ??? |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | ??? |  
 | 🟢 Osmos | 1.0.0 | 01/09/2026 | [ChanseyIsTheBest/osmos_nx](https://github.com/ChanseyIsTheBest/osmos_nx) | [Link](https://gbatemp.net/threads/osmos-switch-port.684154/) | ??? |  
 | Papa's Pizzeria To Go! | 1.0.0 | 20/08/2026 | [xflipperkast/papapizzatg_nx](https://github.com/xflipperkast/papapizzatg_nx) | [Link](https://gbatemp.net/threads/papas-pizzeria-to-go-switch-port.683889/) | ??? |  
@@ -256,6 +258,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou 6: Embodiment of the Scarlet Devil | *released* | 01/07/2026 | [Swiizyu/th06-switch](https://github.com/Swiizyu/th06-switch) | [Link](https://gbatemp.net/threads/touhou-6-switch-port.682936/) | ??? |  
 | Touhou 7: Perfect Cherry Blossom | *released* | 15/08/2026 | [https://github.com/Swiizyu/th07-switch](https://github.com/Swiizyu/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | ??? |  
 | 🟢 Touhou 8: Imperishable Night | *released* | 01/09/2026 | [Swiizyu/th08-switch](https://github.com/Swiizyu/th08-switch) | [Link](https://gbatemp.net/threads/touhou-8-switch-port.684134/) | ??? |  
+| 🟢 Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | Link | ??? |  
 | XCOM (OpenXcom) | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | ??? |  
 
 ⎯ [Top](#toc)  
