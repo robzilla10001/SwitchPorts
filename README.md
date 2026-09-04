@@ -274,6 +274,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Super Nintendo Entertainment System
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
+| 🟢 StarFox | 0.0.3 | 01/09/2026 | [kandowontu/starfox-enhanced](https://github.com/kandowontu/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) | Yes |  
 | Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
 | The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) | No |  
 | 🟢 | 1.1.0 | 30/08/2026 | [Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10899736) | Yes |  
