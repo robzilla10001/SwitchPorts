@@ -272,7 +272,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Space Cadet | 1.1.1 | 19/10/2021 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | [Link](https://gbatemp.net/threads/space-cadet-pinball-switch-port.601370/) | No |
 | Starbound (OpenStarbound Mobile) | 1.1 | 23/07/2026 | [RohanBhattacharyya/oSBM](https://github.com/RohanBhattacharyya/oSBM) | Link | Yes |
 | Touhou 6: Embodiment of the Scarlet Devil | *released* | 01/07/2026 | [Swiizyu/th06-switch](https://github.com/Swiizyu/th06-switch) | [Link](https://gbatemp.net/threads/touhou-6-switch-port.682936/) | Yes |  
-| Touhou 7: Perfect Cherry Blossom | *released* | 15/08/2026 | [https://github.com/Swiizyu/th07-switch](https://github.com/Swiizyu/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | Yes |  
+| Touhou 7: Perfect Cherry Blossom | *released* | 15/08/2026 | [Swiizyu/th07-switch](https://github.com/Swiizyu/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | Yes |  
 | 🟢 Touhou 8: Imperishable Night | 1.00d r2 | 31/08/2026 | [Swiizyu/th08-switch](https://github.com/Swiizyu/th08-switch) | [Link](https://gbatemp.net/threads/touhou-8-switch-port.684134/) | Yes |  
 | 🟢 Touhou Wonderful Waking World | *released* | 09/09/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-wonderful-waking-world-switch-port.684305/) | Yes |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | Link | Yes |  
