@@ -53,7 +53,7 @@ for the GBATemp thread discussing this topic.
 | PS2 | NetherSX2 | 1.2.4 | 23/08/2026 | [NaGaa95/NetherSX2_nx](https://github.com/NaGaa95/NetherSX2_nx) | [Link](https://gbatemp.net/threads/nethersx2-switch-port.683038/) | Yes |  
 | PS2 | ARMSX2 | 3.0.0 | 24/08/2026 | [PalindromicBreadLoaf/ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) | [Link](https://gbatemp.net/threads/armsx2-nx-initial-release.682645/) | Yes |  
 | PSP | 🟢 PPSSPP | 0.7.0 | 07/09/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | [Link](https://gbatemp.net/threads/ppsspp-switch-community-build.684008/) | Yes |   
-| VITA | 🟢 Vita3K | 1.1.0 | 03/09/2026 | [NaGaa95/Vita3K-nx](https://github.com/NaGaa95/Vita3K-nx) | [Link](https://gbatemp.net/threads/vita3k-playstation-vita.684076/) | Yes |  
+| VITA | 🟢 Vita3K | 1.2.0 | 08/09/2026 | [NaGaa95/Vita3K-nx](https://github.com/NaGaa95/Vita3K-nx) | [Link](https://gbatemp.net/threads/vita3k-playstation-vita.684076/) | Yes |  
 | V.Smile | 🟢 D.Smile NX | 1.0.0 | 03/09/2026 | [1timewire1/D.Smile_nx/](https://github.com/1timewire1/D.Smile_nx/) | [Link](https://gbatemp.net/threads/d-smile-nx-a-v-smile-emulator.684197/) | Yes |  
 | WIIU | Cemu | 1.1.3 | 18/08/2026 | [NaGaa95/Cemu-nx](https://github.com/NaGaa95/Cemu-nx) | [Link](https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/) | Yes |  
 
@@ -135,6 +135,7 @@ for the GBATemp thread discussing this topic.
 | 🟢 MUL.MASH.TAB.BA.GAL.GAL | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/mulmash_nx](https://github.com/ChanseyIsTheBest/mulmash_nx) | Link | Yes |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | Yes |  
 | 🟢 Osmos | 1.0.0 | 01/09/2026 | [ChanseyIsTheBest/osmos_nx](https://github.com/ChanseyIsTheBest/osmos_nx) | [Link](https://gbatemp.net/threads/osmos-switch-port.684154/) | Yes |  
+| 🟢 Papa Pear Saga | 1.0.0 | 09/09/2026 | [ChanseyIsTheBest/papapear_nx](https://github.com/ChanseyIsTheBest/papapear_nx) | [Link](https://gbatemp.net/threads/papa-pear-saga-switch-port.684294/) | Yes |  
 | Papa's Pizzeria To Go! | 1.0.0 | 20/08/2026 | [xflipperkast/papapizzatg_nx](https://github.com/xflipperkast/papapizzatg_nx) | [Link](https://gbatemp.net/threads/papas-pizzeria-to-go-switch-port.683889/) | Yes |  
 | Papers, Please | 1.0.1 | 28/07/2026 | [ChanseyIsTheBest/papersplease_nx](https://github.com/ChanseyIsTheBest/papersplease_nx) | [Link](https://gbatemp.net/threads/papers-please-switch-port.683337/) | Yes |  
 | PES 2021 | 0.1.98 | 24/08/2026 | [Ibnuard/pes21_nx](https://github.com/Ibnuard/pes21_nx) | [Link](https://gbatemp.net/threads/pes-2021-switch-port.684032/) | Yes |  
@@ -274,6 +275,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou 7: Perfect Cherry Blossom | *released* | 15/08/2026 | [https://github.com/Swiizyu/th07-switch](https://github.com/Swiizyu/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | Yes |  
 | 🟢 Touhou 8: Imperishable Night | 1.00d r2 | 31/08/2026 | [Swiizyu/th08-switch](https://github.com/Swiizyu/th08-switch) | [Link](https://gbatemp.net/threads/touhou-8-switch-port.684134/) | Yes |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | Link | Yes |  
+| 🟢 Wolfenstein 3D | 2.2 NX | 08/09/2026 | [Thorhax/Wolf4SDL-NX-Modern](https://github.com/Thorhax/Wolf4SDL-NX-Modern) | Link | Yes |  
 | XCOM (OpenXcom) | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | No |  
 
 - 9/41 updated 07/09/2026  
