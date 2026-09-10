@@ -272,7 +272,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | McOsu | 33.14 | 08/08/2026 | [McKay42/McOsu-NX](https://github.com/McKay42/McOsu-NX) | [Link](https://gbatemp.net/threads/mcosu-osu-for-the-switch.529564/) | Yes |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | Link | Yes |  
 | 🟢 Nazi Zombies: Portable | 2.0.0 | 04/09/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | Yes | 
-| One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | Link | Yes |  
+| 🟢 One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | Link | Yes |  
 | Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | Link | Yes |  
 | 🟢 Quake | 0.93.3 NX | 04/09/2026 | [Thorhax/Quakespasm-NX-Modern](https://github.com/Thorhax/Quakespasm-NX-Modern) | Link | Yes |  
 | 🟢 Quake 2 | 8.21 NX | 01/09/2026 | [Thorhax/Quake2-NX-Modern](https://github.com/Thorhax/Quake2-NX-Modern) | Link | Yes |  
