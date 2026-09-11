@@ -82,6 +82,7 @@ for the GBATemp thread discussing this topic.
 | Animal Crossing: Pocket Camp | 1.0.1 | 09/08/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | Yes |
 | Bad Piggies | 1.0.4 | 18/08/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | Yes |  
 | Baldi's Basic Classic | 1.0.0 | 15/08/2026 | [ChanseyIsTheBest/baldi_nx](https://github.com/ChanseyIsTheBest/baldi_nx) | Link | Yes |  
+| 🟢 Bloons Pop! | 1.0.0 | 11/09/2026 | [ChanseyIsTheBest/bloons_pop_nx/tree/main](https://github.com/ChanseyIsTheBest/bloons_pop_nx/tree/main) | Link | Yes |  
 | Bloons Supermonkey 2 | 1.0.0 | 10/09/2026 | [ChanseyIsTheBest/smk2_nx](https://github.com/ChanseyIsTheBest/smk2_nx) | [Link](https://gbatemp.net/threads/bloons-supermonkey-2-switch-port.684329/) | Yes |  
 | Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx/tree/main) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | Yes |  
 | 🟢 Bombsquad | 1.0.0 | 07/09/2026 | [aks796/bombsquad_nx](https://github.com/aks796/bombsquad_nx) | Link | Yes |  
