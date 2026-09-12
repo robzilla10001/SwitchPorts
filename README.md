@@ -270,6 +270,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Jazz Jackrabbit 2 (Jazz² Resurrection) | 3.8.0 | 22/08/2026 | [deathkiller/jazz2](https://github.com/deathkiller/jazz2) | Link | Yes |  
 | Marble Blast Collection | 1.3.0 | 30/08/2026 | [ChanseyIsTheBest/MBHaxe-Switch](https://github.com/ChanseyIsTheBest/MBHaxe-Switch) | [Link](https://gbatemp.net/threads/mbhaxe-switch-port-marble-blast-gold-ultra-platinum-platinum-quest.684096/) | Yes |  
 | Mari0 | 1.0.0 | 13/08/2026 | [delsonazevedo/mari0-switch](https://github.com/delsonazevedo/mari0-switch) | Link | Yes |  
+| 🟢 Mari0: Alesan99's Entities | 1.0.0 | 12/09/2026 | [aks796/mari0_ae_nx](https://github.com/aks796/mari0_ae_nx) | Link | Yes |  
 | McOsu | 33.14 | 08/08/2026 | [McKay42/McOsu-NX](https://github.com/McKay42/McOsu-NX) | [Link](https://gbatemp.net/threads/mcosu-osu-for-the-switch.529564/) | Yes |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | Link | Yes |  
 | 🟢 Nazi Zombies: Portable | 2.0.0 | 04/09/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | Yes | 
