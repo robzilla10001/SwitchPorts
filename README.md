@@ -235,6 +235,7 @@ for the GBATemp thread discussing this topic.
 | Perfect Dark | ??? | 13/08/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) | Yes |  
 | StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
 | 🟢 Super Mario 64 | 3.0.0 | 07/09/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) | Yes |  
+| 🟢 Super Smash Bros. | 1.0.1 | 21/06/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | Link | Yes |  
 
 - 2/10 updated 07/09/2026  
 ⎯ [Top](#toc)  
