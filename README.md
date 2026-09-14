@@ -337,5 +337,5 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `givethesourceplox`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
 
-- 36/206 total updated 07/09/2026  
+- 36/206 total updated 14/09/2026  
 ⎯ [Top](#toc)  
