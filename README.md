@@ -83,7 +83,7 @@ for the GBATemp thread discussing this topic.
 | Animal Crossing: Pocket Camp | 1.0.1 | 09/08/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | Yes |
 | Bad Piggies | 1.0.4 | 18/08/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | Yes |  
 | Baldi's Basic Classic | 1.0.0 | 15/08/2026 | [ChanseyIsTheBest/baldi_nx](https://github.com/ChanseyIsTheBest/baldi_nx) | Link | Yes |  
-| Bloons Adventure Time TD | 1.0.0 | 14/09/2026 | [ChanseyIsTheBest/battd_nx](https://github.com/ChanseyIsTheBest/battd_nx) | Link | Yes |  
+| 🟢 Bloons Adventure Time TD | 1.0.0 | 14/09/2026 | [ChanseyIsTheBest/battd_nx](https://github.com/ChanseyIsTheBest/battd_nx) | [Link](https://gbatemp.net/threads/bloons-adventure-time-td-switch-port.684413/unread) | Yes |  
 | 🟢 Bloons Pop! | 1.0.0 | 11/09/2026 | [ChanseyIsTheBest/bloons_pop_nx](https://github.com/ChanseyIsTheBest/bloons_pop_nx) | Link | Yes |  
 | 🟢 Bloons Supermonkey 2 | 1.0.0 | 10/09/2026 | [ChanseyIsTheBest/smk2_nx](https://github.com/ChanseyIsTheBest/smk2_nx) | [Link](https://gbatemp.net/threads/bloons-supermonkey-2-switch-port.684329/) | Yes |  
 | Bloons TD 5 Mobile | 1.0.1 | 15/07/2026 | [ChanseyIsTheBest/btd5_nx](https://github.com/ChanseyIsTheBest/btd5_nx) | [Link](https://gbatemp.net/threads/bloons-tower-defence-5-mobile-switch-port.683074/) | Yes |  
@@ -190,7 +190,7 @@ for the GBATemp thread discussing this topic.
 | Zombotron Re-Boot | 1.0.2 | 16/08/2026 | [StevensND/zombotron_nx](https://github.com/StevensND/zombotron_nx) | [Link](https://gbatemp.net/threads/zombotron-re-boot-nintendo-switch-port.684161/) | Yes |  
 | ZOOKEEPER DX | 1.0.1 | 16/07/2026 | [ChanseyIsTheBest/zookeeperdx_nx](https://github.com/ChanseyIsTheBest/zookeeperdx_nx) | [Link](https://gbatemp.net/threads/zookeeper-dx-switch-port.682974/) | Yes |  
 
-- 12/116 updated 14/09/2026  
+- 13/116 updated 14/09/2026  
 ⎯ [Top](#toc)
 
 ### Gameboy
@@ -337,5 +337,5 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `givethesourceplox`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
 
-- 36/206 total updated 14/09/2026  
+- 37/206 total updated 14/09/2026  
 ⎯ [Top](#toc)  
