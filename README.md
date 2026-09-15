@@ -40,6 +40,7 @@ for the GBATemp thread discussing this topic.
 ⎯ [Nintendo 64](#nintendo-64)  
 ⎯ [PC](#pc)  
 ⎯ [Playstation](#playstation)  
+⎯ [Playstation 2](#playstation-2)
 ⎯ [Super Nintendo](#super-nintendo-entertainment-system)  
 ⎯ [Xbox 360](#xbox-360)  
 ⎯ [Special Thanks](#special-thanks)  
