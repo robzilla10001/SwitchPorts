@@ -176,6 +176,7 @@ for the GBATemp thread discussing this topic.
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) | Yes |  
 | Streets of Rage X | 1.0.1 | 14/08/2026 | [delsonazevedo/sorx_nx](https://github.com/delsonazevedo/sorx_nx) | Link | Yes |  
 | Subway Surfers | 1.0.3 | 03/08/2026 | [NaGaa95/subwaysurfers_nx](https://github.com/NaGaa95/subwaysurfers_nx) | [Link](https://gbatemp.net/threads/subway-surfers-switch-port.683440/) | Yes |  
+| 🟢 Super Mario 63 Redux | 1.0.0 | 15/09/2026 | [aks796/sm63redux_nx](https://github.com/aks796/sm63redux_nx) | Link | Yes |  
 | 🟢 Super Mario 127 | 1.0.0 | 14/09/2026 | [aks796/sm127_nx](https://github.com/aks796/sm127_nx) | Link | Yes |  
 | Super Mario World Remastered Plus | 1.0.1 | 14/08/2026 | [delsonazevedo/Super-Mario-World-Remastered-Plus-Switch](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-3#post-10885621) | Yes |  
 | Swordigo | 1.0.1 | 14/07/2026 | [NaGaa95/swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678) | Yes |  
@@ -311,7 +312,15 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Lain | 0.4.4-nx.6 | 20/08/2026 | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) | Yes |
 
 - 0/1 updated 14/09/2026  
-⎯ [Top](#toc)  
+⎯ [Top](#toc)
+
+### Playstation 2
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
+| --- | --- | --- | --- | --- | --- |  
+| Jak and Daxter | 0.1A | 15/09/2026 | [fildicio/jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-nintendo-switch-port.614153/post-10908677) | Yes |  
+
+- 0/1 updated 14/09/2026  
+⎯ [Top](#toc)
 
 ### Super Nintendo Entertainment System
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
