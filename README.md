@@ -299,6 +299,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou 7: Perfect Cherry Blossom | *released* | 15/08/2026 | [saekaze/th07-switch](https://github.com/saekaze/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | Yes |  
 | 🟢 Touhou 8: Imperishable Night | 1.00d r3 | 13/09/2026 | [saekaze/th08-switch](https://github.com/saekaze/th08-switch) | [Link](https://gbatemp.net/threads/touhou-8-switch-port.684134/) | Yes |  
 | 🟢 Touhou Wonderful Waking World | *released* | 09/09/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-wonderful-waking-world-switch-port.684305/) | Yes |  
+| 🟢 Touhou 10: Mountain of Faith | *released* | 15/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-10-switch-port.684458/) | Yes |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | Link | Yes |  
 | 🟢 Warcraft | 3.3.3-NX | 14/09/2026 | [Thorhax/War1gus-NX-Modern](https://github.com/Thorhax/War1gus-NX-Modern) | Link | Yes |  
 | 🟢 Warcraft II | 3.3.2-NX.2 | 09/09/2026 | [Thorhax/Wargus-NX-Modern](https://github.com/Thorhax/Wargus-NX-Modern) | Link | Yes |  
