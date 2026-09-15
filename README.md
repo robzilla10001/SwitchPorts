@@ -320,7 +320,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Jak and Daxter | 0.1A | 15/09/2026 | [fildicio/jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-nintendo-switch-port.614153/post-10908677) | Yes |  
 
-- 0/0 New Table 15/09/2026
+- 0/0 New Table 15/09/2026  
 ⎯ [Top](#toc)
 
 ### Super Nintendo Entertainment System
