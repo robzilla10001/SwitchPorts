@@ -126,6 +126,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Flappy Bird | 1.0.0 | 28/08/2026 | [aks796/flappy_bird_nx](https://github.com/aks796/flappy_bird_nx) | Link | Yes |  
 | Fruit Ninja Classic + | 1.0.2 | 18/08/2026 | [ChanseyIsTheBest/fruitninjaclassic_nx](https://github.com/ChanseyIsTheBest/fruitninjaclassic_nx) | [Link](https://gbatemp.net/threads/fruit-ninja-classic-switch-port.683634/) | Yes |  
 | Geometry Dash | 1.0.2 | 07/08/2026 | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | [Link](https://gbatemp.net/threads/geometry-dash-switch-port.682926/) | Yes |  
+| 🟢 Gizmoduck | 1.1.8 | 15/09/2026 | [Thorhax/Gizmoduck-NX-Modern](https://github.com/Thorhax/Gizmoduck-NX-Modern) | Link | Yes |  
 | Grand Theft Auto 3 | 1.0.3 | 27/08/2026 | [mariob0y/gta3-nx](https://github.com/mariob0y/gta3-nx) | [Link](https://gbatemp.net/threads/gta-3-mobile-switch-port.683969/#post-10900135) | Yes |  
 | Grand Theft Auto Chinatown Wars | 1.0.1 | 29/06/2026 | [NaGaa95/gtactw_nx](https://github.com/NaGaa95/gtactw_nx) | [Link](https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/) | Yes |  
 | Grand Theft Auto Liberty City Stories | 1.0.3 | 30/06/2026 | [NaGaa95/gtalcs_nx](https://github.com/NaGaa95/gtalcs_nx) | [Link](https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/) | Yes |  
