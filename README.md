@@ -232,6 +232,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
+| 🟢 | 1.4.1 | 16/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | Link | Yes |  
 
 - 0/1 updated 14/09/2026  
 ⎯ [Top](#toc)  
