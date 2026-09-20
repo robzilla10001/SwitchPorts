@@ -114,7 +114,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Cut the Rope Magic | 1.0.0 | 21/08/2026 | [1timewire1/ctr_magic_nx](https://github.com/1timewire1/ctr_magic_nx) | Link | Yes |  
 | Cut the Rope Time Travel | 1.0.0 | 26/08/2026 | [1timewire1/ctr_timetravel_nx](https://github.com/1timewire1/ctr_timetravel_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10900243) | Yes |  
 | Data Defense | 1.0.0 | 02/09/2026 | [ChanseyIsTheBest/datadefense_nx/](https://github.com/ChanseyIsTheBest/datadefense_nx/) | [Link](https://gbatemp.net/threads/data-defense-switch-port.684178/) | Yes |  
-| 🟢 Deep 3D: Submarine Odyysey | 1.0.0 | 17/09/2026 | [artslay/abyssal_nx](https://github.com/artslay/abyssal_nx) | Link | Yes |  
+| 🟢 Deep 3D: Submarine Odyysey | 1.0.0 | 17/09/2026 | [artslay/abyssal_nx](https://github.com/artslay/abyssal_nx) | [Link](https://gbatemp.net/threads/deep-3d-submarine-odyssey-nintendo-switch-port.684555/) | Yes |  
 | Deus Ex Go | 1.0.1 | 02/08/2026 | [Chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | Yes |
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | Yes |  
 | 🟢 The Elder Scrolls II: Daggerfall Unity | 1.1.1.9s1.0.2 | 08/09/2026 | [ChanseyIsTheBest/daggerfall_nx](https://github.com/ChanseyIsTheBest/daggerfall_nx) | [Link](https://gbatemp.net/threads/daggerfall-unity-switch-port.684258/unread) | Yes |  
@@ -127,7 +127,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Final Fantasy IV The After Years | 1.0.1 | 18/06/2026 | [NaGaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/) | Yes |  
 | Flappy Bird | 1.0.0 | 28/08/2026 | [aks796/flappy_bird_nx](https://github.com/aks796/flappy_bird_nx) | Link | Yes |  
 | Fruit Ninja Classic + | 1.0.2 | 18/08/2026 | [ChanseyIsTheBest/fruitninjaclassic_nx](https://github.com/ChanseyIsTheBest/fruitninjaclassic_nx) | [Link](https://gbatemp.net/threads/fruit-ninja-classic-switch-port.683634/) | Yes |  
-| 🟢 Galaxy on Fire | 1.0.0 | 17/09/2026 | [artslay/galaxian_nx](https://github.com/artslay/galaxian_nx) | Link | Yes |  
+| 🟢 Galaxy on Fire | 1.0.3 | 19/09/2026 | [artslay/galaxian_nx](https://github.com/artslay/galaxian_nx) | [Link](https://gbatemp.net/threads/galaxy-on-fire-nintendo-switch-port.684562/) | Yes |  
 | Geometry Dash | 1.0.2 | 07/08/2026 | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | [Link](https://gbatemp.net/threads/geometry-dash-switch-port.682926/) | Yes |  
 | 🟢 Gizmoduck | 1.1.8 | 15/09/2026 | [Thorhax/Gizmoduck-NX-Modern](https://github.com/Thorhax/Gizmoduck-NX-Modern) | Link | Yes |  
 | Grand Theft Auto 3 | 1.0.3 | 27/08/2026 | [mariob0y/gta3-nx](https://github.com/mariob0y/gta3-nx) | [Link](https://gbatemp.net/threads/gta-3-mobile-switch-port.683969/#post-10900135) | Yes |  
@@ -232,7 +232,8 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
-| 🟢 | 1.4.1 | 16/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | Link | Yes |  
+| 🟢 | 1.4.1 | 16/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/unread) | Yes |  
+| 🟢 Super Mario Strikers | 1.9.9 *prerelease* | [new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) | Yes |  
 
 - 0/1 updated 14/09/2026  
 ⎯ [Top](#toc)  
