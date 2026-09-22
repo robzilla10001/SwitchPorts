@@ -277,7 +277,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) | ??? |  
-| Castlevania ReVamped | 1.1.2 | 13/09/2026 | [bshurikan/cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10903673) | Yes |  
+| Castlevania ReVamped | 1.1.2 | 13/09/2026 | [bshurikan/cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) | Yes |  
 | 🔴 Command & Conquer / Red Alert | 0.6 | 01/01/2021 | [capsterx-switch/Vanilla-Conquer](https://github.com/capsterx-switch/Vanilla-Conquer/) | [Link](https://gbatemp.net/threads/c-c-vanilla-conquer.579074/) | No |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/) | Yes |  
 | 🔴 Dethrace (Carmageddon) | 1.1 | 01/05/2025 | [alexart878/dethrace-switch](https://github.com/alexart878/dethrace-switch) | [Link](https://gbatemp.net/threads/dethrace-nx.670358/) | ??? | 
