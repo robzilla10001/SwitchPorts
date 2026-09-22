@@ -265,6 +265,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Super Mario 64 | 3.0.0 | 07/09/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) | Yes |  
 | Super Smash Bros. | 1.0.1 | 21/06/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | Link | Yes |  
 | | 1.3.0 | 12/06/2026 | [delsonazevedo/BattleShip-Switch](https://github.com/delsonazevedo/BattleShip-Switch) | Link | Yes |  
+| 🟢 Wave Race 64 | 0.1.0 | 21/09/2026 | [1weell/RaceWave46-Switch](https://github.com/1weell/RaceWave46-Switch) | Link | Yes |  
 
 - 1/13 updated 21/09/2026  
 ⎯ [Top](#toc)  
