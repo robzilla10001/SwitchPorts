@@ -184,8 +184,8 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Slay the Spire 2 | 1.0.0 | 26/08/2026 | [ChanseyIsTheBest/sts2_nx](https://github.com/ChanseyIsTheBest/sts2_nx) | [Link](https://gbatemp.net/threads/slay-the-spire-2-switch-port.683997/) | Yes |  
 | Slither.io | 1.0.0 | 30/08/2026 | [xflipperkast/slither_nx](https://github.com/xflipperkast/slither_nx) | [Link](https://gbatemp.net/threads/slither-io-switch-port.684111/) | Yes |  
 | Sonic 4 Episode 2 | 0.2 | 11/08/2026 | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | [Link](https://gbatemp.net/threads/sonic-the-hedgehog-4-episode-2-switch-port.682698/) | Yes |  
-| 🟢 Sonic Dash | 1.0.0 | 21/09/2026 | [ChanseyIsTheBest/sonicdash_nx](https://github.com/ChanseyIsTheBest/sonicdash_nx) | Link | Yes |  
-| 🟢 Sonic Dash 2: Sonic Boom | 1.0.0 | 21/09/2026 | [ChanseyIsTheBest/sonicboomdash_nx](https://github.com/ChanseyIsTheBest/sonicboomdash_nx) | Link | Yes |  
+| 🟢 Sonic Dash | 1.0.0 | 21/09/2026 | [ChanseyIsTheBest/sonicdash_nx](https://github.com/ChanseyIsTheBest/sonicdash_nx) | [Link](https://gbatemp.net/threads/sonic-dash-sonic-dash-2-sonic-boom-switch-port.684613/) | Yes |  
+| 🟢 Sonic Dash 2: Sonic Boom | 1.0.0 | 21/09/2026 | [ChanseyIsTheBest/sonicboomdash_nx](https://github.com/ChanseyIsTheBest/sonicboomdash_nx) | [Link](https://gbatemp.net/threads/sonic-dash-sonic-dash-2-sonic-boom-switch-port.684613/) | Yes |  
 | Sonic Jump | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/sonicjump_nx](https://github.com/ChanseyIsTheBest/sonicjump_nx) | [Link](https://gbatemp.net/threads/sonic-jump-switch-port.683742/) | Yes |  
 | Sonic Runners Adventure | 0.1.46 | 18/08/2026 | [boraeskicioglu/sonic_runners_adventure_nx](https://github.com/boraeskicioglu/sonic_runners_adventure_nx) | [Link](https://gbatemp.net/threads/sonic-runners-adventure-switch-port.683857/) | Yes |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) | Yes |  
