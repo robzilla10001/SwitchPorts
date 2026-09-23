@@ -158,7 +158,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | 🟢 Level UP: Mario's Minigames Mayhem | 1.0.0 | 14/09/2026 | [aks796/lummm_nx](https://github.com/aks796/lummm_nx) | Link | Yes |  
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) | Yes |  
 | 🟢 Mega Man X Regenesis | 1.00.92 | 14/09/2026 | [StevensND/mmxregenesis_nx](https://github.com/StevensND/mmxregenesis_nx) | [Link](https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/) | Yes |  
-| 🟢 Metroid Prime Origins | 1.1.2b | 21/09/2026 | [bshurikan/mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10898868) | Yes |  
+| 🟢 Metroid Prime Origins | 1.1.2b | 21/09/2026 | [bshurikan/mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/metroid-prime-origins-fan-game-nintendo-switch-port.684635/) | Yes |  
 | MUL.MASH.TAB.BA.GAL.GAL | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/mulmash_nx](https://github.com/ChanseyIsTheBest/mulmash_nx) | Link | Yes |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | Yes |  
 | Osmos | 1.0.0 | 01/09/2026 | [ChanseyIsTheBest/osmos_nx](https://github.com/ChanseyIsTheBest/osmos_nx) | [Link](https://gbatemp.net/threads/osmos-switch-port.684154/) | Yes |  
