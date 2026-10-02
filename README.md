@@ -71,7 +71,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | PS2 | ARMSX2 | 3.0.0 | 24/08/2026 | [PalindromicBreadLoaf/ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) | [Link](https://gbatemp.net/threads/armsx2-nx-initial-release.682645/) | Yes |  
 | PSP | PPSSPP | 0.7.0 | 07/09/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | [Link](https://gbatemp.net/threads/ppsspp-switch-community-build.684008/) | Yes |   
 | | PPSSPP-NX | 1.0.0 | 17/09/2026 | [NaGaa95/ppsspp-nx](https://github.com/NaGaa95/ppsspp-nx) | [Link](https://gbatemp.net/threads/ppsspp-nx.684504/) | Yes |   
-| S.22 | 🟢 System22-nx | 0.1 *beta* | [r4dius/system22-nx](https://github.com/r4dius/system22-nx) | [Link](https://gbatemp.net/threads/system22-nx-emulator-port-mame.684898/) | Yes |  
+| S.22 | 🟢 System22-nx | 0.1 *beta* | 01/10/2026 | [r4dius/system22-nx](https://github.com/r4dius/system22-nx) | [Link](https://gbatemp.net/threads/system22-nx-emulator-port-mame.684898/) | Yes |  
 | Saturn | 🟢 YabaSanshiro | 1.2.0 | 01/10/2026 | [Thorhax/yabasanshiro-nx](https://github.com/Thorhax/yabasanshiro-nx) | Link | Yes |  
 | VITA | Vita3K | 1.3.1 | 16/09/2026 | [NaGaa95/Vita3K-nx](https://github.com/NaGaa95/Vita3K-nx) | [Link](https://gbatemp.net/threads/vita3k-playstation-vita.684076/) | Yes |  
 | V.Smile | 🟢 D.Smile NX | 1.1.0 | 01/10/2026 | [1timewire1/D.Smile_nx/](https://github.com/1timewire1/D.Smile_nx/) | [Link](https://gbatemp.net/threads/d-smile-nx-a-v-smile-emulator.684197/) | Yes |  
