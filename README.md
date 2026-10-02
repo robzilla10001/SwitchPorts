@@ -34,7 +34,8 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 
 ## TOC
 ⎯ [Emulators](#emulators)  
-⎯ [Android](#android)  
+⎯ [Android 32bit](#android-32bit)  
+⎯ [Android 64bit](#android-64bit)  
 ⎯ [Arcade](#arcade)  
 ⎯ [Gameboy](#gameboy)  
 ⎯ [Gameboy Color](#gameboy-color)  
@@ -45,6 +46,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 ⎯ [Playstation](#playstation)  
 ⎯ [Playstation 2](#playstation-2)  
 ⎯ [Super Nintendo](#super-nintendo-entertainment-system)  
+⎯ [Xbox](#xbox)  
 ⎯ [Xbox 360](#xbox-360)  
 ⎯ [Special Thanks](#special-thanks)  
 
@@ -77,7 +79,21 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 - 3/18 Updated 28/09/2026  
 ⎯ [Top](#toc)  
 
-### Android
+### Android 32bit
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
+| --- | --- | --- | --- | --- | --- |  
+| 🟢 Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | Link | Yes |  
+| 🟢 Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | Link | Yes |  
+| 🟢 Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | Link | Yes |  
+| 🟢 Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | Link | Yes |  
+| 🟢 Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | Link | Yes |  
+| 🟢 Plants vs. Zombies Touch | 1.0.2 | 01/10/2026 | [aks796/pvz_touch_nx](https://github.com/aks796/pvz_touch_nx) | Link | Yes |  
+| 🟢 Sonic & Sega All Stars Racing | 1.0.3 | 01/10/2026 | [aks796/sonic_allstars_nx](https://github.com/aks796/sonic_allstars_nx) | Link | Yes |  
+
+- Added 02/10/2026  
+⎯ [Top](#toc)  
+
+### Android 64bit
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |
 | Adventures of Mana | 1.0.3 | 14/07/2026 | [NaGaa95/aom_nx](https://github.com/NaGaa95/aom_nx) | [Link](https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/) | Yes |  
@@ -87,9 +103,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Angry Birds Epic: All Stars | 1.0.4 | 30/08/2026 | [xflipperkast/angrybirdsas_nx](https://github.com/xflipperkast/angrybirdsas_nx) | [Link](https://gbatemp.net/threads/angry-birds-epic-all-stars-switch-port.684031/) | Yes |  
 | Angry Birds Journey | 1.0.0 | 06/08/2026 | [NaGaa95/angrybirdsjourney_nx](https://github.com/NaGaa95/angrybirdsjourney_nx) | Link | Yes |  
 | Angry Birds Reloaded | 1.0.0 | 31/08/2026 | [aks796/abreloaded_nx](https://github.com/aks796/abreloaded_nx) | Link | Yes |  
-| 🟢 Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | Link | Yes |  
 | Animal Crossing: Pocket Camp | 1.0.1 | 09/08/2026 | [Nagaa95/acpc_nx](https://github.com/NaGaa95/acpc_nx) | [Link](https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/) | Yes |  
-| 🟢 Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | Link | Yes |  
 | 🟢 Bad Piggies | 1.0.5 | 22/09/2026 | [ChanseyIsTheBest/nadpiggies_nx](https://github.com/ChanseyIsTheBest/badpiggies_nx) | [Link](https://gbatemp.net/threads/bad-piggies-switch-port.683056/) | Yes |  
 | Baldi's Basic Classic | 1.0.0 | 15/08/2026 | [ChanseyIsTheBest/baldi_nx](https://github.com/ChanseyIsTheBest/baldi_nx) | Link | Yes |  
 | Banana Kong | 1.0.0 | 17/09/2026 | [ChanseyIsTheBest/bananakong_nx](https://github.com/ChanseyIsTheBest/bananakong_nx) | Link | Yes |  
@@ -121,7 +135,6 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Data Defense | 1.0.0 | 02/09/2026 | [ChanseyIsTheBest/datadefense_nx/](https://github.com/ChanseyIsTheBest/datadefense_nx/) | [Link](https://gbatemp.net/threads/data-defense-switch-port.684178/) | Yes |  
 | Deep 3D: Submarine Odyssey | 1.0.2 | 19/09/2026 | [artslay/abyssal_nx](https://github.com/artslay/abyssal_nx) | [Link](https://gbatemp.net/threads/deep-3d-submarine-odyssey-nintendo-switch-port.684555/) | Yes |  
 | 🟢 Deus Ex Go | 1.0.2 | 22/09/2026 | [Chanseyisthebest/deusexgo_nx](https://github.com/ChanseyIsTheBest/deusexgo_nx) | [Link](https://gbatemp.net/threads/deus-ex-go-switch-port.683492) | Yes |  
-| 🟢 Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | Link | Yes |  
 | Dr. Mario Mania | 1.0.0 | 03/08/2026 | [delsonazevedo/drmariomania_nx](https://github.com/delsonazevedo/drmariomania_nx) | Link | Yes |  
 | Duke Dashington Remastered | 1.0.0 | 19/09/2026 | [ChanseyIsTheBest/dukedashington_nx](https://github.com/ChanseyIsTheBest/dukedashington_nx) | [Link](https://gbatemp.net/threads/adventure-island-game-ports-total-party-kill-heart-star-poor-bunny-duke-dashington-switch-port.684579/) | Yes |  
 | The Elder Scrolls II: Daggerfall Unity | 1.1.1.9s1.0.2 | 08/09/2026 | [ChanseyIsTheBest/daggerfall_nx](https://github.com/ChanseyIsTheBest/daggerfall_nx) | [Link](https://gbatemp.net/threads/daggerfall-unity-switch-port.684258/unread) | Yes |  
@@ -134,7 +147,6 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | | 1.0.4 | 24/07/2026 | [GlitchedDeveloper/ff4_nx](https://github.com/GlitchedDeveloper/ff4_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.683136/) | Yes |
 | Final Fantasy IV The After Years | 1.0.1 | 18/06/2026 | [NaGaa95/ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/) | Yes |  
 | Flappy Bird | 1.0.0 | 28/08/2026 | [aks796/flappy_bird_nx](https://github.com/aks796/flappy_bird_nx) | Link | Yes |  
-| 🟢 Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | Link | Yes |  
 | Fruit Ninja Classic + | 1.0.2 | 18/08/2026 | [ChanseyIsTheBest/fruitninjaclassic_nx](https://github.com/ChanseyIsTheBest/fruitninjaclassic_nx) | [Link](https://gbatemp.net/threads/fruit-ninja-classic-switch-port.683634/) | Yes |  
 | Galaxy on Fire | 1.0.3 | 19/09/2026 | [artslay/galaxian_nx](https://github.com/artslay/galaxian_nx) | [Link](https://gbatemp.net/threads/galaxy-on-fire-nintendo-switch-port.684562/) | Yes |  
 | Geometry Dash | 1.0.2 | 07/08/2026 | [NaGaa95/gdash_nx](https://github.com/NaGaa95/gdash_nx) | [Link](https://gbatemp.net/threads/geometry-dash-switch-port.682926/) | Yes |  
@@ -154,7 +166,6 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Jetpack Joyride | 1.0.0 | 06/08/2026 | [NaGaa95/jetpackjoyride_nx](https://github.com/NaGaa95/jetpackjoyride_nx) | Link | Yes |  
 | Killer Bean Unleashed | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/killerbean_nx/tree/main](https://github.com/ChanseyIsTheBest/killerbean_nx/tree/main) | [Link](https://gbatemp.net/threads/killer-bean-unleashed-switch-port.683815/) | Yes |  
 | Kingdom Hearts Union χ Dark Road | 1.0.1 | 03/08/2026 | [NaGaa95/KHUx_nx](https://github.com/NaGaa95/KHUx_nx) | [Link](https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/) | Yes |  
-| 🟢 Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | Link | Yes |  
 | 🟢 Lara Croft Go | 1.0.2 | 22/09/2026 | [ChanseyIsTheBest/laracroftgo_nx](https://github.com/ChanseyIsTheBest/laracroftgo_nx) | [Link](https://gbatemp.net/threads/lara-croft-go-switch-port.683509/) | Yes |  
 | Layton Brothers Mystery Room | 1.0.1 | 15/07/2026 | [NaGaa95/laytonbmr_nx](https://github.com/NaGaa95/laytonbmr_nx) | [Link](https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/) | Yes |  
 | LEGO Batman Beyond Gotham | 1.0.0 | 01/07/2026 | [NaGaa95/lbbg_nx](https://github.com/NaGaa95/lbbg_nx) | [Link](https://gbatemp.net/threads/lego-batman-3-beyond-gotham-switch-port.682841/) | Yes |  
@@ -177,7 +188,6 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Phigros | 1.0.3 | 20/08/2026 | [ChanseyIsTheBest/phigros_nx](https://github.com/ChanseyIsTheBest/phigros_nx) | [Link](https://gbatemp.net/threads/phigros-switch-port.683727/) | Yes |  
 | 🟢 Phigros CN  | 2.2.0  | 30/09/2026  | [6eone6/phigros_nx_cn](https://github.com/6eone6/phigros_nx_cn) | Link | Yes |  
 | Plants vs. Zombies: Fusion | 1.0.11 | 22/08/2026 | [ChanseyIsTheBest/pvz_fusion_en_nx](https://github.com/ChanseyIsTheBest/pvz_fusion_en_nx) | [Link](https://gbatemp.net/threads/plants-vs-zombies-fusion-switch-port.683213/) | Yes |  
-| 🟢 Plants vs. Zombies Touch | 1.0.2 | 01/10/2026 | [aks796/pvz_touch_nx](https://github.com/aks796/pvz_touch_nx) | Link | Yes |  
 | Plants vs. Zombies 2 | 1.2.0 | 26/08/2026 | [xflipperkast/PVZ2_NX](https://github.com/xflipperkast/PVZ2_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-switch-port.683717/) | Yes |  
 | Plants vs. Zombies 2: Reflourished | 1.0.0 | 27/08/2026 | [xflipperkast/PVZ2RF_NX](https://github.com/xflipperkast/PVZ2RF_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-reflourished-switch-port.684044/) | Yes |  
 | 🟠 Plants vs. Zombies Ultimate | 1.0.2 | 22/08/2026 | [ChanseyIsTheBest/pvz_ultimate_nx](https://github.com/ChanseyIsTheBest/pvz_ultimate_nx) | [Link](https://gbatemp.net/threads/pvz-ultimate-switch-port.683858/) | Yes |  
@@ -200,7 +210,6 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Sonic Jump | 1.0.1 | 18/08/2026 | [ChanseyIsTheBest/sonicjump_nx](https://github.com/ChanseyIsTheBest/sonicjump_nx) | [Link](https://gbatemp.net/threads/sonic-jump-switch-port.683742/) | Yes |  
 | Sonic Runners Adventure | 0.1.46 | 18/08/2026 | [boraeskicioglu/sonic_runners_adventure_nx](https://github.com/boraeskicioglu/sonic_runners_adventure_nx) | [Link](https://gbatemp.net/threads/sonic-runners-adventure-switch-port.683857/) | Yes |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) | Yes |  
-| 🟢 Sonic & Sega All Stars Racing | 1.0.3 | 01/10/2026 | [aks796/sonic_allstars_nx](https://github.com/aks796/sonic_allstars_nx) | Link | Yes |  
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) | Yes |  
 | Streets of Rage X | 1.0.1 | 14/08/2026 | [delsonazevedo/sorx_nx](https://github.com/delsonazevedo/sorx_nx) | Link | Yes |  
 | Subway Surfers | 1.0.3 | 03/08/2026 | [NaGaa95/subwaysurfers_nx](https://github.com/NaGaa95/subwaysurfers_nx) | [Link](https://gbatemp.net/threads/subway-surfers-switch-port.683440/) | Yes |  
@@ -388,6 +397,14 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
 
 - 2/8 updated 28/09/2026  
+⎯ [Top](#toc)
+
+### Xbox  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
+| --- | --- | --- | --- | --- | --- |  
+| 🟢 Need for Speed: Underground 2 | 0.3.5 | 01/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) | Yes |  
+
+- Added 02/10/2026  
 ⎯ [Top](#toc)  
 
 ### Xbox 360
