@@ -393,7 +393,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Playstation 2
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Jak and Daxter | 0.3.0 | 25/09/2026 | [fildicio/jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-nintendo-switch-port.614153/post-10908677) | Yes |  
+| 🟢 Jak and Daxter Trilogy | v1 *beta* | 01/10/2026 | [fildicio/jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/) | Yes |  
 
 - 1/1 updated 28/09/2026  
 ⎯ [Top](#toc)
