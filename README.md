@@ -283,10 +283,11 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
 | | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) | Yes |  
 | | v1.4.1.0-test | 20/06/2026 | [givethesourceplox/dusk](https://github.com/givethesourceplox/dusk) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
+| 🟢 | 1.0.0-beta.1 | 05/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-for-switch-dusklight-aleks-ultimate-nx-edition-public-beta-1-0-0-beta-1.685028/) | Yes |  
 | Super Mario Strikers | 1.3.0 | 22/09/2026 |[new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) | Yes |  
 | Super Smash Bros. Melee | 0.2.0 *beta* | 22/09/2026 | [KawaiiBunga/Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | Link | Yes |  
 
-- 0/5 updated 05/10/2026  
+- 1/6 updated 05/10/2026  
 ⎯ [Top](#toc)  
 
 ### Genesis
@@ -358,6 +359,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Nazi Zombies: Portable | 2.0.0 | 24/09/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) | Yes | 
 | One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | [Link](https://gbatemp.net/threads/preliminary-list-of-updated-homebrew-apps-and-tools-for-fw-21-0-0-ams-1-10-0-please-add-your-findings.677217/post-10907101) | Yes |  
 | Plants Vs Zombies (PvZ Portable) | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | Link | Yes |  
+| 🟢 PokeMMO | 1.00 | 05/10/2026 | [Petit-Prince-dev/PokeMMO-NX](https://github.com/Petit-Prince-dev/PokeMMO-NX) | [Link](https://gbatemp.net/threads/pokemmo-is-now-running-natively-on-the-nintendo-switch.685027/) | Yes |  
 | 🟢 Prey | 0.1.0 | 30/09/2026 | [hazevauks/openPREYswitch](https://github.com/hazevauks/openPREYswitch) | Link | Yes |  
 | Quake | 0.93.3 NX | 04/09/2026 | [Thorhax/Quakespasm-NX-Modern](https://github.com/Thorhax/Quakespasm-NX-Modern) | Link | Yes |  
 | Quake 2 | 8.21 NX | 01/09/2026 | [Thorhax/Quake2-NX-Modern](https://github.com/Thorhax/Quake2-NX-Modern) | Link | Yes |  
@@ -383,7 +385,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Wolfenstein 3D | 2.2 NX | 08/09/2026 | [Thorhax/Wolf4SDL-NX-Modern](https://github.com/Thorhax/Wolf4SDL-NX-Modern) | Link | Yes |  
 | 🔴 XCOM (OpenXcom) | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | No |  
 
-- 10/55 updated 05/10/2026  
+- 11/56 updated 05/10/2026  
 ⎯ [Top](#toc)  
 
 ### Playstation
@@ -445,5 +447,5 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `givethesourceplox`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
 
-- 49/272 total updated 05/10/2026  
+- 51/274 total updated 05/10/2026  
 ⎯ [Top](#toc)  
