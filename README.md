@@ -88,7 +88,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | Link | Yes |  
 | 🟢 Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | Link | Yes |  
-| 🟢 Call of Duty - Black Ops: Zombies | 0.5.0 | 02/10/2026 | [KawaiiBunga/BOZ-NX](https://github.com/KawaiiBunga/BOZ-NX) | Link | Yes |  
+| 🟢 Call of Duty - Black Ops: Zombies | 1.0.0 | 28/09/2026 | [r4lix/codboz-nx](https://github.com/r4lix/codboz-nx) | Link | Yes |  
 | 🟢 Dan The Man | 0.1.8 | 04/10/2026 | [hazevauks/dantheman_nx](https://github.com/hazevauks/dantheman_nx) | Link | Yes |  
 | 🟢 Ducktales: Remastered | 1.3.0 | 03/10/2026 | [Thorhax/Ducktales-NX](https://github.com/Thorhax/Ducktales-NX) | Link | Yes |  
 | 🟢 Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | Link | Yes |  
