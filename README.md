@@ -86,16 +86,22 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 ### Android 32bit
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Amazing Spider-Man 2 | 1.0.0 | 06/10/2026 | [boraeskicioglu/tasm2_nx](https://github.com/boraeskicioglu/tasm2_nx) | Link | Yes |  
+| 🟢 Angry Birds Forever | 1.0.0 | 06/10/2026 | [https://github.com/aks796/abforever_nx](aks796/abforever_nx) | Link | Yes |  
 | 🟢 Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | Link | Yes |  
+| 🟢 Angry Birds: Star Wars 2 | 1.0.1 | 04/10/2026 | [markaurel13/abstarwars2_nx](https://github.com/markaurel13/abstarwars2_nx) | Link | Yes |  
 | 🟢 Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | Link | Yes |  
 | 🟢 Call of Duty - Black Ops: Zombies | 1.0.0 | 28/09/2026 | [r4lix/codboz-nx](https://github.com/r4lix/codboz-nx) | Link | Yes |  
 | 🟢 Dan The Man | 0.1.8 | 04/10/2026 | [hazevauks/dantheman_nx](https://github.com/hazevauks/dantheman_nx) | Link | Yes |  
+| 🟢 Dark Knight Rises | 0.1.0 | 06/10/2026 | [lemasterxar5/tdkr_nx](https://github.com/lemasterxar5/tdkr_nx) | Link | Yes |  
+| 🟢 Dead Space: Sabotage | 0.1.5 | 06/10/2026 | [hazevauks/deadspace_nx](https://github.com/hazevauks/deadspace_nx) | Link | Yes |  
 | 🟢 Ducktales: Remastered | 1.3.0 | 03/10/2026 | [Thorhax/Ducktales-NX](https://github.com/Thorhax/Ducktales-NX) | Link | Yes |  
 | 🟢 Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | Link | Yes |  
 | 🟢 Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | Link | Yes |  
 | 🟢 Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | Link | Yes |  
 | 🟢 Plants vs. Zombies Touch | 1.0.2 | 01/10/2026 | [aks796/pvz_touch_nx](https://github.com/aks796/pvz_touch_nx) | Link | Yes |  
 | 🟢 Smash Hit | 0.1.0 | 04/10/2026 | [hazevauks/smashhit_nx](https://github.com/hazevauks/smashhit_nx) | Link | Yes |  
+| 🟢 Space Hulk | 0.1.0 | 06/10/2026 | [liartes/spacehulk-nx](https://github.com/liartes/spacehulk-nx) | Link | Yes |  
 | 🟢 Sonic & Sega All Stars Racing | 1.0.3 | 01/10/2026 | [aks796/sonic_allstars_nx](https://github.com/aks796/sonic_allstars_nx) | Link | Yes |  
 | 🟢 Ultimate Spider-man: Total Mayhem | 1.0.0 | 04/10/2026 | [boraeskicioglu/spiderman_total_mayhem_nx](https://github.com/boraeskicioglu/spiderman_total_mayhem_nx) | Link | Yes |  
 
@@ -185,7 +191,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Level UP: Mario's Minigames Mayhem | 1.0.0 | 14/09/2026 | [aks796/lummm_nx](https://github.com/aks796/lummm_nx) | Link | Yes |  
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) | Yes |  
 | Mega Man X Regenesis | 1.00.92 | 14/09/2026 | [StevensND/mmxregenesis_nx](https://github.com/StevensND/mmxregenesis_nx) | [Link](https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/) | Yes |  
-| Metroid Prime Origins | 1.1.2c | 23/09/2026 | [bshurikan/mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/metroid-prime-origins-fan-game-nintendo-switch-port.684635/) | Yes |  
+| 🟢 Metroid Prime Origins | 1.1.2d | 05/10/2026 | [bshurikan/mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/metroid-prime-origins-fan-game-nintendo-switch-port.684635/) | Yes |  
 | MUL.MASH.TAB.BA.GAL.GAL | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/mulmash_nx](https://github.com/ChanseyIsTheBest/mulmash_nx) | Link | Yes |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | Link | Yes |  
 | Osmos | 1.0.0 | 01/09/2026 | [ChanseyIsTheBest/osmos_nx](https://github.com/ChanseyIsTheBest/osmos_nx) | [Link](https://gbatemp.net/threads/osmos-switch-port.684154/) | Yes |  
@@ -334,6 +340,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Castlevania ReVamped | 1.1.2 | 13/09/2026 | [bshurikan/cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) | Yes |  
 | 🔴 Command & Conquer / Red Alert | 0.6 | 01/01/2021 | [capsterx-switch/Vanilla-Conquer](https://github.com/capsterx-switch/Vanilla-Conquer/) | [Link](https://gbatemp.net/threads/c-c-vanilla-conquer.579074/) | No |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/) | Yes |  
+| 🟢 Descent | 0.58.6 | 09/09/2026 | [Thorhax/Descent1-NX-Modern](https://github.com/Thorhax/Descent1-NX-Modern) | Link | Yes |  
+| 🟢 Descent 2 | 0.58.6 | 09/09/2026 | [Thorhax/Descent2-NX-Modern](https://github.com/Thorhax/Descent2-NX-Modern) | [Link](https://gbatemp.net/threads/descent-2-nx.685064/) | Yes |  
 | 🔴 Dethrace (Carmageddon) | 1.1 | 01/05/2025 | [alexart878/dethrace-switch](https://github.com/alexart878/dethrace-switch) | [Link](https://gbatemp.net/threads/dethrace-nx.670358/) | ??? | 
 | 🔴 Diablo (DevilutionX) | 0.95b | 14/07/2019 | [lantas/devilution-nx](https://github.com/lantus/devilution-nx/) | [Link](https://gbatemp.net/threads/diablo-nx-nintendo-switch-port-of-devilutionx-diablo.542414/) | No |  
 | | 1.6.1 | 04/09/2026 | [Thorhax/DevilutionX-NX-Modern](http://github.com/Thorhax/DevilutionX-NX-Modern) | Link | Yes |  
@@ -373,13 +381,14 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Space Cadet | 1.1.1-NX3 | 03/10/2026 | [averne/SpaceCadetPinball-NX](https://github.com/averne/SpaceCadetPinball-NX/) | [Link](https://gbatemp.net/threads/space-cadet-pinball-switch-port.601370/) | No |
 | Starbound (OpenStarbound Mobile) | 1.1 | 23/07/2026 | [RohanBhattacharyya/oSBM](https://github.com/RohanBhattacharyya/oSBM) | Link | Yes |  
 | 🟢 Terraria (+ Mod Loader) | *must build* | ??? | [JohnUzoka/terrabuilder-nx](https://github.com/JohnUzoka/terrabuilder-nx) | Link | Yes |  
-| 🟢 Touhou 6: Embodiment of the Scarlet Devil | 1.02h-r2 | 30/09/2026 | [saekaze/th06-switch](https://github.com/saekaze/th06-switch) | [Link](https://gbatemp.net/threads/touhou-6-switch-port.682936/) | Yes |  
-| 🟢 Touhou 7: Perfect Cherry Blossom | 1.00b-r5 | 30/09/2026 | [saekaze/th07-switch](https://github.com/saekaze/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | Yes |  
-| 🟢 Touhou 8: Imperishable Night | 1.00d-r4 | 30/09/2026 | [saekaze/th08-switch](https://github.com/saekaze/th08-switch) | [Link](https://gbatemp.net/threads/touhou-8-switch-port.684134/) | Yes |  
-| 🟢 Touhou 9: Phantasmagoria of Flower View | v1.50a-r2 | 30/09/2026 | [saekaze/th09-switch](https://github.com/saekaze/th09-switch) | [Link](https://gbatemp.net/threads/touhou-9-switch-port.684847/) | Yes |  
-| Touhou Wonderful Waking World | lag-fix-1 | 15/09/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-wonderful-waking-world-switch-port.684305/) | Yes |  
-| 🟢 Touhou 10: Mountain of Faith | 1.00a-r5 | 30/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-10-switch-port.684458/) | Yes |  
-| 🟢 Touhou 11: Subterranean Animism | v1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-11-switch-port.684849/) | Yes |  
+| 🟢 Touhou 6: Embodiment of the Scarlet Devil | 1.02h-r2 | 30/09/2026 | [saekaze/th06-switch](https://github.com/saekaze/th06-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 7: Perfect Cherry Blossom | 1.00b-r5 | 30/09/2026 | [saekaze/th07-switch](https://github.com/saekaze/th07-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 8: Imperishable Night | 1.00d-r4 | 30/09/2026 | [saekaze/th08-switch](https://github.com/saekaze/th08-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 9: Phantasmagoria of Flower View | 1.50a-r2 | 30/09/2026 | [saekaze/th09-switch](https://github.com/saekaze/th09-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| Touhou Wonderful Waking World | lag-fix-1 | 15/09/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 10: Mountain of Faith | 1.00a-r5 | 30/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 11: Subterranean Animism | 1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
+| 🟢 Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r1 | 06/10/2026 | [saekaze/th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) | Yes |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | Link | Yes |  
 | Warcraft | 3.3.3-NX | 14/09/2026 | [Thorhax/War1gus-NX-Modern](https://github.com/Thorhax/War1gus-NX-Modern) | Link | Yes |  
 | Warcraft II | 3.3.2-NX.2 | 09/09/2026 | [Thorhax/Wargus-NX-Modern](https://github.com/Thorhax/Wargus-NX-Modern) | Link | Yes |  
@@ -424,6 +433,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Xbox  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Need for Speed: Carbon | 0.1 | 06/10/2026 | [antoxa2584x/nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) | Yes |  
 | 🟢 Need for Speed: Underground 2 | 0.4.5 | 05/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) | Yes |  
 
 - 1/1 updated 05/10/2026  
