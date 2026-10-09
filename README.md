@@ -95,7 +95,7 @@ violators will be ignored.
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Amazing Spider-Man 2 | 1.0.0 | 06/10/2026 | [boraeskicioglu/tasm2_nx](https://github.com/boraeskicioglu/tasm2_nx) | | Yes |  
-| 🟢 Angry Birds Forever | 1.0.0 | 06/10/2026 | [https://github.com/aks796/abforever_nx](aks796/abforever_nx) | | Yes |  
+| 🟢 Angry Birds Forever | 1.0.0 | 06/10/2026 | [aks796/abforever_nx](https://github.com/aks796/abforever_nx) | | Yes |  
 | 🟢 Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | | Yes |  
 | 🟢 Angry Birds: Star Wars 2 | 1.0.1 | 04/10/2026 | [markaurel13/abstarwars2_nx](https://github.com/markaurel13/abstarwars2_nx) | | Yes |  
 | 🟢 Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | | Yes |  
