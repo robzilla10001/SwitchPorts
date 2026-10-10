@@ -261,12 +261,12 @@ violators will be ignored.
 ### Arcade
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Daytona USA | 1.0.0 | 03/10/2026 | [Thorhax/Daytona-NX-Modern](https://github.com/Thorhax/Daytona-NX-Modern) | | Yes |  
+| 🟢 Daytona USA | 1.0.0 | 03/10/2026 | [Thorhax/Daytona-NX-Modern](https://github.com/Thorhax/Daytona-NX-Modern) | [Link](https://gbatemp.net/threads/daytona-usa-arcade-port-nx.685139/unread) | Yes |  
 | 🟢 Killer Instinct | 1.1.1 | 29/09/2026 | [Thorhax/Killer-Instinct-NX-Modern](https://github.com/Thorhax/Killer-Instinct-NX-Modern) | | Yes |  
 | 🟢 Killer Instinct 2 | 1.0.0 | 29/09/2026 | [Thorhax/Killer-Instinct-2-NX-Modern](https://github.com/Thorhax/Killer-Instinct-2-NX-Modern) | | Yes |  
 | 🟢 Sega Rally | switch-v0.5.3 | 08/10/2026 | [jacquesdupontd/port0r](https://github.com/jacquesdupontd/port0r) | [Link](https://gbatemp.net/threads/sega-rally-1995-arcade-on-switch-full-16-9-hd-textures-10-mods-replays-online-leaderboard.685124/) | Yes |  
 | 🟢 Sonic the Fighters | 0.8.3 | 09/10/2026 | [boraeskicioglu/sonic_the_fighters_nx](https://github.com/boraeskicioglu/sonic_the_fighters_nx) | | Yes |  
-| 🟢 Virtua Fighter 2 | 1.0.0 | 09/10/2026 | [Thorhax/VF2-NX-Modern](https://github.com/Thorhax/VF2-NX-Modern) | | Yes |  
+| 🟢 Virtua Fighter 2 | 1.0.0 | 09/10/2026 | [Thorhax/VF2-NX-Modern](https://github.com/Thorhax/VF2-NX-Modern) | [Link](https://gbatemp.net/threads/virtua-fighter-2-arcade.685157/unread) | Yes |  
 
 - 2/2 updated 05/10/2026  
 ⎯ [Top](#toc)
@@ -450,6 +450,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Xbox  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Def Jam: Fight for NY | 1.0.0 | 09/10/2026 | [R-drg/defjam-sw](https://github.com/R-drg/defjam-sw) | | Yes |  
 | 🟢 Halo: Combat Evolved | Build 62 | 06/10/2026 | [thelinkin3000/halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) | Yes |  
 | 🟢 Need for Speed: Carbon | 0.1 | 06/10/2026 | [antoxa2584x/nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) | Yes |  
 | 🟢 Need for Speed: Underground 2 | 0.4.5 | 05/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) | Yes |  
