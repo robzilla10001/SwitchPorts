@@ -70,6 +70,7 @@ violators will be ignored.
 | J2ME | FreeJ2ME | Proto | 02/09/2026 | [MiaouMeowMiaou/j2me-for-switch](https://github.com/MiaouMeowMiaou/j2me-for-switch) | [Link](https://gbatemp.net/threads/freej2me-on-switch.684170/) | Yes |  
 | G&W | Yokoi | 1.0.4 | 16/09/2026 | [1timewire1/Yokoi_Game_-_Watch_emulator_switch](https://github.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch/tree/switch-port) | [Link](https://gbatemp.net/threads/yokoi-game-watch-sm5xx-based-lcd-handhelds-emulator.684004/) | Yes |  
 | KiriKiri | 🟢 Kirikiroid2-NX | 0.1.2-alpha | 01/10/2026 | [Erige005/Kirikiroid2-NX](https://github.com/Erige005/Kirikiroid2-NX) | [Link](https://gbatemp.net/threads/release-kirikiroid2-nx-kirikiroid2-kirikiri-krkr-visual-novel-player-ported-to-the-switch.684902/) | Yes |  
+| MODEL2 | 🟢 Model2 NX | 1.0 | 10/10/2026 | [toniisound/model2-nx](https://github.com/toniisound/model2-nx) | [Link](https://gbatemp.net/threads/release-model2-nx-1-0-experimental-sega-model-2-emulator-for-nintendo-switch-powered-by-mame.685198/) | Yes |  
 | MODEL3 | 🟢 Supermodel-NX | 1.3.0 | 05/10/2026 | [toniisound/supermodel-nx](https://github.com/toniisound/supermodel-nx) | [Link](https://gbatemp.net/threads/release-supermodel-nx-sega-model-3-arcade-emulator-for-nintendo-switch.684935/) | Yes |  
 | MULTI | Tico | 0.7.9 | 13/08/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) | Yes |  
 | MULTI | 🟢 RetroArch | *nightly* | *nightly* | [Libretro NX Nightly Builds](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/) | | Yes |  
@@ -275,6 +276,7 @@ violators will be ignored.
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |
 | 🟢 Pokemon Gen 1 | 0.3.52 | 05/10/2026 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | | Yes |  
+| 🟢 Pokemon Gen 2 | 0.8.17 | 10/10/2026 | [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) | | Yes |  
 
 - 1/1 updated 05/10/2026  
 ⎯ [Top](#toc)  
@@ -391,6 +393,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Quake 2 | 8.21 NX | 01/09/2026 | [Thorhax/Quake2-NX-Modern](https://github.com/Thorhax/Quake2-NX-Modern) | | Yes |  
 | 🔴 The Simpsons: Hit and Run | 0.6.1 | 22/07/2024 | [ZeroArrows/The-Simpsons-Hit-and-Run](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/) | | ??? |  
 | Silent Hill | 1.1.0 | 15/08/2026 | [ChaykaDed/silent-hill-decomp-nx](https://github.com/ChaykaDed/silent-hill-decomp-nx/) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) | Yes |  
+| 🟢 | Silent Hill 2 | 0.55 | 10/10/2026 | [cutarev/sh2-nx](https://github.com/cutarev/sh2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
+| 🟢 | Silent Hill 3 | 0.01 | 10/10/2026 | [cutarev/sh3-nx](https://github.com/cutarev/sh3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957) | Yes |  
 | Sonic 2006 (MarathonRecomp) | 1.0.2 | 31/07/2026 | [NaGaa95/MarathonRecomp-NX](https://github.com/NaGaa95/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/) | Yes |  
 | 🟠 Sonic CD | 1.3.0 | 26/11/2021 | [heyjoeway/Sonic-CD-11-Decompilation](https://github.com/heyjoeway/Sonic-CD-11-Decompilation/) | | No |  
 | Sonic R | 0.1 | 15/09/2026 | [boraeskicioglu/sonic_r_nx](https://github.com/boraeskicioglu/sonic_r_nx) | [Link](https://gbatemp.net/threads/sonic-r-switch-port-with-lan-support.684446/) | Yes |  
@@ -441,6 +445,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | F-Zero | 0.3.0 | 19/09/2026 | [Thorhax/F-Zero-NX-Modern](https://github.com/Thorhax/F-Zero-NX-Modern) | | Yes |  
 | 🔴 The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) | No |  
 || 1.2.1 | 26/09/2026 | [Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10899736) | Yes |  
+| 🟢 Mega Man X | 1.0.2 | 07/10/2026 | [Thorhax/MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) | Yes |  
 | 🟢 Starfox | 0.0.8 | 28/09/2026 | [kandowontu2/starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) | Yes |  
 | 🔴 Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
 
