@@ -584,6 +584,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Metal Gear Rising: Revengeance | 0.2.1 | 22/10/2026 | [tuancapoo/mgr-nx-deko](https://github.com/tuancapoo/mgr-nx-deko) | | Yes |  
 | 🟢 Monster High: New Ghoul in School | *released* | 21/10/2026 | [adumah/mhnwis-nx](https://github.com/adumah/mhnwis-nx) | Yes |  
 | 🟢 Mushihimesama Futari | 1.0.1 | 20/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) | Yes |  
+| 🟢 Need for Speed: Carbon | 0.3.0 | 23/10/2026 | [Kaays/nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | | Yes |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
 | 🟢 Peggle | 1.0.1 | 21/10/2026 | [ChanseyIsTheBest/peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | | Yes |  
 | 🟢 Peggle 2 | 1.0.1 | 20/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) | Yes |  
