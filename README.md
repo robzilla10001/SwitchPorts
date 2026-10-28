@@ -167,7 +167,7 @@ Alphabetized by system
 | Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | | Yes |  
 | 🟢 Jet Set Radio | 1.1.0 | 21/10/2026 | [lemasterxar5/jet-set-radio-nx](https://github.com/lemasterxar5/jet-set-radio-nx) | | Yes |  
 | Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | | Yes |  
-| 🟢 Modern Combat 3: Fallen Nation | 1.0.0 | 26/10/2026 | [Kaays/mc3_nx](https://github.com/Kaays/mc3_nx) | | Yes |  
+| 🟢 Modern Combat 3: Fallen Nation | 1.0.1 | 28/10/2026 | [Kaays/mc3_nx](https://github.com/Kaays/mc3_nx) | | Yes |  
 | 🟢 Modern Combat 4: Zero Hour | 1.0.1 | 27/10/2026 | [Kaays/mc4_nx](https://github.com/Kaays/mc4_nx) | | Yes |  
 | 🟢 Need for Speed: Most Wanted | 0.3.0 | 19/10/2026 | [SantiBros/NFSMostWanted2012-Android-Switch](https://github.com/SantiBros/NFSMostWanted2012-Android-Switch) | | Yes |  
 | N.O.V.A. 3: Near Orbit Vanguard Alliance | 1.0.1 | 11/10/2026 | [markaurel13/nova3-nx](https://github.com/markaurel13/nova3-nx) | [Link](https://gbatemp.net/threads/n-o-v-a-3-switch-port.685264/) | Yes |  
