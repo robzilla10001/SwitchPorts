@@ -360,7 +360,7 @@ Alphabetized by system
 | The Legend of Zelda: Link's Awakening DX | 1.7.3 | 25/04/2026 | [delsonazevedo/Zelda-LA-DX-HD-Updated](https://github.com/delsonazevedo/Zelda-LA-DX-HD-Updated) | | Yes |   
 | | 1.2.0 | 16/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-zelda-links-awakening-dx-hd-aleks-ultimate-nx-edition-switch-homebrew-60fps-flip-grip-touch-second-screen.684512/unread) | Yes |  
 | The Legend of Zelda: Oracle of Seasons / Oracle of Ages | 1.0.0 | 10/10/2026 | [toniisound/oracles-nx](https://github.com/toniisound/oracles-nx) | [Link](https://gbatemp.net/threads/release-oracles-nx-1-0-native-switch-port-of-oracle-of-ages-oracle-of-seasons.685197/) | Yes |  
-| 🟢 | 1.2.0 | 22/10/2026 | [toniisound/The-Oracles-Project-NX](https://github.com/toniisound/The-Oracles-Project-NX) | [Link](https://gbatemp.net/threads/release-the-oracles-project-nx-1-1-0-oracle-of-ages-seasons-for-switch-widescreen-languages-mods.685427/) | Yes |  
+| 🟢 | 1.3.0 | 29/10/2026 | [toniisound/The-Oracles-Project-NX](https://github.com/toniisound/The-Oracles-Project-NX) | [Link](https://gbatemp.net/threads/release-the-oracles-project-nx-1-1-0-oracle-of-ages-seasons-for-switch-widescreen-languages-mods.685427/) | Yes |  
 
 - 1/4 updated 26/10/2026  
 ⎯ [Top](#toc)  
