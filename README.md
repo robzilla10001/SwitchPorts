@@ -625,6 +625,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🟢 Peggle | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | | Yes |  
 | 🟢 Peggle 2 | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) | Yes |  
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | | Yes |  
+| 🟢 Silent Hill 3 | 1.0 | 30/10/2026 | [gerisson1996/SILENT-HILL-HD-COLLECTION-NX](https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX) | [Link](https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/) | Yes |  
+| 🟢 Silent Hill Homecoming | 1.0 | 30/10/2026 | [gerisson1996/SHH-NX-PORT](https://github.com/gerisson1996/SHH-NX-PORT) | [Link](https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/) | Yes |  
 | 🟢 Skate 3 | 0.1.4 | 27/10/2026 | [JohnUzoka/skate-3-rust-engine](https://github.com/JohnUzoka/skate-3-rust-engine) | | Yes |  
 | 🟢 Sonic Adventure 2 | 1.0.3.1 | 20/10/2026 | [ChanseyIsTheBest/sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) | Yes |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) | Yes |  
