@@ -584,6 +584,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | |  1.0.0 | 10/10/2026 | [seamusduncmcgrath/OpenCE-nx](https://github.com/seamusduncmcgrath/OpenCE-nx) | | Yes |  
 | 🟢 Midnight Club 3: Dub Edition | 0.4.0 | 25/10/2026 | [laureladastra/mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991) | Yes |  
 | 🟢 Mortal Kombat: Shaolin Monks | 0.3.1 | 27/10/2026 | [Thorhax/ShaolinMonks-NX](https://github.com/Thorhax/ShaolinMonks-NX) | | Yes |  
+| 🟢 MVP Baseball '05 | 0.2.0 | 27/10/2026 | [xsaja/mvp-nx](https://github.com/xsaja/mvp-nx) | [Link](https://gbatemp.net/threads/mvp-baseball-05-xbox-switch-port.686056/) | Yes |  
 | Need for Speed: Carbon | 0.2.4 | 18/10/2026 | [antoxa2584x/nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) | Yes |  
 | Need for Speed: Underground | 0.4.0 | 15/10/2026 | [antoxa2584x/nfsu1-sw](https://github.com/antoxa2584x/nfsu1-sw) | | Yes |  
 | Need for Speed: Underground 2 | 0.5.13 | 18/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) | Yes |  
