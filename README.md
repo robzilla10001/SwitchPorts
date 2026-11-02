@@ -88,9 +88,11 @@ violators will be ignored.
   🟨 = Playable  
   🟩 = Completable  
   ✳️ = Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain.  
-  ``*Authors Only*`` - Please submit PRs with your updates; I do NOT have the ability to test every game.
-  If we come across any games that the author is not available, we will have testers on the discord
-  give status updates as a consensus.
+  ``*Authors/Testers Only*`` - Please submit an Issue using the template provided; I do NOT
+  have the ability to test every game. If we come across any games that the author is not
+  available, we will have testers on the discord give status updates as a consensus. The issues
+  will auto update the list; if you are an Author or Tester and are not on the list, please
+  post in the open issue, and I will address it as soon as I can.
 - 🟢 - indicates the title is new and/or updated in a recent edit. Most recent commit <7 days.
 - Removed non-linked GBATemp Thread place holders. See the discussion topic linked above to
   discuss any title that doesn't have a dedicated thread. I briefly considered making a thread
