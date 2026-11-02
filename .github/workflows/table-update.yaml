@@ -1,0 +1,25 @@
+name: Table update from issue
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    if: contains(github.event.issue.labels.*.name, 'Table Update')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Edit the row
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python .github/scripts/update_row.py
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: table-update/issue-${{ github.event.issue.number }}
+          commit-message: "Update table entry (#${{ github.event.issue.number }})"
+          title: "Table update from #${{ github.event.issue.number }}"
+          body: "Automated edit from the issue form. Closes #${{ github.event.issue.number }}"
