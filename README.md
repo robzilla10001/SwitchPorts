@@ -73,11 +73,11 @@ this topic.
 If a repo is found to be disseminating copyrighted materials, it will be removed. No exceptions. Repeat
 violators will be ignored. 
 
->however, most of these projects I will attempt to build myself to
->ensure functionality and ease of use. Where I encounter issues, I will attempt to rectify and provide
->improved instructions/directions.
+~~>however, most of these projects I will attempt to build myself to~~
+~~>ensure functionality and ease of use. Where I encounter issues, I will attempt to rectify and provide~~
+~~>improved instructions/directions.~~
 
-(this is a planned future development; stay tuned).
+(this was optimistic as hell, I don't have the time, apologies).
 
 ## Recent Changes:
 - We have a new column; replacing `Status?` will be `Status`, followed by the following
@@ -98,7 +98,6 @@ violators will be ignored.
   discuss any title that doesn't have a dedicated thread. I briefly considered making a thread
   for each title missing one, but A.) didn't feel like flooding GBATemp and catching a vacation,
   and B.) Just seems like a waste of time.
-- Above information updated on future state of project.
 - Moved archived/dead projects to DEAD.md.
 
 <a id="toc"></a>  
