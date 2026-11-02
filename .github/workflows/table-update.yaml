@@ -1,4 +1,4 @@
-name: Table update from issue
+name: Status update from issue
 on:
   issues:
     types: [opened]
@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   update:
-    if: contains(github.event.issue.labels.*.name, 'Table Update')
+    if: contains(github.event.issue.labels.*.name, 'Status Update')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
