@@ -4,7 +4,7 @@ title: "Status: "
 labels: ["table-update"]
 body:
   - type: dropdown
-      label: "System: "
+      label: System
       options:
         - Emulators
         - Android 32bit
@@ -35,7 +35,7 @@ body:
       description: Must exactly match the first column of the existing row (leave off 🟢) 
     validations: { required: true }
   - type: dropdown
-      label: "Status: "
+      label: Status
       options:
         - ⬛️ = Does not boot  
         - 🟥 = Game boots to title  
