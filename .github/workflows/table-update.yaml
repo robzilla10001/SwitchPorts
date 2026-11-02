@@ -37,6 +37,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --squash --delete-branch
 
+      - name: Close the issue
+        if: steps.cpr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue close ${{ github.event.issue.number }} --repo "$GITHUB_REPOSITORY" \
+            --reason completed \
+            --comment "Updated in #${{ steps.cpr.outputs.pull-request-number }}. Thanks!"
+
       - name: Report failure on the issue
         if: failure()
         env:
