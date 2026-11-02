@@ -163,7 +163,7 @@ Alphabetized by system
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | Amazing Spider-Man 2 | 1.0.0 | 06/10/2026 | [boraeskicioglu/tasm2_nx](https://github.com/boraeskicioglu/tasm2_nx) | [Link](https://gbatemp.net/threads/the-amazing-spider-man-2-android-switch-port.685253/) |  |  
-| Angry Birds Forever | 1.0.0 | 06/10/2026 | [aks796/abforever_nx](https://github.com/aks796/abforever_nx) | | ✳️ |
+| Angry Birds Forever | 1.0.0 | 06/10/2026 | [aks796/abforever_nx](https://github.com/aks796/abforever_nx) | |  |
 | Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/abspace_nx](https://github.com/aks796/abspace_nx) | |  |  
 | Angry Birds: Star Wars 2 | 1.0.2 | 07/10/2026 | [markaurel13/abstarwars2_nx](https://github.com/markaurel13/abstarwars2_nx) | |  |  
 | Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/a8retry_nx](https://github.com/aks796/a8retry_nx) | |  |  
@@ -176,7 +176,7 @@ Alphabetized by system
 | Ducktales: Remastered | 1.3.0 | 03/10/2026 | [Thorhax/Ducktales-NX](https://github.com/Thorhax/Ducktales-NX) | |  |  
 | Disney Crossy Road | 1.0.2 | 01/10/2026 | [aks796/dcr_sea_nx](https://github.com/aks796/dcr_sea_nx) | |  |  
 | Flappy Birds Family | 1.0.2 | 01/10/2026 | [aks796/flappybirdsfamily_nx](https://github.com/aks796/flappybirdsfamily_nx) | |  |  
-| 🟢 Jet Set Radio | 1.1.0 | 21/10/2026 | [lemasterxar5/jet-set-radio-nx](https://github.com/lemasterxar5/jet-set-radio-nx) | | 🟥 |
+| 🟢 Jet Set Radio | 1.1.0 | 21/10/2026 | [lemasterxar5/jet-set-radio-nx](https://github.com/lemasterxar5/jet-set-radio-nx) | |  |
 | Labyrinth 2 | 1.0.2 | 01/10/2026 | [aks796/labyrinth2_nx](https://github.com/aks796/labyrinth2_nx) | |  |  
 | 🟢 Modern Combat 3: Fallen Nation | 1.0.1 | 28/10/2026 | [Kaays/mc3_nx](https://github.com/Kaays/mc3_nx) | |  |  
 | 🟢 Modern Combat 4: Zero Hour | 1.0.1 | 27/10/2026 | [Kaays/mc4_nx](https://github.com/Kaays/mc4_nx) | |  |  
