@@ -6,20 +6,55 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 jobs:
   update:
-    if: contains(github.event.issue.labels.*.name, 'Status Update')
+    if: >-
+      contains(github.event.issue.labels.*.name, 'Status Update') &&
+      contains(fromJSON(vars.ALLOWED_USERS), github.event.issue.user.login)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Edit the row
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: python .github/scripts/update_row.py
-      - uses: peter-evans/create-pull-request@v7
+
+      - name: Create PR
+        id: cpr
+        uses: peter-evans/create-pull-request@v7
         with:
           branch: table-update/issue-${{ github.event.issue.number }}
-          commit-message: "Update table entry (#${{ github.event.issue.number }})"
-          title: "Table update from #${{ github.event.issue.number }}"
-          body: "Automated edit from the issue form. Closes #${{ github.event.issue.number }}"
+          commit-message: "Update status (#${{ github.event.issue.number }})"
+          title: "Status update from #${{ github.event.issue.number }}"
+          body: "Automated edit by @${{ github.event.issue.user.login }}. Closes #${{ github.event.issue.number }}"
+
+      - name: Auto-merge
+        if: steps.cpr.outputs.pull-request-number
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --squash --delete-branch
+
+      - name: Report failure on the issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo "$GITHUB_REPOSITORY" \
+            --body "Couldn't apply this update. Check that the System and Game exactly match the table, then open a new issue."
+
+  reject:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'table-update') &&
+      !contains(fromJSON(vars.ALLOWED_USERS), github.event.issue.user.login)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close unauthorized request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --repo "$GITHUB_REPOSITORY" \
+            --body "Status updates are limited to approved maintainers. If you think a status is wrong, please open a regular issue."
+          gh issue close ${{ github.event.issue.number }} --repo "$GITHUB_REPOSITORY" --reason "not planned"
