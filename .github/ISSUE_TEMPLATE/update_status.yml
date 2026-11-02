@@ -1,0 +1,48 @@
+name: Update status
+description: Post an update to a game status
+title: "Status: "
+labels: ["table-update"]
+body:
+  - type: dropdown
+      options:
+        Emulators
+        Android 32bit
+        Android 64bit
+        Arcade
+        Nintendo Gameboy
+        Nintendo Gameboy Color
+        Nintendo Gameboy Advance
+        Nintendo GameCube
+        Sega Genesis
+        Nintendo 64
+        PC
+        Sony Playstation
+        Sony Playstation
+        Super Nintendo Entertainment System
+        Microsoft Xbox
+        Microsoft Xbox 360
+        Nintendo Wii U
+    id: section
+    attributes:
+      label: Section
+      description: The System Header
+    validations: { required: true }
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      description: Must exactly match the first column of the existing row (leave off 🟢) 
+    validations: { required: true }
+  - type: dropdown
+      options:
+        ⬛️ - Does not boot  
+        🟥 - Game boots to title  
+        🟧 - Boots into game, unplayable  
+        🟨 - Playable  
+        🟩 - Completable  
+        ✳️ - Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain. 
+    id: status
+    attributes:
+      label: Status
+      description: Project progress
+    validations: { required: true }
