@@ -468,7 +468,7 @@ Alphabetized by system
 ### PC
 Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
-| 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) | ??? |  
+| 0 A.D. | R28-NX1 | 30/06/2026 | [souldbminerr/0ad-switch](https://github.com/souldbminerr/0ad-switch) | [Link](https://gbatemp.net/threads/0-a-d-switch-port-rts-in-horizon-os.682759/) |  |  
 | 🟢 Age of Empires II: The Age of Kings | 0.6.5 *prerelease* | 02/11/2026 | [Zaydme/openaok](https://github.com/Zaydme/openaok) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10935642) |  |  
 | Alien vs. Predator: Gold | v2026-nx | 13/09/2026 | [Thorhax/AvP-Gold-NX-Modern](https://github.com/Thorhax/AvP-Gold-NX-Modern) | |  |  
 | 🟢 Atomic Bomberman | 1.0.8 | 31/10/2026 | [rashevskyv/atomic-bomberman](https://github.com/rashevskyv/atomic-bomberman) | [Link](https://gbatemp.net/threads/atomic-bomberman-for-switch.685994/) |  |  
@@ -485,11 +485,11 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Doom | 4.10.0 | 29/08/2026 | [Thorhax/GZDoom-NX-2026](https://github.com/Thorhax/GZDoom-NX-2026) | |  |  
 | | Update 2 | 11/09/2026 | [Thorhax/GZDoom-NX-Modern](https://github.com/Thorhax/GZDoom-NX-Modern) | |  |  
 | Driver 2 | 0.1.0 | 07/06/2026 | [jamyaro/REDRIVER2-switch](https://github.com/jamyaro/REDRIVER2-switch) | [Link](https://gbatemp.net/threads/redriver2-driver-2-playstation-game-reverse-engineering.682414/) |  |  
-| ♻️ Dune II | 0.98.4 | 09/11/2025 | [carstene1ns/dunelegacy](https://github.com/carstene1ns/dunelegacy/tree/switch-port) | [Link](https://gbatemp.net/threads/dune-legacy-dune-ii-remake.676917/) | ??? |  
+| ♻️ Dune II | 0.98.4 | 09/11/2025 | [carstene1ns/dunelegacy](https://github.com/carstene1ns/dunelegacy/tree/switch-port) | [Link](https://gbatemp.net/threads/dune-legacy-dune-ii-remake.676917/) |  |  
 | Elder Scrolls III Morrowind | 0.46.0-nx4 | 16/08/2026 | [fgsfdsfgs/openmw](https://github.com/fgsfdsfgs/openmw/) | [Link](https://gbatemp.net/threads/openmw-for-switch.540250/) |  |  
 | | 1.0.0 | 15/10/2026 | [seamusduncmcgrath/openmw-nx](https://github.com/seamusduncmcgrath/openmw-nx) | |  |  
-| Fallout | 1.1.0 | 21/05/2026 | [ryandeering/fallout-ce-switch](https://github.com/ryandeering/fallout-ce-switch/) | [Link](https://gbatemp.net/threads/fallout-1-2-ce-switch-port.681906/) | ??? |  
-| Fallout 2 | 1.1.1 | 21/05/2026 | [ryandeering/fallou2-ce-switch](https://github.com/ryandeering/fallout2-ce-switch/) | [Link](https://gbatemp.net/threads/fallout-1-2-ce-switch-port.681906/) | ??? |  
+| Fallout | 1.1.0 | 21/05/2026 | [ryandeering/fallout-ce-switch](https://github.com/ryandeering/fallout-ce-switch/) | [Link](https://gbatemp.net/threads/fallout-1-2-ce-switch-port.681906/) |  |  
+| Fallout 2 | 1.1.1 | 21/05/2026 | [ryandeering/fallou2-ce-switch](https://github.com/ryandeering/fallout2-ce-switch/) | [Link](https://gbatemp.net/threads/fallout-1-2-ce-switch-port.681906/) |  |  
 | 🟢 Fallout: New Vegas | *unreleased* | 28/10/2026 | [DerilDX/nv-rs-nx](https://github.com/DerilDX/nv-rs-nx) | |  |  
 | Freespace 2 | 1.0.1 | 28/06/2026 | [NaGaa95/freespace2_nx](https://github.com/NaGaa95/freespace2_nx) | |  |  
 | 🟢 Half Life | 4230 | 30/10/2026 | [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs/) | [Link](https://gbatemp.net/threads/xash3d-half-life-custom-goldsrc-engine-for-switch.522848/) |  |  
@@ -499,7 +499,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Jazz Jackrabbit 2 | 3.9.0 | 17/10/2026 | [deathkiller/jazz2](https://github.com/deathkiller/jazz2) | |  |  
 | The Legend of Zelda: Oni Link Begins | 1.1.1 | 25/08/2026 | [worthis/ZeldaOLB-new-engine](https://github.com/worthis/ZeldaOLB-new-engine) |  |  |  
 | The Legend of Zelda: Return of the Hylian | 1.1.4 | 25/08/2026 | [worthis/ZeldaROTH-new-engine](https://github.com/worthis/ZeldaROTH-new-engine) |  |  |  
-| The Legend of Zelda: Time To Triumph | *released* | 27/07/2026 | [worthis/Zelda3T](https://github.com/worthis/Zelda3T) |  | ??? |  
+| The Legend of Zelda: Time To Triumph | *released* | 27/07/2026 | [worthis/Zelda3T](https://github.com/worthis/Zelda3T) |  |  |  
 | Luanti | 0.1.0 | 15/10/2026 | [adumah/Luanti-NX/](https://github.com/adumah/Luanti-NX/) | |  |  
 | Marble Blast Collection | 1.3.0 | 30/08/2026 | [ChanseyIsTheBest/MBHaxe-Switch](https://github.com/ChanseyIsTheBest/MBHaxe-Switch) | [Link](https://gbatemp.net/threads/mbhaxe-switch-port-marble-blast-gold-ultra-platinum-platinum-quest.684096/) |  |  
 | Mari0 | 1.0.0 | 13/08/2026 | [delsonazevedo/mari0-switch](https://github.com/delsonazevedo/mari0-switch) | |  |  
