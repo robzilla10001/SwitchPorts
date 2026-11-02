@@ -671,6 +671,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Nights into Dreams | 1.0.1 | 29/10/2026 | [ChanseyIsTheBest/nights-nx](https://github.com/ChanseyIsTheBest/nights-nx) | |  |  
 | Peggle | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | |  |  
 | Peggle 2 | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) |  |  
+| 🟢 Shank | 1.0.0 | 31/10/2026 | [zhtipu/shank1-nx](https://github.com/zhtipu/shank1-nx) | |  |  
+| 🟢 Shank 2 | 1.0.0 | 31/10/2026 | [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | |  |  
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | |  |  
 | 🟢 Silent Hill 3 | 1.0 | 30/10/2026 | [gerisson1996/SILENT-HILL-HD-COLLECTION-NX](https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX) | [Link](https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/) |  |  
 | 🟢 Silent Hill Homecoming | 1.0 | 30/10/2026 | [gerisson1996/SHH-NX-PORT](https://github.com/gerisson1996/SHH-NX-PORT) | [Link](https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/) |  |  
