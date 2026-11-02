@@ -147,7 +147,7 @@ Alphabetized by system
 | NGC/WII | Dolphin | 1.2.0 | 16/10/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) |  |  
 | | 🟢 Nezumiiruka | 1.1.0 | 26/10/2026 | [PalindromicBreadLoaf/nezumiiruka](https://github.com/PalindromicBreadLoaf/nezumiiruka) | [Link](https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/) |  |  
 | PSX | 🟢 Duckstation | PR 3 | 29/10/2026 | [shooterspps/duckstation](https://github.com/shooterspps/duckstation) | [Link](https://gbatemp.net/threads/duckstation-for-switch.654484/) |  |  
-| | | 🟢 3.0 | 30/10/2026 | [JohnJames29/duckstation-nx](https://github.com/JohnJames29/duckstation-nx) | |  |  
+| | 🟢 | 3.0 | 30/10/2026 | [JohnJames29/duckstation-nx](https://github.com/JohnJames29/duckstation-nx) | |  |  
 | PS2 | NetherSX2 | 1.4.0 | 15/10/2026 | [NaGaa95/NetherSX2_nx](https://github.com/NaGaa95/NetherSX2_nx) | [Link](https://gbatemp.net/threads/nethersx2-switch-port.683038/) |  |  
 | PS2 | ARMSX2 | 3.0.0 | 24/08/2026 | [PalindromicBreadLoaf/ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) | [Link](https://gbatemp.net/threads/armsx2-nx-initial-release.682645/) |  |  
 | PSP | PPSSPP | 0.7.0 | 07/09/2026 | [SirSamael/ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | [Link](https://gbatemp.net/threads/ppsspp-switch-community-build.684008/) |  |   
@@ -160,7 +160,7 @@ Alphabetized by system
 | WIN | Autorun | test-build-4 | 24/09/2026 | [danfromtico/autorun](https://github.com/danfromtico/autorun) | [Link](https://gbatemp.net/threads/autorun-play-windows-pc-games-on-your-nintendo-switch.684587/) |  |  
 
 
-- 7/25 Updated 02/11/2026  
+- 8/25 Updated 02/11/2026  
 ⎯ [Top](#toc)  
 
 <a id="and32"></a>  
@@ -506,7 +506,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Mari0: Alesan99's Entities | 1.0.0 | 12/09/2026 | [aks796/mari0_ae_nx](https://github.com/aks796/mari0_ae_nx) | |  |  
 | McOsu | 33.14 | 08/08/2026 | [McKay42/McOsu-NX](https://github.com/McKay42/McOsu-NX) | [Link](https://gbatemp.net/threads/mcosu-osu-for-the-switch.529564/) |  |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | |  |  
-| 🟢 Mega Max W | 0.1.0 | 27/10/2026 | [Vroccolli/mega-man-w-switch-homebrew](https://github.com/Vroccolli/mega-man-w-switch-homebrew) | [Link](https://gbatemp.net/threads/megaman-w-fan-game-switch-port.685896/) |  |  
+| 🟢 Mega Man W | 0.1.0 | 27/10/2026 | [Vroccolli/mega-man-w-switch-homebrew](https://github.com/Vroccolli/mega-man-w-switch-homebrew) | [Link](https://gbatemp.net/threads/megaman-w-fan-game-switch-port.685896/) |  |  
 | 🟢 Nazi Zombies: Portable | 2.0.0 | 31/10/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) |  |  
 | Minecraft Java 1.12.2 | *released* | 21/10/2026 | [etonedemid/minecraft-switch](https://github.com/etonedemid/minecraft-switch) | |  |  
 | One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | [Link](https://gbatemp.net/threads/preliminary-list-of-updated-homebrew-apps-and-tools-for-fw-21-0-0-ams-1-10-0-please-add-your-findings.677217/post-10907101) |  |  
@@ -713,5 +713,5 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
 
-- 88/406 total updated 02/11/2026  
+- 89/406 total updated 02/11/2026  
 ⎯ [Top](#toc)  
