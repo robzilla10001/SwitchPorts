@@ -1,7 +1,6 @@
 name: Update status
 description: Post an update to a game status
 title: "Status: "
-labels: ["table-update"]
 body:
   - type: dropdown
     id: section
