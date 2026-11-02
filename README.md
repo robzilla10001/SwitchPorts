@@ -410,7 +410,7 @@ Alphabetized by system
 | | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) |  |  
 | 🟢 | 1.0.3 | 29/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) |  |  
 | 🟢 The Legend of Zelda: Wind Waker | 1.0.2 | 27/10/2026 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) |  |  
-| 🟢 Luigi's Mansion | 1.0.1 | 01/11/2026 | [StevensND/lm-nx](https://github.com/StevensND/lm-nx) | |  |  
+| 🟢 Luigi's Mansion | 1.0.1 | 01/11/2026 | [StevensND/lm-nx](https://github.com/StevensND/lm-nx) | [Link](https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/) |  |  
 | 🟢 Mario Kart: Double Dash! | 1.8.0 | 31/10/2026 | [digdat0/mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) |  |  
 | 🟢 Sonic Riders | 0.3.4 | 29/10/2026 | [teclilla18/sonic-riders-recomp](https://github.com/teclilla18/sonic-riders-recomp) | [Link](https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/) |  |  
 | 🟢 Super Mario Strikers | 1.9.8 *test build* | 29/10/2026 |[new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) |  |  
@@ -641,11 +641,12 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | 🚫 Bakugan: Battle Brawlers | 0.2.3 | 23/10/2026 | [Wiredlainn-afk/Bakugan-NX](https://github.com/Wiredlainn-afk/Bakugan-NX) | |  |  
 | 🟢 Bangai-O HD: Missile Fury | 1.0.0 | 29/10/2026 | [ChanseyIsTheBest/bangaio-nx](https://github.com/ChanseyIsTheBest/bangaio-nx) | [Link](https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/) |  |  
-| 🟢 Banjo-Kazooie: Nuts & Bolts | 1.0.1 | 01/11/2026 | [ChanseyIsTheBest/renut-nx](https://github.com/ChanseyIsTheBest/renut-nx) | |  |  
+| 🟢 Banjo-Kazooie: Nuts & Bolts | 1.0.1 | 01/11/2026 | [ChanseyIsTheBest/renut-nx](https://github.com/ChanseyIsTheBest/renut-nx) | [Link](https://gbatemp.net/threads/banjo-kazooie-nuts-bolts-renut-switch-port.686095/) |  |  
 | BattleBlock Theater | 0.2.0 | 22/10/2026 | [andresarevalo1/BattleBlockRecomp-NX](https://github.com/andresarevalo1/BattleBlockRecomp-NX) | |  | 
-| 🟢 Beautiful Katamari | 1.0.0 | 01/11/2026 | [ChanseyIsTheBest/katamari-nx](https://github.com/ChanseyIsTheBest/katamari-nx) | |  |  
+| 🟢 Beautiful Katamari | 1.0.0 | 01/11/2026 | [ChanseyIsTheBest/katamari-nx](https://github.com/ChanseyIsTheBest/katamari-nx) | [Link](https://gbatemp.net/threads/beautiful-katamari-switch-port.686128/) |  |  
 | Bejeweled 3 | 1.0.1 | 25/10/2026 | [ChanseyIsTheBest/bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | [Link](https://gbatemp.net/threads/bejeweled-3-xbox-360-ver-switch-port.685689/unread) |  |  
 | 🟢 Blue Dragon | 1.3.1 | 28/10/2026 | [Ad0ky/reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
+| 🟢 Call of Duty: Black Ops II | *Release 1* | 31/10/2026  | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
 | 🟢 Castlevania: Lords of Shadow | *switch-test 1* | 29/10/2026 | [FurryLilManChild/LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | 🟢 Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
 | Dante's Inferno | 1.1.0 (TU2) | 23/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
@@ -671,8 +672,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Nights into Dreams | 1.0.1 | 29/10/2026 | [ChanseyIsTheBest/nights-nx](https://github.com/ChanseyIsTheBest/nights-nx) | |  |  
 | Peggle | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | |  |  
 | Peggle 2 | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) |  |  
-| 🟢 Shank | 1.0.0 | 31/10/2026 | [zhtipu/shank1-nx](https://github.com/zhtipu/shank1-nx) | |  |  
-| 🟢 Shank 2 | 1.0.0 | 31/10/2026 | [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | |  |  
+| 🟢 Shank | 1.0.0 | 31/10/2026 | [zhtipu/shank1-nx](https://github.com/zhtipu/shank1-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
+| 🟢 Shank 2 | 1.0.0 | 31/10/2026 | [zhtipu/shank2-nx](https://github.com/zhtipu/shank2-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | |  |  
 | 🟢 Silent Hill 3 | 1.0 | 30/10/2026 | [gerisson1996/SILENT-HILL-HD-COLLECTION-NX](https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX) | [Link](https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/) |  |  
 | 🟢 Silent Hill Homecoming | 1.0 | 30/10/2026 | [gerisson1996/SHH-NX-PORT](https://github.com/gerisson1996/SHH-NX-PORT) | [Link](https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/) |  |  
