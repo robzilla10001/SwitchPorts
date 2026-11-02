@@ -1,6 +1,8 @@
 name: Update status
 description: Post an update to a game status
 title: "Status: "
+labels: ["table-update"]
+assignees: ["Creators/Testers only"]
 body:
   - type: dropdown
     id: section
