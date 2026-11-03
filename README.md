@@ -650,7 +650,9 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Castlevania: Lords of Shadow | *switch-test 1* | 29/10/2026 | [FurryLilManChild/LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | 🟢 Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
 | Dante's Inferno | 1.1.0 (TU2) | 23/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
+| 🟢 Dead Space 1 | 1.0.0 (TU2) | 29/10/2026 | [VasilkovND/ds3-nx](https://github.com/VasilkovND/ds1-nx) |  |  |  
 | 🟢 Dead Space 2 | 1.3.0 (TU2) | 27/10/2026 | [VasilkovND/ds2-nx](https://github.com/VasilkovND/ds2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
+| 🟢 Dead Space 3 | 1.0.1 (TU2) | 27/10/2026 | [VasilkovND/ds3-nx](https://github.com/VasilkovND/ds3-nx) |  |  |  
 | 🟢 Feeding Frenzy | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/feedingfrenzy-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
 | 🟢 Feeding Frenzy 2: Shipwreck Showdown | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/feedingfrenzy2-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
 | Gears of War 2 | 1.0.0 | 23/10/2026 | [VasilkovND/gears2-nx](https://github.com/VasilkovND/gears2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260) |  |  
