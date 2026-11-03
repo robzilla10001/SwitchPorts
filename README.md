@@ -619,6 +619,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Dead or Alive 3 | *released* | 01/11/2026 | [toniisound/doa3-nx](https://github.com/toniisound/doa3-nx) | [Link](https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/) |  |  
 | Def Jam: Fight for NY | 1.0.0 | 09/10/2026 | [R-drg/defjam-sw](https://github.com/R-drg/defjam-sw) | |  |  
 | 🟢 FIFA Street | 0.1.0 | 28/10/2026 | [xsaja/street-nx](https://github.com/xsaja/street-nx) | |  |  
+| 🟢 FIFA Street 2 | 0.1.1 | 02/11/2026 | [laureladastra/fifastreet2-nx](https://github.com/laureladastra/fifastreet2-nx/releases) | |  | 
 | Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) |  |  
 | 🟢 Halo: Combat Evolved | Build 132 | 02/11/2026 | [thelinkin3000/halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) |  |  
 | |  1.0.0 | 10/10/2026 | [seamusduncmcgrath/OpenCE-nx](https://github.com/seamusduncmcgrath/OpenCE-nx) | |  |  
