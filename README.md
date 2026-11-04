@@ -365,6 +365,7 @@ Alphabetized by system
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Black | 0.2.5 | 29/10/2026 | [gerisson1996/BLACK-NX-PORT](https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md) | [Link](https://gbatemp.net/threads/black-xbox-nx-port.685756/) |  |  
+| 🟢 Bloody Roar Extreme | 0.1.0 | 03/11/2026 | [xsaja/brextreme-nx](https://github.com/xsaja/brextreme-nx) | [Link](https://gbatemp.net/threads/bloody-roar-extreme-xbox-switch-port.686195/) |  |  
 | Burnout 3: Takedown | 0.2.4 | 21/10/2026 | [antoxa2584x/burnout3-sw](https://github.com/antoxa2584x/burnout3-sw) | [Link](https://gbatemp.net/threads/burnout-3-takedown-switch-port.685241/) |  |  
 | Cold Fear | 0.0.3 | 22/10/2026 | [gerisson1996/COLD-FEAR-NX-PORT](https://github.com/gerisson1996/COLD-FEAR-NX-PORT) | [Link](https://gbatemp.net/threads/cold-fear-nx-port-xbox-classic.685667/) |  |  
 | 🟢 Conker: Live & Reloaded | 0.55.0 | 01/11/2026 | [rashevskyv/conker-lr-recomp](https://github.com/rashevskyv/conker-lr-recomp) | [Link](https://github.com/rashevskyv/conker-lr-recomp) |  |  
@@ -374,6 +375,7 @@ Alphabetized by system
 | 🟢 FIFA Street | 0.1.0 | 28/10/2026 | [xsaja/street-nx](https://github.com/xsaja/street-nx) | |  |  
 | 🟢 FIFA Street 2 | 0.1.1 | 02/11/2026 | [laureladastra/fifastreet2-nx](https://github.com/laureladastra/fifastreet2-nx/releases) | |  | 
 | Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) |  |  
+| 🟢 The Godfather | 1.0.0 | 02/11/2026 | [CYBERPUNK20/godfather-nx](https://github.com/CYBERPUNK20/godfather-nx) | [Link](https://gbatemp.net/threads/the-godfather-switch-port.686185/) |  |  
 | 🟢 Halo: Combat Evolved | Build 132 | 02/11/2026 | [thelinkin3000/halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) |  |  
 | |  1.0.0 | 10/10/2026 | [seamusduncmcgrath/OpenCE-nx](https://github.com/seamusduncmcgrath/OpenCE-nx) | |  |  
 | 🟢 Midnight Club 3: Dub Edition | 0.5.0 | 30/10/2026 | [laureladastra/mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991) |  |  
@@ -400,7 +402,7 @@ Alphabetized by system
 | Bejeweled 3 | 1.0.1 | 25/10/2026 | [ChanseyIsTheBest/bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | [Link](https://gbatemp.net/threads/bejeweled-3-xbox-360-ver-switch-port.685689/unread) |  |  
 | 🟢 Blue Dragon | 1.3.1 | 28/10/2026 | [Ad0ky/reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
 | 🟢 Call of Duty: Black Ops II | *Release 1* | 31/10/2026  | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
-| 🟢 Castlevania: Harmony of Despair | 0.292 | 03/11/2026 | [rashevskyv/cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | |  |  
+| 🟢 Castlevania: Harmony of Despair | 0.292 | 03/11/2026 | [rashevskyv/cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | [Link](https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/) |  |  
 | 🟢 Castlevania: Lords of Shadow | *switch-test 1* | 29/10/2026 | [FurryLilManChild/LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | 🟢 Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
 | Dante's Inferno | 1.1.0 (TU2) | 23/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
@@ -414,6 +416,8 @@ Alphabetized by system
 | 🟢 Grand Theft Auto IV | v35 | 23/10/2026 | [kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch](https://github.com/kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10939691) |  |  
 | 🟢 Guardian Heroes | 0.77 | 29/10/2026 | [rashevskyv/guardian-heroes-recomp-public](https://github.com/rashevskyv/guardian-heroes-recomp-public) | [Link](https://gbatemp.net/threads/guardian-heroes-xbla-xbox-360-for-switch-static-recompilation-port.685995/) |  |  
 | 🟢 Guwange | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/guwange-nx](https://github.com/ChanseyIsTheBest/guwange-nx) | [Link](https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/) |  |  
+| 🟢 Hexic HD | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/hexichd-nx](https://github.com/ChanseyIsTheBest/hexichd-nx) | [Link](https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/) |  |  
+| 🟢 Hexic 2 | 1.0.0 | 04/11/2026| [ChanseyIsTheBest/hexic2-nx](https://github.com/ChanseyIsTheBest/hexic2-nx) | [Link](https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/) |  |  
 | 🟢 Ketsui: Kizuna Jigoku Tachi Extra | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/ketsui-nx](https://github.com/ChanseyIsTheBest/ketsui-nx) | [Link](https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/) |  |  
 | 🟢 A Kingdom for Keflings | 1.0.0 | 30/10/2026 | [ChanseyIsTheBest/keflings-nx](https://github.com/ChanseyIsTheBest/keflings-nx) | |  |  
 | 🟢 Lost Odyssey | 1.0.6d | 28/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
@@ -686,7 +690,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Lain | 0.4.4-nx.6 | 20/08/2026 | [amydevs/lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) |  |  
 | Ms. PacMan Maze Madness | 1.1 | 19/10/2026 | [adumah/MsPacManMazeMadnessRecomp](https://github.com/adumah/MsPacManMazeMadnessRecomp) | |  |  
 | WipEout | *released* | 12/07/2026 | [emuman100/wipeout-rewrite-nintendo-switch-homebrew](https://github.com/emuman100/wipeout-rewrite-nintendo-switch-homebrew) |  |  |  
-| 🟢 Tekken 3 | 1.0.1 | 28/10/2026 | [markaurel13/tekken3-nx](https://github.com/markaurel13/tekken3-nx) | [Link](https://gbatemp.net/threads/tekken-3-switch-port.685957/) |  |  
+| 🟢 Tekken 3 | 1.2 | 03/11/2026 | [markaurel13/tekken3-nx](https://github.com/markaurel13/tekken3-nx) | [Link](https://gbatemp.net/threads/tekken-3-definitive-edition-native-port.686192/) |  |  
 
 - 1/4 updated 02/11/2026  
 ⎯ [Top](#toc)
