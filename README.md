@@ -155,7 +155,6 @@ Alphabetized by system
 | | PPSSPP-NX | 1.0.0 | 17/09/2026 | [NaGaa95/ppsspp-nx](https://github.com/NaGaa95/ppsspp-nx) | [Link](https://gbatemp.net/threads/ppsspp-nx.684504/) |  |   
 | S.22 | System22-nx | 0.1 *beta* | 01/10/2026 | [r4dius/system22-nx](https://github.com/r4dius/system22-nx) | [Link](https://gbatemp.net/threads/system22-nx-emulator-port-mame.684898/) |  |  
 | Saturn | YabaSanshiro | 1.2.0 | 01/10/2026 | [Thorhax/yabasanshiro-nx](https://github.com/Thorhax/yabasanshiro-nx) | |  |  
-| SNES | 🟢 Wide-SNES-NX | ??? | 02/11/2026 | [wiredlainn/wide-snes-NX](https://gitlab.com/wiredlainn/wide-snes-NX) | |  |  
 | VITA | 🟢 Vita3K | 1.4.0 | 01/11/2026 | [NaGaa95/Vita3K-nx](https://github.com/NaGaa95/Vita3K-nx) | [Link](https://gbatemp.net/threads/vita3k-playstation-vita.684076/) |  |  
 | V.Smile | D.Smile NX | 1.2.0 | 22/10/2026 | [1timewire1/D.Smile_nx/](https://github.com/1timewire1/D.Smile_nx/) | [Link](https://gbatemp.net/threads/d-smile-nx-a-v-smile-emulator.684197/) |  |  
 | WIIU | Cemu | 1.3.0 | 21/10/2026 | [NaGaa95/Cemu-nx](https://github.com/NaGaa95/Cemu-nx) | [Link](https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/) |  |  
@@ -401,9 +400,11 @@ Alphabetized by system
 | Bejeweled 3 | 1.0.1 | 25/10/2026 | [ChanseyIsTheBest/bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | [Link](https://gbatemp.net/threads/bejeweled-3-xbox-360-ver-switch-port.685689/unread) |  |  
 | 🟢 Blue Dragon | 1.3.1 | 28/10/2026 | [Ad0ky/reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
 | 🟢 Call of Duty: Black Ops II | *Release 1* | 31/10/2026  | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
+| 🟢 Castlevania: Harmony of Despair | 0.292 | 03/11/2026 | [rashevskyv/cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | |  |  
 | 🟢 Castlevania: Lords of Shadow | *switch-test 1* | 29/10/2026 | [FurryLilManChild/LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | 🟢 Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
 | Dante's Inferno | 1.1.0 (TU2) | 23/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
+| 🟢 Dark Souls II: Scholar of the First Sin | v104 | 31/10/2026 | [XDASCATX/DS2_switch](https://github.com/XDASCATX/DS2_switch) | |  |  
 | 🟢 Dead Space 1 | 1.0.0 (TU2) | 29/10/2026 | [VasilkovND/ds3-nx](https://github.com/VasilkovND/ds1-nx) |  |  |  
 | 🟢 Dead Space 2 | 1.3.0 (TU2) | 27/10/2026 | [VasilkovND/ds2-nx](https://github.com/VasilkovND/ds2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
 | 🟢 Dead Space 3 | 1.0.1 (TU2) | 27/10/2026 | [VasilkovND/ds3-nx](https://github.com/VasilkovND/ds3-nx) |  |  |  
@@ -426,6 +427,7 @@ Alphabetized by system
 | 🟢 | 1.1.0 | 29/10/2026 | [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | |  |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) |  |  
 | 🟢 Nights into Dreams | 1.0.1 | 29/10/2026 | [ChanseyIsTheBest/nights-nx](https://github.com/ChanseyIsTheBest/nights-nx) | |  |  
+| 🟢 PAC-MAN Championship Edition DX | 1.0.0 | 02/11/2026 | [ChanseyIsTheBest/pacman-nx/](https://github.com/ChanseyIsTheBest/pacman-nx/) | [Link](https://gbatemp.net/threads/pac-man-championship-edition-dx-switch-port.686167/) |  |  
 | Peggle | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | |  |  
 | Peggle 2 | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) |  |  
 | 🟢 Shank | 1.0.0 | 31/10/2026 | [zhtipu/shank1-nx](https://github.com/zhtipu/shank1-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
@@ -545,6 +547,7 @@ Alphabetized by system
 | Illusion of Gaia | 1.0.0 | 16/10/2026 | [mrOt4/babel-recomp](https://github.com/mrOt4/babel-recomp) | |  |  
 | Mega Man X | 1.2.0 | 23/10/2026 | [Thorhax/MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) |  |  
 | 🟢 Starfox | 0.0.8.8.3 | 01/11/2026 | [kandowontu2/starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) |  |  
+| 🟢 Super Mario World | 1.0.1 | 02/11/2026 | [wiredlainn/wide-snes-NX](https://gitlab.com/wiredlainn/wide-snes-NX) | |  |  
 
 - 1/10 updated 02/11/2026  
 ⎯ [Top](#toc)
