@@ -119,9 +119,9 @@ Alphabetized by system
 ⎯ [Super Nintendo Entertainment System](#snes)  
 ⎯ [Nintendo Wii](#wii)  
 ⎯ [Nintendo Wii U](#wiiu)  
+⎯ [PC](#pc)  
 ⎯ [Sega Dreamcast](#dc)  
 ⎯ [Sega Genesis](#gen) (32x contained here also)  
-⎯ [PC](#pc)  
 ⎯ [Sony Playstation](#psx)  
 ⎯ [Sony Playstation 2](#ps2)  
 ⎯ [Sony Playstation 4](#ps4)  
@@ -286,7 +286,7 @@ Alphabetized by system
 | LEGO Star Wars The Force Awakens | 1.0.1 | 30/06/2026 | [NaGaa95/lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/) |  |  
 | Level UP: Mario's Minigames Mayhem | 1.0.0 | 14/09/2026 | [aks796/lummm_nx](https://github.com/aks796/lummm_nx) | |  |  
 | Max Payne | 1.0.1 | 10/06/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) |  |  
-| Mega Man X Regenesis | 1.00.92 | 14/09/2026 | [StevensND/mmxregenesis_nx](https://github.com/StevensND/mmxregenesis_nx) | [Link](https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/) |  |  
+| 🟢 Mega Man X Regenesis | 1.01.0 | 03/11/2026 | [StevensND/mmxregenesis_nx](https://github.com/StevensND/mmxregenesis_nx) | [Link](https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/) |  |  
 | Metroid Prime Origins | 1.1.2d | 05/10/2026 | [bshurikan/mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/metroid-prime-origins-fan-game-nintendo-switch-port.684635/) |  |  
 | MUL.MASH.TAB.BA.GAL.GAL | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/mulmash_nx](https://github.com/ChanseyIsTheBest/mulmash_nx) | |  |  
 | NBA Jam | 1.0.0 | 15/07/2026 | [delsonazevedo/nbajam_nx](https://github.com/delsonazevedo/nbajam_nx) | |  |  
@@ -315,6 +315,7 @@ Alphabetized by system
 | | 23.1030a1 | 21/02/2026 | [BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-switch) | |  |  
 | Slay the Spire 2 | 1.0.0 | 26/08/2026 | [ChanseyIsTheBest/sts2_nx](https://github.com/ChanseyIsTheBest/sts2_nx) | [Link](https://gbatemp.net/threads/slay-the-spire-2-switch-port.683997/) |  |  
 | Slither.io | 1.0.0 | 30/08/2026 | [xflipperkast/slither_nx](https://github.com/xflipperkast/slither_nx) | [Link](https://gbatemp.net/threads/slither-io-switch-port.684111/) |  |  
+| 🟢 Soda Dungeon 2 | 0.1.0 | 04/11/2026 | [LaLemniscata/sd2-nx](https://github.com/LaLemniscata/sd2-nx) | |  |  
 | Sonic 4 Episode 2 | 0.2 | 11/08/2026 | [boraeskicioglu/s4ep2_nx](https://github.com/boraeskicioglu/s4ep2-nx) | [Link](https://gbatemp.net/threads/sonic-the-hedgehog-4-episode-2-switch-port.682698/) |  |  
 | Sonic Dash | 1.0.1 | 22/09/2026 | [ChanseyIsTheBest/sonicdash_nx](https://github.com/ChanseyIsTheBest/sonicdash_nx) | [Link](https://gbatemp.net/threads/sonic-dash-sonic-dash-2-sonic-boom-switch-port.684613/) |  |  
 | Sonic Dash 2: Sonic Boom | 1.0.0 | 21/09/2026 | [ChanseyIsTheBest/sonicboomdash_nx](https://github.com/ChanseyIsTheBest/sonicboomdash_nx) | [Link](https://gbatemp.net/threads/sonic-dash-sonic-dash-2-sonic-boom-switch-port.684613/) |  |  
@@ -376,7 +377,6 @@ Alphabetized by system
 | 🟢 Dead or Alive 3 | *released* | 01/11/2026 | [toniisound/doa3-nx](https://github.com/toniisound/doa3-nx) | [Link](https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/) |  |  
 | Def Jam: Fight for NY | 1.0.0 | 09/10/2026 | [R-drg/defjam-sw](https://github.com/R-drg/defjam-sw) | |  |  
 | 🟢 FIFA Street | 0.1.0 | 28/10/2026 | [xsaja/street-nx](https://github.com/xsaja/street-nx) | |  |  
-| 🟢 FIFA Street 2 | 0.1.1 | 02/11/2026 | [laureladastra/fifastreet2-nx](https://github.com/laureladastra/fifastreet2-nx/releases) | |  | 
 | Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) |  |  
 | 🟢 The Godfather | 1.0.0 | 02/11/2026 | [CYBERPUNK20/godfather-nx](https://github.com/CYBERPUNK20/godfather-nx) | [Link](https://gbatemp.net/threads/the-godfather-switch-port.686185/) |  |  
 | 🟢 Halo: Combat Evolved | Build 132 | 02/11/2026 | [thelinkin3000/halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) |  |  
@@ -407,7 +407,7 @@ Alphabetized by system
 | 🟢 Blue Dragon | 1.3.1 | 28/10/2026 | [Ad0ky/reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
 | 🟢 Call of Duty: Black Ops II | *Release 1* | 31/10/2026  | [AlvaroEPena/bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
 | 🟢 Castlevania: Harmony of Despair | 0.292 | 03/11/2026 | [rashevskyv/cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | [Link](https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/) |  |  
-| 🟢 Castlevania: Lords of Shadow | *switch-test 1* | 29/10/2026 | [FurryLilManChild/LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
+| 🟢 Castlevania: Lords of Shadow | 0.5.0 | 03/11/2026 | [FurryLilManChild/LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | 🟢 Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
 | Dante's Inferno | 1.1.0 (TU2) | 23/10/2026 | [VasilkovND/dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
 | 🟢 Dark Souls II: Scholar of the First Sin | v104 | 31/10/2026 | [XDASCATX/DS2_switch](https://github.com/XDASCATX/DS2_switch) | |  |  
@@ -425,14 +425,14 @@ Alphabetized by system
 | 🟢 Kameo: Elements of Power | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/kameo-nx](https://github.com/ChanseyIsTheBest/kameo-nx) | [Link](https://gbatemp.net/threads/kameo-elements-of-power-switch-port.686207/) |  |  
 | 🟢 Ketsui: Kizuna Jigoku Tachi Extra | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/ketsui-nx](https://github.com/ChanseyIsTheBest/ketsui-nx) | [Link](https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/) |  |  
 | 🟢 A Kingdom for Keflings | 1.0.0 | 30/10/2026 | [ChanseyIsTheBest/keflings-nx](https://github.com/ChanseyIsTheBest/keflings-nx) | |  |  
-| 🟢 Lost Odyssey | 1.0.6d | 28/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
+| 🟢 Lost Odyssey | 1.0.6e | 03/11/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
 | Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | |  |  
 | 🟢 Mass Effect 2 | *pre-release* | 04/11/2026 | [VibePorter/Lazarus](https://github.com/VibePorter/Lazarus) | |  |  
 | 🟢 Max Payne 3 | *released* | 29/10/2026 | [VasilkovND/mp3-nx](https://github.com/VasilkovND/mp3-nx) | |  |  
 | Metal Gear Rising: Revengeance | 0.2.2 | 23/10/2026 | [tuancapoo/mgr-nx-deko](https://github.com/tuancapoo/mgr-nx-deko) | |  |  
 | 🟢 Mini Ninjas | 1.0.7 | 05/11/2026 | [infriker/mini-ninjas-nx](https://github.com/infriker/mini-ninjas-nx) | |  |  
 | Monster High: New Ghoul in School | *released* | 21/10/2026 | [adumah/mhnwis-nx](https://github.com/adumah/mhnwis-nx) | |  |  
-| 🟢 Mortal Kombat Komplete Edition | 1.0.2 | 29/10/2026 | [Thorhax/mk9-nx](https://github.com/Thorhax/mk9-nx) | |  |  
+| 🟢 Mortal Kombat Komplete Edition | 1.0.3 | 02/11/2026 | [Thorhax/mk9-nx](https://github.com/Thorhax/mk9-nx) | |  |  
 | 🟢 Mushihimesama Futari | 1.0.4 | 28/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) |  |  
 | Need for Speed: Carbon | 0.3.0 | 23/10/2026 | [Kaays/nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | |  |  
 | 🟢 | 1.1.0 | 29/10/2026 | [zofo007/NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | |  |  
@@ -465,7 +465,7 @@ Alphabetized by system
 ### NEC PC Engine (TurboGrafx-16)
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
-| 🟢 Castlevania: Rondo of Blood | 1.0 | 03/11/2026 | [FurryLilManChild/rondo-nx](https://github.com/FurryLilManChild/rondo-nx) | |  |  
+| 🟢 Castlevania: Rondo of Blood | 1.1 | 04/11/2026 | [FurryLilManChild/rondo-nx](https://github.com/FurryLilManChild/rondo-nx) | |  |  
 
 - Created 04/11/2026  
 ⎯ [Top](#toc)  
@@ -490,6 +490,7 @@ Alphabetized by system
 | | 1.0.2 | 28/09/2026 | [CypherNoodle/PaperBoat-nx](https://github.com/CypherNoodle/PaperBoat-nx) | |  |  
 | Perfect Dark | ??? | 13/08/2026 | [perfect-dark-pc-port/perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) |  |  
 | StarCraft64 | 1.3 | 18/10/2026 | [gabryboy12-ai/StarCraft64-NX](https://github.com/gabryboy12-ai/StarCraft64-NX) | |  |  
+| 🟢 | 1.5.0 | 04/11/2026 | [Thorhax/StarCraft64-NX](https://github.com/Thorhax/StarCraft64-NX) | |  |  
 | 🟢 Star Wars: Rogue Squadron | 1.0 | 28/10/2026 | [FurryLilManChild/rs64-nx](https://github.com/FurryLilManChild/rs64-nx) | |  |  
 | Super Mario 64 | 3.0.0 | 07/09/2026 | [HarbourMasters/Ghostship](https://github.com/HarbourMasters/Ghostship) | [Link](https://gbatemp.net/threads/super-mario-64-gets-a-new-pc-port-from-the-harbour-masters-team.678985/) |  |  
 | Super Smash Bros. | 1.6.0 | 23/09/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | |  |  
@@ -542,10 +543,10 @@ Alphabetized by system
 | 🟢 Animal Crossing | 1.0.1 | 29/10/2026 | [digdat0/ACGC-Switch-Port](https://github.com/digdat0/ACGC-Switch-Port) | [Link](https://gbatemp.net/threads/animal-crossing-gcnx-switch-port.685302/) |  |  
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) |  |  
 | | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) |  |  
-| 🟢 | 1.0.3 | 29/10/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) |  |  
+| 🟢 | 1.1.0 | 03/11/2026 | [Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) |  |  
 | 🟢 The Legend of Zelda: Wind Waker | 1.0.2 | 27/10/2026 | [centollOS/SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) |  |  
 | 🟢 Luigi's Mansion | 1.0.1 | 01/11/2026 | [StevensND/lm-nx](https://github.com/StevensND/lm-nx) | [Link](https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/) |  |  
-| 🟢 Mario Kart: Double Dash! | 1.8.2 | 02/11/2026 | [digdat0/mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) |  |  
+| 🟢 Mario Kart: Double Dash! | 1.8.4 | 04/11/2026 | [digdat0/mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) |  |  
 | 🟢 Sonic Riders | 0.3.4 | 29/10/2026 | [teclilla18/sonic-riders-recomp](https://github.com/teclilla18/sonic-riders-recomp) | [Link](https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/) |  |  
 | 🟢 Super Mario Strikers | 1.9.8 *test build* | 29/10/2026 |[new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) |  |  
 | Super Smash Bros. Melee | 0.2.5 *beta* | 06/10/2026 | [KawaiiBunga/Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | |  |  
@@ -590,28 +591,6 @@ Alphabetized by system
 - 1/1 Updated 02/11/2026  
 ⎯ [Top](#toc)  
 
-<a id="dc"></a>  
-### Sega Dreamcast
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
-| --- | --- | --- | --- | --- | --- |  
-| 🟢 Sonic Adventure | 0.5.0 | 02/11/2026 | [FurryLilManChild/SA-nx](https://github.com/FurryLilManChild/SA-nx) | |  |  
-
-- 1/1 updated 02/11/2026  
-⎯ [Top](#toc)  
-
-<a id="gen"></a>  
-### Sega Genesis
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
-| --- | --- | --- | --- | --- | --- |  
-| Virtua Racing Deluxe (32x) | 1.0.0 | 02/10/2026 | [Thorhax/sega-vr-disasm](https://github.com/Thorhax/sega-vr-disasm) | |  |  
-
-- 0/1 updated 02/11/2026  
-⎯ [Top](#toc)  
-
-<!--### Nintendo Entertainment System  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
-| --- | --- | --- | --- | --- | --- | -->
-
 ### PC
 Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
@@ -621,7 +600,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Atomic Bomberman | 1.0.8 | 31/10/2026 | [rashevskyv/atomic-bomberman](https://github.com/rashevskyv/atomic-bomberman) | [Link](https://gbatemp.net/threads/atomic-bomberman-for-switch.685994/) |  |  
 | 🟢 The Binding of Isaac: Repentance+ | *unreleased* | 01/11/2026 | [antoniotorres02/isaac-switch-native](https://github.com/antoniotorres02/isaac-switch-native) | [Link](https://gbatemp.net/threads/binding-of-isaac-repentance-port.685733/) |  |  
 | 🟢 Black & White | 0.4.0 | 27/10/2026 | [gitgarage/openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) |  |  
-| 🟢 Call of Duty - Black Ops II | *beta 2.5* | 30/10/2026 | [HDErick/BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | |  |  
+| 🟢 Call of Duty - Black Ops II | 0.3.0 | 03/11/2026 | [HDErick/BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | |  |  
 | 🟢 Call of Duty / United Offensive | 0.4.0 / 0.3.0 | 01/11/2026 | [cznn999/cod-nx](https://github.com/cznn999/cod-nx) | [Link](https://gbatemp.net/threads/release-call-of-duty-2003-united-offensive-nintendo-switch-native-port.685952/) |  |  
 | Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) |  |  
 | 🚫 Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
@@ -656,6 +635,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Mega Man W | 0.1.0 | 27/10/2026 | [Vroccolli/mega-man-w-switch-homebrew](https://github.com/Vroccolli/mega-man-w-switch-homebrew) | [Link](https://gbatemp.net/threads/megaman-w-fan-game-switch-port.685896/) |  |  
 | 🟢 Nazi Zombies: Portable | 2.0.0 | 31/10/2026 | [NZP-Team/nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) |  |  
 | Minecraft Java 1.12.2 | *released* | 21/10/2026 | [etonedemid/minecraft-switch](https://github.com/etonedemid/minecraft-switch) | |  |  
+| 🟢 Minecraft Rust | 0.1.0 | 04/11/2026 | [JohnUzoka/horizon-nx](https://github.com/JohnUzoka/horizon-nx) | |  |  
 | One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | [Link](https://gbatemp.net/threads/preliminary-list-of-updated-homebrew-apps-and-tools-for-fw-21-0-0-ams-1-10-0-please-add-your-findings.677217/post-10907101) |  |  
 | Outrun 2006: Coast 2 Coast | test-1 | 07/10/2026 | [r4dius/outrun2-decomp](https://github.com/r4dius/outrun2-decomp) | [Link](https://gbatemp.net/threads/outrun-2006-coast-2-coast-decomp.685083/) |  |  
 | Plants Vs Zombies | 2026-07-02 | 02/07/2026 | [HayatoG/PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | |  |  
@@ -698,6 +678,30 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 
 - 16/80 updated 02/11/2026  
 ⎯ [Top](#toc)  
+
+<a id="dc"></a>  
+### Sega Dreamcast
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
+| --- | --- | --- | --- | --- | --- |  
+| 🟢 Sonic Adventure | 0.5.0 | 02/11/2026 | [FurryLilManChild/SA-nx](https://github.com/FurryLilManChild/SA-nx) | |  |  
+| 🟢 Crazy Taxi | 0.5.0 | 04/11/2026 | [FurryLilManChild/CTDC-nx](https://github.com/FurryLilManChild/CTDC-nx) | |  |  
+
+- 1/1 updated 02/11/2026  
+⎯ [Top](#toc)  
+
+<a id="gen"></a>  
+### Sega Genesis
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
+| --- | --- | --- | --- | --- | --- |  
+| Virtua Racing Deluxe (32x) | 1.0.0 | 02/10/2026 | [Thorhax/sega-vr-disasm](https://github.com/Thorhax/sega-vr-disasm) | |  |  
+| 🟢 Mickey & Donald Collection | *pre-release* | 05/11/2026 | [simplePsyduck/MickeyAndDonaldCollection-NX](https://github.com/simplePsyduck/MickeyAndDonaldCollection-NX) | |  |  
+
+- 0/1 updated 02/11/2026  
+⎯ [Top](#toc)  
+
+<!--### Nintendo Entertainment System  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
+| --- | --- | --- | --- | --- | --- | -->
 
 <a id="psx"></a>  
 ### Sony Playstation
