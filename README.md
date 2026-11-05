@@ -80,7 +80,7 @@ violators will be ignored.
 (this was optimistic as hell, I don't have the time, apologies).
 
 ## Recent Changes:
-- We have a new column; replacing `Status?` will be `Status`, followed by the following
+- We have a new column; replacing `FW 21+?` will be `Status`, followed by the following
   icons to indicate status/level of readiness:  
   ⬛️ = Does not boot  
   🟥 = Game boots to title  
