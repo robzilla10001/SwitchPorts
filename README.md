@@ -427,8 +427,10 @@ Alphabetized by system
 | 🟢 A Kingdom for Keflings | 1.0.0 | 30/10/2026 | [ChanseyIsTheBest/keflings-nx](https://github.com/ChanseyIsTheBest/keflings-nx) | |  |  
 | 🟢 Lost Odyssey | 1.0.6d | 28/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
 | Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | |  |  
+| 🟢 Mass Effect 2 | *pre-release* | 04/11/2026 | [VibePorter/Lazarus](https://github.com/VibePorter/Lazarus) | |  |  
 | 🟢 Max Payne 3 | *released* | 29/10/2026 | [VasilkovND/mp3-nx](https://github.com/VasilkovND/mp3-nx) | |  |  
 | Metal Gear Rising: Revengeance | 0.2.2 | 23/10/2026 | [tuancapoo/mgr-nx-deko](https://github.com/tuancapoo/mgr-nx-deko) | |  |  
+| 🟢 Mini Ninjas | 1.0.7 | 05/11/2026 | [infriker/mini-ninjas-nx](https://github.com/infriker/mini-ninjas-nx) | |  |  
 | Monster High: New Ghoul in School | *released* | 21/10/2026 | [adumah/mhnwis-nx](https://github.com/adumah/mhnwis-nx) | |  |  
 | 🟢 Mortal Kombat Komplete Edition | 1.0.2 | 29/10/2026 | [Thorhax/mk9-nx](https://github.com/Thorhax/mk9-nx) | |  |  
 | 🟢 Mushihimesama Futari | 1.0.4 | 28/10/2026 | [ChanseyIsTheBest/futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) |  |  
