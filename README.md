@@ -110,6 +110,7 @@ Alphabetized by system
 ⎯ [Arcade](#arc)  
 ⎯ [Microsoft Xbox](#xbox)  
 ⎯ [Microsoft Xbox 360](#x360)  
+⎯ [NEC PC Engine (TurboGrafx-16)](#pce)
 ⎯ [Nintendo 64](#n64)  
 ⎯ [Nintendo Gameboy](#gb)  
 ⎯ [Nintendo Gameboy Advance](#gba)  
@@ -136,6 +137,7 @@ Alphabetized by system
 | --- | --- | --- | --- | --- | --- | --- |
 | 3DS | Dekopon | 2.2.2 | 14/08/2026 | [PalindromicBreadLoaf/dekopon](https://github.com/PalindromicBreadLoaf/dekopon) | [Link](https://gbatemp.net/threads/dekopon-mostly-fullspeed-3ds-emulation-on-nintendo-switch.683132/) |  |  
 | 3DS | Raika Azahar | 2.5.0 | 18/08/2026 | [Raibatsu/raikopon](https://github.com/Raibatsu/raikopon) | [Link](https://gbatemp.net/threads/nintendo-switch-raika-azahar-the-3ds-emulator-aimed-at-base-nintendo-switch.683593/) |  |  
+| AMIGA | 🟢 UAE4ALL2 HD | 1.07 | 21/09/2026 | [theheroGAC/UAE4ALL2-HD-SWITCH/](https://github.com/theheroGAC/UAE4ALL2-HD-SWITCH/) | [Link](https://gbatemp.net/threads/release-amiga-emulator-uae4all2-for-switch.522539/post-10914616) |  |  
 | DC | 🟢 Flycast | ??? | 27/10/2026 | [https://flyinghead.github.io/](https://flyinghead.github.io/flycast-builds/) | [Link](https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/) |  |  
 | J2ME | FreeJ2ME | Proto | 02/09/2026 | [MiaouMeowMiaou/j2me-for-switch](https://github.com/MiaouMeowMiaou/j2me-for-switch) | [Link](https://gbatemp.net/threads/freej2me-on-switch.684170/) |  |  
 | G&W | Yokoi | 1.0.4 | 16/09/2026 | [1timewire1/Yokoi_Game_-_Watch_emulator_switch](https://github.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch/tree/switch-port) | [Link](https://gbatemp.net/threads/yokoi-game-watch-sm5xx-based-lcd-handhelds-emulator.684004/) |  |  
@@ -143,7 +145,7 @@ Alphabetized by system
 | MODEL2 | Model2 NX | 1.0 | 10/10/2026 | [toniisound/model2-nx](https://github.com/toniisound/model2-nx) | [Link](https://gbatemp.net/threads/release-model2-nx-1-0-experimental-sega-model-2-emulator-for-nintendo-switch-powered-by-mame.685198/) |  |  
 | MODEL3 | 🟢 Supermodel-NX | 1.5.0 | 29/10/2026 | [toniisound/supermodel-nx](https://github.com/toniisound/supermodel-nx) | [Link](https://gbatemp.net/threads/release-supermodel-nx-sega-model-3-arcade-emulator-for-nintendo-switch.684935/) |  |  
 | MULTI | Tico | 0.8.0 | 21/10/2026 | [ticohq/tico](https://github.com/ticohq/tico) | [Link](https://gbatemp.net/threads/tico-gamecube-wii-psp-and-3ds-on-switch-hos.681231/) |  |  
-| MULTI | 🟢 RetroArch | *nightly* | *nightly* | [Libretro NX Nightly Builds](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/) | |  |  
+| MULTI | 🟢 RetroArch | *nightly* | *nightly* | [L ibretro NX Nightly Builds](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/) | |  |  
 | NDS | DrasticDS | 1.2.0 | 21/10/2026 | [NaGaa95/DrasticDS_nx](https://github.com/NaGaa95/DrasticDS_nx) | [Link](https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/) |  |  
 | NGC/WII | Dolphin | 1.2.0 | 16/10/2026 | [NaGaa95/dolphin-nx](https://github.com/NaGaa95/dolphin-nx) | [Link](https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/) |  |  
 | | 🟢 Nezumiiruka | 1.1.0 | 26/10/2026 | [PalindromicBreadLoaf/nezumiiruka](https://github.com/PalindromicBreadLoaf/nezumiiruka) | [Link](https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/) |  |  
@@ -367,6 +369,7 @@ Alphabetized by system
 | 🟢 Black | 0.2.5 | 29/10/2026 | [gerisson1996/BLACK-NX-PORT](https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md) | [Link](https://gbatemp.net/threads/black-xbox-nx-port.685756/) |  |  
 | 🟢 Bloody Roar Extreme | 0.1.0 | 03/11/2026 | [xsaja/brextreme-nx](https://github.com/xsaja/brextreme-nx) | [Link](https://gbatemp.net/threads/bloody-roar-extreme-xbox-switch-port.686195/) |  |  
 | Burnout 3: Takedown | 0.2.4 | 21/10/2026 | [antoxa2584x/burnout3-sw](https://github.com/antoxa2584x/burnout3-sw) | [Link](https://gbatemp.net/threads/burnout-3-takedown-switch-port.685241/) |  |  
+| 🟢 Castlevania: Curse of Darkness | 0.5.0 | 29/10/2026 | [FurryLilManChild/cod-nx](https://github.com/FurryLilManChild/cod-nx) | |  |  
 | Cold Fear | 0.0.3 | 22/10/2026 | [gerisson1996/COLD-FEAR-NX-PORT](https://github.com/gerisson1996/COLD-FEAR-NX-PORT) | [Link](https://gbatemp.net/threads/cold-fear-nx-port-xbox-classic.685667/) |  |  
 | 🟢 Conker: Live & Reloaded | 0.55.0 | 01/11/2026 | [rashevskyv/conker-lr-recomp](https://github.com/rashevskyv/conker-lr-recomp) | [Link](https://github.com/rashevskyv/conker-lr-recomp) |  |  
 | 🟢 Dead or Alive 2 Ultimate | *released* | 30/10/2026 | [toniisound/doa2u-nx](https://github.com/toniisound/doa2u-nx) | [Link](https://gbatemp.net/threads/dead-or-alive-2-ultimate-wip.686023/) |  |  
@@ -418,6 +421,7 @@ Alphabetized by system
 | 🟢 Guwange | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/guwange-nx](https://github.com/ChanseyIsTheBest/guwange-nx) | [Link](https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/) |  |  
 | 🟢 Hexic HD | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/hexichd-nx](https://github.com/ChanseyIsTheBest/hexichd-nx) | [Link](https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/) |  |  
 | 🟢 Hexic 2 | 1.0.0 | 04/11/2026| [ChanseyIsTheBest/hexic2-nx](https://github.com/ChanseyIsTheBest/hexic2-nx) | [Link](https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/) |  |  
+| 🟢 Kameo: Elements of Power | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/kameo-nx](https://github.com/ChanseyIsTheBest/kameo-nx) | [Link](https://gbatemp.net/threads/kameo-elements-of-power-switch-port.686207/) |  |  
 | 🟢 Ketsui: Kizuna Jigoku Tachi Extra | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/ketsui-nx](https://github.com/ChanseyIsTheBest/ketsui-nx) | [Link](https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/) |  |  
 | 🟢 A Kingdom for Keflings | 1.0.0 | 30/10/2026 | [ChanseyIsTheBest/keflings-nx](https://github.com/ChanseyIsTheBest/keflings-nx) | |  |  
 | 🟢 Lost Odyssey | 1.0.6d | 28/10/2026 | [Ad0ky/LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
@@ -453,6 +457,15 @@ Alphabetized by system
 
 - 27/45 updated 02/11/2026  
 ⎯ [Top](#toc)
+
+<a id="pce"></a>  
+### NEC PC Engine (TurboGrafx-16)
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
+| --- | --- | --- | --- | --- | --- |
+| 🟢 Castlevania: Rondo of Blood | 1.0 | 03/11/2026 | [FurryLilManChild/rondo-nx](https://github.com/FurryLilManChild/rondo-nx) | |  |  
+
+- Created 04/11/2026  
+⎯ [Top](#toc)  
 
 <a id="n64"></a>  
 ### Nintendo 64
