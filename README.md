@@ -384,6 +384,7 @@ Alphabetized by system
 | Need for Speed: Carbon | 0.2.4 | 18/10/2026 | [antoxa2584x/nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) |  |  
 | Need for Speed: Underground | 0.4.0 | 15/10/2026 | [antoxa2584x/nfsu1-sw](https://github.com/antoxa2584x/nfsu1-sw) | |  |  
 | Need for Speed: Underground 2 | 0.5.13 | 18/10/2026 | [antoxa2584x/nfsu2-sw](https://github.com/antoxa2584x/nfsu2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10916795) |  |  
+| 🟢 Splinter Cell: Double Agent | 0.4.9 | 04/11/2026 | [itouchdennis/scda-nx](https://github.com/itouchdennis/scda-nx) | |  |  
 | SSX Tricky | 0.1.1 | 22/10/2026 | [DevCrashDay/OpenTrickyNX](https://github.com/DevCrashDay/OpenTrickyNX) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10930586) |  |  
 | 🟢 Tom and Jerry: War of the Whiskers | 0.94.1 | 02/11/2026 | [JohnJames29/WOTW-NX](https://github.com/JohnJames29/WOTW-NX) | |  |  
 
