@@ -635,9 +635,10 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | McOsu | 33.14 | 08/08/2026 | [McKay42/<br>McOsu-NX](https://github.com/McKay42/McOsu-NX) | [Link](https://gbatemp.net/threads/mcosu-osu-for-the-switch.529564/) |  |  
 | Medal of Honor: Allied Assault | 0.83 R3 | 29/06/2026 | [NaGaa95/<br>openmohaa_nx](https://github.com/NaGaa95/openmohaa_nx/) | |  |  
 | 🟢 Mega Man W | 0.1.0 | 27/10/2026 | [Vroccolli/<br>mega-man-w-switch-homebrew](https://github.com/Vroccolli/mega-man-w-switch-homebrew) | [Link](https://gbatemp.net/threads/megaman-w-fan-game-switch-port.685896/) |  |  
-| 🟢 Nazi Zombies: Portable | 2.0.0 | 31/10/2026 | [NZP-Team/<br>nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) |  |  
 | Minecraft Java 1.12.2 | *released* | 21/10/2026 | [etonedemid/<br>minecraft-switch](https://github.com/etonedemid/minecraft-switch) | |  |  
 | 🟢 Minecraft Rust | 0.1.0 | 04/11/2026 | [JohnUzoka/<br>horizon-nx](https://github.com/JohnUzoka/horizon-nx) | |  |  
+| 🟢 Nazi Zombies: Portable | 2.0.0 | 31/10/2026 | [NZP-Team/<br>nzportable](https://github.com/nzp-team/nzportable/) | [Link](https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/) |  |  
+| 🟢 Need for Speed II / III | 1.0.1 *pre-release* | 17/09/2026 | [PalindromicBreadLoaf/<br>HotPursuitNX](https://github.com/PalindromicBreadLoaf/HotPursuitNX) | |  |  
 | One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/<br>OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | [Link](https://gbatemp.net/threads/preliminary-list-of-updated-homebrew-apps-and-tools-for-fw-21-0-0-ams-1-10-0-please-add-your-findings.677217/post-10907101) |  |  
 | Outrun 2006: Coast 2 Coast | test-1 | 07/10/2026 | [r4dius/<br>outrun2-decomp](https://github.com/r4dius/outrun2-decomp) | [Link](https://gbatemp.net/threads/outrun-2006-coast-2-coast-decomp.685083/) |  |  
 | Plants Vs Zombies | 2026-07-02 | 02/07/2026 | [HayatoG/<br>PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | |  |  
