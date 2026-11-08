@@ -435,7 +435,7 @@ Alphabetized by system
 | Monster High: New Ghoul in School | *released* | 21/10/2026 | [adumah/<br>mhnwis-nx](https://github.com/adumah/mhnwis-nx) | |  |  
 | 🟢 Mortal Kombat Komplete Edition | 1.0.4 | 05/11/2026 | [Thorhax/<br>mk9-nx](https://github.com/Thorhax/mk9-nx) | |  |  
 | 🟢 Mushihimesama Futari | 1.0.4 | 28/10/2026 | [ChanseyIsTheBest/<br>futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) |  |  
-| Need for Speed: Carbon | 0.3.0 | 23/10/2026 | [Kaays/<br>nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | |  |  
+| 🟢 Need for Speed: Carbon | 0.4.0 | 08/11/2026 | [Kaays/<br>nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | |  |  
 | 🟢 | 1.1.0 | 29/10/2026 | [zofo007/<br>NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | |  |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/<br>nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) |  |  
 | 🟢 Nights into Dreams | 1.0.1 | 29/10/2026 | [ChanseyIsTheBest/<br>nights-nx](https://github.com/ChanseyIsTheBest/nights-nx) | |  |  
