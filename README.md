@@ -172,7 +172,7 @@ Alphabetized by system
 | Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/<br>a8retry_nx](https://github.com/aks796/a8retry_nx) | |  |  
 | Assassin's Creed: Altair's Chronicles HD | 0.1.1 | 18/10/2026 | [iqbalriz/<br>assassinscreed_nx](https://github.com/iqbalriz/assassinscreed_nx) | |  |  
 | Call of Duty - Black Ops: Zombies | 1.0.0 | 28/09/2026 | [r4lix/<br>codboz-nx](https://github.com/r4lix/codboz-nx) | |  |
-| Call of Duty: Strike Team | 0.1.0 | 07/11/2026 | [[Zumoly/<br>cod-strike-team-nx](https://github.com/Zumoly/cod-strike-team-nx)| |  |  
+| Call of Duty: Strike Team | 0.1.0 | 07/11/2026 | [Zumoly/<br>cod-strike-team-nx](https://github.com/Zumoly/cod-strike-team-nx)| |  |  
 | Costume Quest | 0.1.0 | 10/10/2026 | [iqbalriz/<br>costumequest_nx](https://github.com/iqbalriz/costumequest_nx) | |  |  
 | Dan The Man | 0.2.0 | 09/10/2026 | [hazevauks/<br>dantheman_nx](https://github.com/hazevauks/dantheman_nx) | |  |  
 | Dark Knight Rises | 1.1.0 | 08/10/2026 | [lemasterxar5/<br>tdkr_nx](https://github.com/lemasterxar5/tdkr_nx) | |  |  
