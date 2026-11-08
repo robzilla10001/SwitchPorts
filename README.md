@@ -1,9 +1,3 @@
-<div align="center">IMPORTANT NOTICE  
-  
-16/10/2026: ATMOSPHERE 1.12.1 FOR HOS 23.0.1 RELEASED  
-
-Atmosphere has been updated; BornToHonk's fork released with baked in sigpatches.</div>
-
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)  
 
 # Disclaimers
