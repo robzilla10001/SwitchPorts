@@ -407,6 +407,7 @@ Alphabetized by system
 | 🟢 Castlevania: Harmony of Despair | 0.292 | 03/11/2026 | [rashevskyv/<br>cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | [Link](https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/) |  |  
 | 🟢 Castlevania: Lords of Shadow | 0.5.0 | 03/11/2026 | [FurryLilManChild/<br>LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | 🟢 Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/<br>condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
+| 🟢 Condemned 2 | 0.2.1 | 07/11/2026 | [ipungsx/<br>condemned2BSx360-Port-Switch](https://github.com/ipungsx/condemned2BSx360-Port-Switch) | |  |  
 | Dante's Inferno | 1.1.0 (TU2) | 23/10/2026 | [VasilkovND/<br>dantes-inferno-nx](https://github.com/VasilkovND/dantes-inferno-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
 | 🟢 Dark Souls II: Scholar of the First Sin | v104 | 31/10/2026 | [XDASCATX/<br>DS2_switch](https://github.com/XDASCATX/DS2_switch) | |  |  
 | 🟢 Dead Space 1 | 1.0.0 (TU2) | 29/10/2026 | [VasilkovND/<br>ds3-nx](https://github.com/VasilkovND/ds1-nx) |  |  |  
@@ -424,6 +425,7 @@ Alphabetized by system
 | 🟢 Kameo: Elements of Power | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/<br>kameo-nx](https://github.com/ChanseyIsTheBest/kameo-nx) | [Link](https://gbatemp.net/threads/kameo-elements-of-power-switch-port.686207/) |  |  
 | 🟢 Ketsui: Kizuna Jigoku Tachi Extra | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/<br>ketsui-nx](https://github.com/ChanseyIsTheBest/ketsui-nx) | [Link](https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/) |  |  
 | 🟢 A Kingdom for Keflings | 1.0.0 | 30/10/2026 | [ChanseyIsTheBest/<br>keflings-nx](https://github.com/ChanseyIsTheBest/keflings-nx) | |  |  
+| 🟢 The King of Fighters 2002 Unlimited Match | 0.1.1 | 07/11/2026 | [tbittech/<br>kof2002um-nx](https://github.com/tbittech/kof2002um-nx) | |  |  
 | 🟢 Lost Odyssey | 1.1.0 | 06/11/2026 | [Ad0ky/<br>LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
 | Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/<br>masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | |  |  
 | 🟢 Mass Effect 2 | *pre-release* | 04/11/2026 | [VibePorter/<br>Lazarus](https://github.com/VibePorter/Lazarus) | |  |  
@@ -717,6 +719,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Digimon World 3 | 0.9.0-*preview 2* | 02/11/2026 | [Larbaco/<br>dw3-switch](https://github.com/Larbaco/dw3-switch) | |  |  
 | Lain | 0.4.4-nx.6 | 20/08/2026 | [amydevs/<br>lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) |  |  
 | Ms. PacMan Maze Madness | 1.1 | 19/10/2026 | [adumah/<br>MsPacManMazeMadnessRecomp](https://github.com/adumah/MsPacManMazeMadnessRecomp) | |  |  
 | WipEout | *released* | 12/07/2026 | [emuman100/<br>wipeout-rewrite-nintendo-switch-homebrew](https://github.com/emuman100/wipeout-rewrite-nintendo-switch-homebrew) |  |  |  
