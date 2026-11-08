@@ -106,7 +106,7 @@ Alphabetized by system
 ⎯ [Microsoft Xbox 360](#x360)  
 ⎯ [NEC PC Engine (TurboGrafx-16)](#pce)  
 ⎯ [Nintendo 3DS](#3ds)  
-⎯ [Nintendo 64](#n64)  
+⎯ [Nintendo 64](#)  
 ⎯ [Nintendo Gameboy](#gb)  
 ⎯ [Nintendo Gameboy Advance](#gba)  
 ⎯ [Nintendo Gameboy Color](#gbc)  
@@ -499,6 +499,7 @@ Alphabetized by system
 | Paper Mario | 1.0.2 | 01/10/2026 | [Thorhax/<br>PaperBoat-NX-Modern](https://github.com/Thorhax/PaperBoat-NX-Modern) | |  |  
 | | 1.0.2 | 28/09/2026 | [CypherNoodle/<br>PaperBoat-nx](https://github.com/CypherNoodle/PaperBoat-nx) | |  |  
 | Perfect Dark | ??? | 13/08/2026 | [perfect-dark-pc-port/<br>perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) |  |  
+| 🟢 Snowboard Kids 2 | 2.0.2 | 17/10/2026 | [cdlewis/<br>snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp) | |  |  
 | StarCraft64 | 1.3 | 18/10/2026 | [gabryboy12-ai/<br>StarCraft64-NX](https://github.com/gabryboy12-ai/StarCraft64-NX) | |  |  
 | 🟢 | 1.5.0 | 04/11/2026 | [Thorhax/<br>StarCraft64-NX](https://github.com/Thorhax/StarCraft64-NX) | |  |  
 | 🟢 Star Wars: Rogue Squadron | 1.0 | 28/10/2026 | [FurryLilManChild/<br>rs64-nx](https://github.com/FurryLilManChild/rs64-nx) | |  |  
@@ -720,7 +721,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Digimon World 3 | 0.9.0-*preview 2* | 02/11/2026 | [Larbaco/<br>dw3-switch](https://github.com/Larbaco/dw3-switch) | |  |  
-| Lain | 0.4.4-nx.6 | 20/08/2026 | [amydevs/<br>lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) |  |  
+| 🟢 Lain | 0.4.4-nx.7 | 07/11/2026 | [amydevs/<br>lainNX](https://github.com/amydevs/lainNX) | [Link](https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/) |  |  
 | Ms. PacMan Maze Madness | 1.1 | 19/10/2026 | [adumah/<br>MsPacManMazeMadnessRecomp](https://github.com/adumah/MsPacManMazeMadnessRecomp) | |  |  
 | WipEout | *released* | 12/07/2026 | [emuman100/<br>wipeout-rewrite-nintendo-switch-homebrew](https://github.com/emuman100/wipeout-rewrite-nintendo-switch-homebrew) |  |  |  
 | 🟢 Tekken 3 | 1.2 | 03/11/2026 | [markaurel13/<br>tekken3-nx](https://github.com/markaurel13/tekken3-nx) | [Link](https://gbatemp.net/threads/tekken-3-definitive-edition-native-port.686192/) |  |  
