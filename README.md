@@ -121,7 +121,7 @@ Alphabetized by system
 ⎯ [Nintendo Gameboy Advance](#gba)  
 ⎯ [Nintendo Gameboy Color](#gbc)  
 ⎯ [Nintendo GameCube](#gc)  
-⎯ [Super Nintendo Entertainment System](#snes)  
+⎯ [Super Nintendo Entertainment System](#)  
 ⎯ [Nintendo Wii](#wii)  
 ⎯ [Nintendo Wii U](#wiiu)  
 ⎯ [PC](#pc)  
@@ -362,9 +362,11 @@ Alphabetized by system
 | Daytona USA | 1.1.0 | 10/10/2026 | [Thorhax/<br>Daytona-NX-Modern](https://github.com/Thorhax/Daytona-NX-Modern) | [Link](https://gbatemp.net/threads/daytona-usa-arcade-port-nx.685139/unread) |  |  
 | Killer Instinct | 1.1.1 | 29/09/2026 | [Thorhax/<br>Killer-Instinct-NX-Modern](https://github.com/Thorhax/Killer-Instinct-NX-Modern) | |  |  
 | Killer Instinct 2 | 1.0.0 | 29/09/2026 | [Thorhax/<br>Killer-Instinct-2-NX-Modern](https://github.com/Thorhax/Killer-Instinct-2-NX-Modern) | |  |  
-| OutRun | 1.08-nx | 01/09/2026 | [Thorhax/<br>Cannonball-NX-Modern](https://github.com/Thorhax/Cannonball-NX-Modern) |  |  |  
+| OutRun | 1.08-nx | 01/09/2026 | [Thorhax/<br>Cannonball-NX-Modern](https://github.com/Thorhax/Cannonball-NX-Modern) | |  |  
+| 🟢 Outrunners | 1.2.1 | 07/11/2026 | [cheviman/<br>outrunners-port](https://github.com/cheviman/outrunners-port) | |  |  
 | Sega Rally | switch-v0.5.3 | 08/10/2026 | [jacquesdupontd/<br>port0r](https://github.com/jacquesdupontd/port0r) | [Link](https://gbatemp.net/threads/sega-rally-1995-arcade-on-switch-full-16-9-hd-textures-10-mods-replays-online-leaderboard.685124/) |  |  
 | Sonic the Fighters | 0.8.3 | 09/10/2026 | [boraeskicioglu/<br>sonic_the_fighters_nx](https://github.com/boraeskicioglu/sonic_the_fighters_nx) | [Link](https://gbatemp.net/threads/sonic-the-fighters-switch-port.685251/) |  |  
+| 🟢 Teenage Mutant Ninja Turtles | 1.0.5 | 07/11/2026 | [cheviman/<br>tmnt-port](https://github.com/cheviman/tmnt-port) | |  |  
 | Virtua Fighter 2 | 1.1.0 | 10/10/2026 | [Thorhax/<br>VF2-NX-Modern](https://github.com/Thorhax/VF2-NX-Modern) | [Link](https://gbatemp.net/threads/virtua-fighter-2-arcade.685157/unread) |  |  
 
 - 0/8 updated 02/11/2026  
@@ -589,6 +591,7 @@ Alphabetized by system
 | Illusion of Gaia | 1.0.0 | 16/10/2026 | [mrOt4/<br>babel-recomp](https://github.com/mrOt4/babel-recomp) | |  |  
 | Mega Man X | 1.2.0 | 23/10/2026 | [Thorhax/<br>MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) |  |  
 | 🟢 Starfox | 0.0.8.8.3 | 01/11/2026 | [kandowontu2/<br>starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) |  |  
+| 🟢 Super Mario All-Stars | *pre-release 2* | 08/11/2026 | [simplePsyduck/<br>SuperMarioAllStars-NX](https://github.com/simplePsyduck/SuperMarioAllStars-NX) | |  |  
 | 🟢 Super Mario World | 1.0.1 | 02/11/2026 | [wiredlainn/<br>wide-snes-NX](https://gitlab.com/wiredlainn/wide-snes-NX) | |  |  
 
 - 1/10 updated 02/11/2026  
@@ -623,8 +626,9 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | 🟢 Black & White | 0.4.0 | 27/10/2026 | [gitgarage/<br>openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) |  |  
 | 🟢 Call of Duty - Black Ops II | 0.3.0 | 03/11/2026 | [HDErick/<br>BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | |  |  
 | 🟢 Call of Duty / United Offensive | 0.4.0 / 0.3.0 | 01/11/2026 | [cznn999/<br>cod-nx](https://github.com/cznn999/cod-nx) | [Link](https://gbatemp.net/threads/release-call-of-duty-2003-united-offensive-nintendo-switch-native-port.685952/) |  |  
+| 🟢 Carmageddon | 1.2-nx | 28/10/2026 | [jackazz86/<br>dethrace-switch-fw21](https://github.com/jackazz86/dethrace-switch-fw21) | |  |  
 | Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/<br>cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) |  |  
-| 🚫 Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
+| Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
 | 🟢 Cosmology of Kyoto | 1.0.0 | 30/10/2026 | [seamusduncmcgrath/<br>CosmologyOfKyoto-Recompiled](https://github.com/seamusduncmcgrath/CosmologyOfKyoto-Recompiled) | |  |
 | Descent | 0.58.6 | 09/09/2026 | [Thorhax/<br>Descent1-NX-Modern](https://github.com/Thorhax/Descent1-NX-Modern) | |  |  
 | Descent 2 | 0.58.6 | 09/09/2026 | [Thorhax/<br>Descent2-NX-Modern](https://github.com/Thorhax/Descent2-NX-Modern) | [Link](https://gbatemp.net/threads/descent-2-nx.685064/) |  |  
