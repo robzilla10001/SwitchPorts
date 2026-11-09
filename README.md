@@ -1,4 +1,14 @@
-![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)  
+<div align="center">
+  
+![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)
+
+</div>  
+
+<h1 align="center">
+  
+[Dead Projects](DEAD.md)
+  
+</h1>
 
 # Disclaimers
 ## English Only.  
