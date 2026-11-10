@@ -449,7 +449,7 @@ Alphabetized by system  (24)
 | 🟢 Mortal Kombat Komplete Edition | 1.0.6 | 08/11/2026 | [Thorhax/<br>mk9-nx](https://github.com/Thorhax/mk9-nx) | |  |  
 | Mushihimesama Futari | 1.0.4 | 28/10/2026 | [ChanseyIsTheBest/<br>futari-nx](https://github.com/ChanseyIsTheBest/futari-nx) | [Link](https://gbatemp.net/threads/mushihimesama-futari-xbox-360-ver-switch-port.685115/) |  |  
 | 🟢 Naruto: Rise of a Ninja | 0.1.5 | 08/11/2026 | [malinkin-s/<br>naruto-rise-of-a-ninja-nx](https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx) | |  |  
-| 🟢 Need for Speed: Carbon | 0.4.5 | 09/11/2026 | [Kaays/<br>nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | |  |  
+| 🟢 Need for Speed: Carbon | 0.4.7 | 10/11/2026 | [Kaays/<br>nfscarbon-nx](https://github.com/Kaays/nfscarbon-nx) | |  |  
 | | 1.1.0 | 29/10/2026 | [zofo007/<br>NFS-Carbon-NX](https://github.com/zofo007/NFS-Carbon-NX) | |  |  
 | Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/<br>nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) |  |  
 | 🟢 Nights into Dreams | 1.0.2 | 03/11/2026 | [ChanseyIsTheBest/<br>nights-nx](https://github.com/ChanseyIsTheBest/nights-nx) | |  |  
