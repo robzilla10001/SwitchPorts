@@ -386,6 +386,7 @@ Alphabetized by system
 | 🟢 Dead or Alive 3 | *released* | 01/11/2026 | [toniisound/<br>doa3-nx](https://github.com/toniisound/doa3-nx) | [Link](https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/) |  |  
 | Def Jam: Fight for NY | 1.0.0 | 09/10/2026 | [R-drg/<br>defjam-sw](https://github.com/R-drg/defjam-sw) | |  |  
 | 🟢 FIFA Street | 0.1.0 | 28/10/2026 | [xsaja/<br>street-nx](https://github.com/xsaja/street-nx) | |  |  
+| 🟢 FIFA Street 2 | 0.1.0 | 09/11/2026 | [xsaja/<br>street2-nx](https://github.com/xsaja/street2-nx) | |  |  
 | Flatout 2 | 0.2.1 | 18/10/2026 | [antoxa2584x/<br>flatout2-sw](https://github.com/antoxa2584x/flatout2-sw) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10924028) |  |  
 | 🟢 The Godfather | 1.0.0 | 02/11/2026 | [CYBERPUNK20/<br>godfather-nx](https://github.com/CYBERPUNK20/godfather-nx) | [Link](https://gbatemp.net/threads/the-godfather-switch-port.686185/) |  |  
 | 🟢 Halo: Combat Evolved | Build 132 | 02/11/2026 | [thelinkin3000/<br>halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) |  |  
