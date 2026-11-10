@@ -130,6 +130,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 Hurrican | 1.04-Switch | 30/01/2024 | [rsn8887/Hurrican](https://github.com/rsn8887/Hurrican) |  | No |  
 | 🔴 Jazz Jackrabbit | 1.2.1 | 18/09/2019 | [KranKRival/OpenJazzNX](https://github.com/KranKRival/OpenJazzNX?) | [Link](https://gbatemp.net/threads/openjazznx-openjazz-port-with-sdl2-for-the-nintendo-switch.546759/) | No |  
 | 🔴 OpenTyrian 2000 | 1.0.0 | 04/03/2019 | [theflippedbit/opentyrian-nx](https://github.com/theflippedbit/opentyrian-nx) |  | No |  
+| 🟠 Prey | 0.1.0 | 30/09/2026 | [hazevauks/<br>openPREYswitch](https://github.com/hazevauks/openPREYswitch) | |  |  
 | 🔴 Quake III Arena | 0.3.0-nx | 18/09/2019 | [fgsfdsfgs/ioq3](https://github.com/fgsfdsfgs/ioq3) |  | No |  
 | 🔴 Return to Castle Wolfenstein | *pre-release* | 19/11/2020 | [capsterx-switch/iortcw](https://github.com/capsterx-switch/iortcw) |  | No |  
 | 🔴 Rocks'n'Diamonds / Mirrormagic | 1.15 | 22/05/2021 | [rsn8887/rocksndiamonds](https://github.com/rsn8887/rocksndiamonds) |  | No |  
