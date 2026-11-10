@@ -125,7 +125,8 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 Dethrace | 1.1 | 01/05/2025 | [alexart878/dethrace-switch](https://github.com/alexart878/dethrace-switch) | [Link](https://gbatemp.net/threads/dethrace-nx.670358/) | ??? | 
 | 🔴 Diablo | 0.95b | 14/07/2019 | [lantas/devilution-nx](https://github.com/lantus/devilution-nx/) | [Link](https://gbatemp.net/threads/diablo-nx-nintendo-switch-port-of-devilutionx-diablo.542414/) | No |  
 | 🔴 Doom | 1.02 | 26/07/2018 | [lantus/chocolate-doom-nx](https://github.com/lantus/chocolate-doom-nx/) | | No |  
-| 🔴 Duke Nukem 3D | r8093_nx_2 | 17/09/2019 | [fgsfdsfgs/eduke32](https://github.com/fgsfdsfgs/eduke32) |  | No |  
+| 🔴 Duke Nukem 3D | r8093_nx_2 | 17/09/2019 | [fgsfdsfgs/eduke32](https://github.com/fgsfdsfgs/eduke32) |  | No | 
+| 🔴 Dune II | 0.98.4 | 09/11/2025 | [carstene1ns/<br>dunelegacy](https://github.com/carstene1ns/dunelegacy/tree/switch-port) | [Link](https://gbatemp.net/threads/dune-legacy-dune-ii-remake.676917/) | No |  
 | 🔴 Hurrican | 1.04-Switch | 30/01/2024 | [rsn8887/Hurrican](https://github.com/rsn8887/Hurrican) |  | No |  
 | 🔴 Jazz Jackrabbit | 1.2.1 | 18/09/2019 | [KranKRival/OpenJazzNX](https://github.com/KranKRival/OpenJazzNX?) | [Link](https://gbatemp.net/threads/openjazznx-openjazz-port-with-sdl2-for-the-nintendo-switch.546759/) | No |  
 | 🔴 OpenTyrian 2000 | 1.0.0 | 04/03/2019 | [theflippedbit/opentyrian-nx](https://github.com/theflippedbit/opentyrian-nx) |  | No |  
