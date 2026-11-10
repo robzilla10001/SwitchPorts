@@ -293,7 +293,7 @@ Alphabetized by system  (24)
 | 🟢 LEGO Star Wars The Complete Saga | 1.0.4 | 03/11/2026 | [NaGaa95/<br>lswtcs_nx](https://github.com/NaGaa95/lswtcs_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-complete-saga-switch-port.682412/) |  |  
 | 🟢 LEGO Star Wars The Force Awakens | 1.0.2 | 03/11/2026 | [NaGaa95/<br>lswtfa_nx](https://github.com/NaGaa95/lswtfa_nx) | [Link](https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/) |  |  
 | Level UP: Mario's Minigames Mayhem | 1.0.0 | 14/09/2026 | [aks796/<br>lummm_nx](https://github.com/aks796/lummm_nx) | |  |  
-| 🟢 Max Payne | 1.0.2 | 03/11/2026 | [NaGaa95/max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) |  |  
+| 🟢 Max Payne | 1.0.2 | 03/11/2026 | [NaGaa95/<br>max_nx_v2.1.131](https://github.com/NaGaa95/max_nx_v2.1.131) | [Link](https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/) |  |  
 | 🟢 Mega Man X Regenesis | 1.01.0 | 03/11/2026 | [StevensND/<br>mmxregenesis_nx](https://github.com/StevensND/mmxregenesis_nx) | [Link](https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/) |  |  
 | Metroid Prime Origins | 1.1.2d | 05/10/2026 | [bshurikan/<br>mpo_nx](https://github.com/bshurikan/mpo_nx) | [Link](https://gbatemp.net/threads/metroid-prime-origins-fan-game-nintendo-switch-port.684635/) |  |  
 | MUL.MASH.TAB.BA.GAL.GAL | 1.0.0 | 03/09/2026 | [ChanseyIsTheBest/<br>mulmash_nx](https://github.com/ChanseyIsTheBest/mulmash_nx) | |  |  
