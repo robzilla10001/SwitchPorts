@@ -392,7 +392,7 @@ Alphabetized by system  (24)
 | 🟢 Halo: Combat Evolved | Build 141 | 09/11/2026 | [thelinkin3000/<br>halo-ce-universal](https://github.com/thelinkin3000/halo-ce-universal) | [Link](https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594) |  |  
 | |  1.0.0 | 10/10/2026 | [seamusduncmcgrath/<br>OpenCE-nx](https://github.com/seamusduncmcgrath/OpenCE-nx) | |  |  
 | 🟢 Midnight Club 3: Dub Edition | 1.1.0 | 05/11/2026 | [laureladastra/<br>mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991) |  |  
-| Mortal Kombat: Shaolin Monks | 0.3.1 | 27/10/2026 | [Thorhax/<br>ShaolinMonks-NX](https://github.com/Thorhax/ShaolinMonks-NX) | |  |  
+| 🟢 Mortal Kombat: Shaolin Monks | 0.4.1 | 10/11/2026 | [Thorhax/<br>ShaolinMonks-NX](https://github.com/Thorhax/ShaolinMonks-NX) | |  |  
 | MVP Baseball '05 | 0.2.0 | 27/10/2026 | [xsaja/<br>mvp-nx](https://github.com/xsaja/mvp-nx) | [Link](https://gbatemp.net/threads/mvp-baseball-05-xbox-switch-port.686056/) |  |  
 | Need for Speed: Carbon | 0.2.4 | 18/10/2026 | [antoxa2584x/<br>nfsuc-sw](https://github.com/antoxa2584x/nfsuc-sw) | [Link](https://gbatemp.net/threads/need-for-speed-carbon-switch-port.685045/) |  |  
 | Need for Speed: Underground | 0.4.0 | 15/10/2026 | [antoxa2584x/<br>nfsu1-sw](https://github.com/antoxa2584x/nfsu1-sw) | |  |  
@@ -501,7 +501,7 @@ Alphabetized by system  (24)
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
 | 🟢 The Legend of Zelda: Ocarina of Time 3D | 0.2.2 | 09/11/2026 | [JohnUzoka/<br>TriAevum-Switch](https://github.com/JohnUzoka/TriAevum-Switch) | |  |  
-| 🟢 Metroid: Samus Returns | 0.5.0 | 09/11/2026 | [FurryLilManChild/<br>MSR-nx](https://github.com/FurryLilManChild/MSR-nx) | |  |  
+| 🟢 Metroid: Samus Returns | 0.6.0 | 10/11/2026 | [FurryLilManChild/<br>MSR-nx](https://github.com/FurryLilManChild/MSR-nx) | |  |  
 
 - 2/2 updated 10/11/2026  
 ⎯ [Top](#toc) 
