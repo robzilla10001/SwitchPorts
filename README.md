@@ -464,6 +464,7 @@ Alphabetized by system  (24)
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/<br>the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | |  |  
 | Silent Hill 3 | 1.0 | 30/10/2026 | [gerisson1996/<br>SILENT-HILL-HD-COLLECTION-NX](https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX) | [Link](https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/) |  |  
 | Silent Hill Homecoming | 1.0 | 30/10/2026 | [gerisson1996/<br>SHH-NX-PORT](https://github.com/gerisson1996/SHH-NX-PORT) | [Link](https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/) |  |  
+| 🟢 Singularity | *pre-release* | 09/11/2026 | [panalexeu/<br>singularity-nx](https://github.com/panalexeu/singularity-nx) | |  |  
 | Skate 3 | 0.1.5 | 30/10/2026 | [JohnUzoka/<br>skate-3-rust-engine](https://github.com/JohnUzoka/skate-3-rust-engine) | |  |  
 | 🟢 Sonic Adventure 2 | 1.0.6 | 04/11/2026 | [ChanseyIsTheBest/<br>sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) |  |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/<br>MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) |  |  
