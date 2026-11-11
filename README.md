@@ -456,7 +456,8 @@ Alphabetized by system  (24)
 | 🟢 PAC-MAN Championship Edition DX | 1.0.0 | 02/11/2026 | [ChanseyIsTheBest/pacman-nx/](https://github.com/ChanseyIsTheBest/pacman-nx/) | [Link](https://gbatemp.net/threads/pac-man-championship-edition-dx-switch-port.686167/) |  |  
 | Peggle | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/<br>peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | |  |  
 | Peggle 2 | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/<br>peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/unread) |  |  
-| 🟢 Ridge Racer 6 | 1.0.0 | 09/11/2026 | [ChanseyIsTheBest/<br>rr6-nx](https://github.com/ChanseyIsTheBest/rr6-nx) | |  |  
+| 🟢 Pure | 0.10 | 10/11/2026 | [cznn999/<br>pure-nx](https://github.com/cznn999/pure-nx) | [Link](https://gbatemp.net/threads/release-pure-2008-xbox-360-nintendo-switch-native-port.686407/) |  |  
+| 🟢 Ridge Racer 6 | 1.0.1 | 10/11/2026 | [ChanseyIsTheBest/<br>rr6-nx](https://github.com/ChanseyIsTheBest/rr6-nx) | |  |  
 | 🟢 Scud Race | 1.0.0 | 10/11/2026 | [Thorhax/<br>scudrace-nx](https://github.com/Thorhax/scudrace-nx) | |  |  
 | 🟢 Shank | 1.0.1 | 04/11/2026 | [zhtipu/<br>shank1-nx](https://github.com/zhtipu/shank1-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | Shank 2 | 1.0.0 | 31/10/2026 | [zhtipu/<br>shank2-nx](https://github.com/zhtipu/shank2-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
@@ -764,6 +765,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Dragonball Z: Tenkaichi Budokai 3 | 1.7.2 | 01/11/2026 | [alexyt2021es/<br>DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | |  |  
 | Jak and Daxter Trilogy | 1.0 | 30/10/2026 | [fildicio/<br>jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/) |  |  
 | 🟢 Rampage: Total Destruction | 1.2.6 | 08/11/2026 | [jjmhalew/<br>RampageRE](https://github.com/jjmhalew/RampageRE) | [Link](https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/) |  |  
+| 🟢 Sly Cooper | 0.1.44 | 10/11/2026 | [FridiNaTor1/<br>SafeHouse](https://github.com/FridiNaTor1/SafeHouse) | |  |    
 
 - 1/3 updated 10/11/2026  
 ⎯ [Top](#toc)
