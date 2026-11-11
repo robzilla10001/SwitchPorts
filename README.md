@@ -161,7 +161,7 @@ Alphabetized by system  (24)
 | PS2 | 🟢 NetherSX2 | 1.4.1 | 02/11/2026 | [NaGaa95/<br>NetherSX2_nx](https://github.com/NaGaa95/NetherSX2_nx) | [Link](https://gbatemp.net/threads/nethersx2-switch-port.683038/) |  |  
 | PS2 | ARMSX2 | 3.0.0 | 24/08/2026 | [PalindromicBreadLoaf/<br>ARMSX2-NX](https://github.com/PalindromicBreadLoaf/ARMSX2-NX) | [Link](https://gbatemp.net/threads/armsx2-nx-initial-release.682645/) |  |  
 | PSP | PPSSPP | 0.7.0 | 07/09/2026 | [SirSamael/<br>ppsspp-switch-community-build](https://github.com/SirSamael/ppsspp-switch-community-build) | [Link](https://gbatemp.net/threads/ppsspp-switch-community-build.684008/) |  |   
-| | PPSSPP-NX | 1.0.0 | 17/09/2026 | [NaGaa95/<br>ppsspp-nx](https://github.com/NaGaa95/ppsspp-nx) | [Link](https://gbatemp.net/threads/ppsspp-nx.684504/) |  |   
+| | 🟢 PPSSPP-NX | 1.1.0 | 10/11/2026 | [NaGaa95/<br>ppsspp-nx](https://github.com/NaGaa95/ppsspp-nx) | [Link](https://gbatemp.net/threads/ppsspp-nx.684504/) |  |   
 | S.22 | System22-nx | 0.1 *beta* | 01/10/2026 | [r4dius/<br>system22-nx](https://github.com/r4dius/system22-nx) | [Link](https://gbatemp.net/threads/system22-nx-emulator-port-mame.684898/) |  |  
 | Saturn | 🟢 YabaSanshiro | 1.3.0 | 08/11/2026 | [Thorhax/<br>yabasanshiro-nx](https://github.com/Thorhax/yabasanshiro-nx) | [Link](https://gbatemp.net/threads/yabasanshiro-nx-sega-saturn-emulator.686378/unread) |  |  
 | VITA | 🟢 Vita3K | 1.4.1 | 02/11/2026 | [NaGaa95/<br>Vita3K-nx](https://github.com/NaGaa95/Vita3K-nx) | [Link](https://gbatemp.net/threads/vita3k-playstation-vita.684076/) |  |  
