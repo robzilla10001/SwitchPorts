@@ -119,6 +119,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 Abuse | 0.8r3 | 14/11/2020 | [capsterx-switch/abuse](https://github.com/capsterx-switch/abuse) |  | No |  
 | 🔴 Arx Fatalis | 1.2-nx1 *pre-release* | 20/07/2021 | [fgsfdsfgs/ArxLibertatis](https://github.com/fgsfdsfgs/ArxLibertatis) |  | No |  
 | 🔴 Brogue | 1.9.2-r2 | 23/11/2020 | [capsterx-switch/BrogueCE](https://github.com/capsterx-switch/BrogueCE) |  | No |  
+| 🔴 Caesar III | 1.02 | 13/03/2019 | [rsn8887/julius](https://github.com/rsn8887/julius) |  | No |  
 | 🔴 Captain Claw | beta2 | 18/01/2019 | [rsn8887/OpenClaw](https://github.com/rsn8887/OpenClaw) |  | No |  
 | 🔴 Command & Conquer / Red Alert | 0.6 | 01/01/2021 | [capsterx-switch/Vanilla-Conquer](https://github.com/capsterx-switch/Vanilla-Conquer/) | [Link](https://gbatemp.net/threads/c-c-vanilla-conquer.579074/) | No |  
 | 🔴 Dethrace | 1.1 | 01/05/2025 | [alexart878/dethrace-switch](https://github.com/alexart878/dethrace-switch) | [Link](https://gbatemp.net/threads/dethrace-nx.670358/) | ??? | 
