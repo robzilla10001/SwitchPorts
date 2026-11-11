@@ -739,7 +739,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | Virtua Racing Deluxe (32x) | 1.0.0 | 02/10/2026 | [Thorhax/<br>sega-vr-disasm](https://github.com/Thorhax/sega-vr-disasm) | |  |  
-| 🟢 Mickey & Donald Collection | *pre-release* | 05/11/2026 | [simplePsyduck/<br>MickeyAndDonaldCollection-NX](https://github.com/simplePsyduck/MickeyAndDonaldCollection-NX) | |  |  
+| 🟢 Mickey & Donald Collection | *pre-release* | 05/11/2026 | [simplePsyduck/<br>MickeyAndDonaldCollection-NX](https://github.com/simplePsyduck/MickeyAndDonaldCollection-NX) | [Link](https://gbatemp.net/threads/mickey-donald-collection-castle-of-illusion-quackshot-world-of-illusion.686415/) |  |  
 
 - 1/2 updated 10/11/2026  
 ⎯ [Top](#toc)  
