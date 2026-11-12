@@ -440,7 +440,7 @@ Alphabetized by system  (24)
 | 🟢 Kameo: Elements of Power | 1.0.1 | 04/11/2026 | [ChanseyIsTheBest/<br>kameo-nx](https://github.com/ChanseyIsTheBest/kameo-nx) | [Link](https://gbatemp.net/threads/kameo-elements-of-power-switch-port.686207/) |  |  
 | Ketsui: Kizuna Jigoku Tachi Extra | 1.0.0 | 28/10/2026 | [ChanseyIsTheBest/<br>ketsui-nx](https://github.com/ChanseyIsTheBest/ketsui-nx) | [Link](https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/) |  |  
 | 🟢 A Kingdom for Keflings | 1.0.1 | 04/11/2026 | [ChanseyIsTheBest/<br>keflings-nx](https://github.com/ChanseyIsTheBest/keflings-nx) | |  |  
-| 🟢 The King of Fighters 2002 Unlimited Match | 0.1.1 | 07/11/2026 | [tbittech/<br>kof2002um-nx](https://github.com/tbittech/kof2002um-nx) | |  |  
+| 🟢 The King of Fighters 2002 Unlimited Match | 0.1.2 | 12/11/2026 | [tbittech/<br>kof2002um-nx](https://github.com/tbittech/kof2002um-nx) | |  |  
 | 🟢 LEGO Batman: The Videogame | 0.1.1 | 11/11/2026 | [surblazer/<br>legobatman-recomp](https://github.com/surblazer/legobatman-recomp) | |  |  
 | 🟢 Lost Odyssey | 1.1.0 | 06/11/2026 | [Ad0ky/<br>LostOdysseyRecomp](https://github.com/Ad0ky/LostOdysseyRecomp) | [Link](https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/) |  |  
 | Mass Effect | 0.2.1 | 09/10/2026 | [nebadasSwifty/<br>masseffect-nx](https://github.com/nebadasSwifty/masseffect-nx) | |  |  
