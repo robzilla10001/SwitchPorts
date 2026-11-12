@@ -650,6 +650,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/<br>cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) |  |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
 | Cosmology of Kyoto | 1.0.0 | 30/10/2026 | [seamusduncmcgrath/<br>CosmologyOfKyoto-Recompiled](https://github.com/seamusduncmcgrath/CosmologyOfKyoto-Recompiled) | |  |
+| 🟢 Death Rally | 1.1.0 | 12/11/2026 | [VLPLAY-Games/<br>dRally_S](https://github.com/VLPLAY-Games/dRally_S) | |  |  
 | Descent | 0.58.6 | 09/09/2026 | [Thorhax/<br>Descent1-NX-Modern](https://github.com/Thorhax/Descent1-NX-Modern) | |  |  
 | Descent 2 | 0.58.6 | 09/09/2026 | [Thorhax/<br>Descent2-NX-Modern](https://github.com/Thorhax/Descent2-NX-Modern) | [Link](https://gbatemp.net/threads/descent-2-nx.685064/) |  |  
 | 🟢 Deus EX | 0.1.0 | 05/11/2026 | [JohnUzoka/<br>dx-rust-nx](https://github.com/JohnUzoka/dx-rust-nx) | |  |  
