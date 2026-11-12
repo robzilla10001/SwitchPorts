@@ -559,6 +559,7 @@ Alphabetized by system  (24)
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: The Minish Cap | v0.25 | 04/06/2026 | [HayatoG/<br>tmc](https://github.com/HayatoG/tmc) | |  |  
 | | 2.0.1 | 17/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-the-minish-cap-aleks-ultimate-nx-edition-dual-screen-flip-grip-support-touch-retroachievements.683892/) |  |  
+| Mario Kart: Super Circuit | 0.2.0 | 12/11/2026 | [Niecks90/<br>mksc-nx](https://github.com/Niecks90/mksc-nx) | |  | 
 | Metroid: Zero Mission | 1.3 | 28/10/2026 | [JJTapiaXX/<br>Metroid-Zero-Mission-NX](https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX) | [Link](https://gbatemp.net/threads/metroid-zero-mission-nx.685276/) |  |  
 | 🟢 Pokemon: FullDex | v2 | 08/11/2026 | [mamesj/pokemon-fulldex/](https://github.com/mamesj/pokemon-fulldex/releases/tag/all-games-v2) | Link |  |  
 | Sonic Advance 2 | 0.3 | 16/09/2026 | [boraeskicioglu/<br>sonic_advance2_nx](https://github.com/boraeskicioglu/sonic_advance2_nx) | |  |  
