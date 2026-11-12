@@ -689,6 +689,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Project Zomboid | 0.5 | 29/10/2026 | [etonedemid/<br>zomboid-switch](https://github.com/etonedemid/zomboid-switch) | |  |  
 | Quake | 0.93.3 NX | 04/09/2026 | [Thorhax/<br>Quakespasm-NX-Modern](https://github.com/Thorhax/Quakespasm-NX-Modern) | |  |  
 | Quake 2 | 8.21 NX | 01/09/2026 | [Thorhax/<br>Quake2-NX-Modern](https://github.com/Thorhax/Quake2-NX-Modern) | |  |  
+| 🟢 Quake 4 | 1.1.1 | 12/11/2026 | [VLPLAY-Games/<br>openQ4_S](https://github.com/VLPLAY-Games/openQ4_S) | |  |  
 | RollerCoaster Tycoon 2 | 1.0.0 | 10/09/2026 | [Wander-Eule/<br>OpenRCT2-Switch](https://github.com/Wander-Eule/OpenRCT2-Switch) | |  |  
 | Sheep, Dog 'n' Wolf: Rewooled | 1.0.1 | 22/10/2026 | [adumah/<br>SheepDogWolf-NX](https://github.com/adumah/SheepDogWolf-NX) | |  |  
 | Silent Hill | 1.2.0 | 24/10/2026 | [DerilDX/<br>silent-hill-decomp-nx](https://github.com/DerilDX/silent-hill-decomp-nx) | [Link](https://gbatemp.net/threads/silent-hill-decompilation-nx-switch-port.682867/) |  |  
