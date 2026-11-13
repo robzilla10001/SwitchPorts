@@ -714,6 +714,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Touhou 11: Subterranean Animism | 1.00a-r3 | 30/09/2026 | [saekaze/<br>th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) |  |  
 | Touhou 12: Undefined Fantastic Object | 1.00b-r2 | 25/10/2026 | [saekaze/th12-switch/](https://github.com/saekaze/th12-switch/) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) |  |  
 | Touhou 15: Legacy of Lunatic Kingdom | 1.00b-r3 | 13/10/2026 | [saekaze/<br>th15-switch](https://github.com/saekaze/th15-switch) | [Link](https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/) |  |  
+| 🟢 Ultimate Spider-Man | 1.0.0 | 13/11/2026 | [the-deshpande/<br>usm_switch](https://github.com/the-deshpande/usm_switch) | |  |
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/<br>Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | |  |  
 | Velikolepny Vovochka | 1.0.1.0 | 16/09/2026 | [worthis/<br>Vovochka](https://github.com/worthis/Vovochka) |  |  |  
 | Warcraft | 3.3.3-NX | 14/09/2026 | [Thorhax/<br>War1gus-NX-Modern](https://github.com/Thorhax/War1gus-NX-Modern) | |  |  
