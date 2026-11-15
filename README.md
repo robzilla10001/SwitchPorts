@@ -591,10 +591,11 @@ Alphabetized by system  (24)
 | 🟢 Mario Kart: Double Dash! | 1.9.1 | 07/11/2026 | [digdat0/<br>mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) |  |  
 | 🟢 Metroid Prime 2: Echoes | 0.5.0 | 09/11/2026 | [FurryLilManChild/<br>MP2-nx](https://github.com/FurryLilManChild/MP2-nx) | |  |  
 | 🟢 Sonic Riders | 0.7.4 | 10/11/2026 | [teclilla18/<br>sonic-riders-recomp](https://github.com/teclilla18/sonic-riders-recomp) | [Link](https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/) |  |  
+| 🟢 The SpongeBob SquarePants Movie | 1.0.0 | 15/11/2026 | [csskillbad/<br>Spongebob_movie-switch](https://github.com/csskillbad/Spongebob_movie-switch) | |  |  
 | 🟢 Super Mario Strikers | 2.0.0 | 09/11/2026 |[new-coke/<br>strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) |  |  
 | Super Smash Bros. Melee | 0.2.5 *beta* | 06/10/2026 | [KawaiiBunga/<br>Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | |  |  
 
-- 5/11 updated 10/11/2026  
+- 6/12 updated 15/11/2026  
 ⎯ [Top](#toc)
 
 <a id="snes"></a>  
