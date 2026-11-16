@@ -477,6 +477,7 @@ Alphabetized by system  (24)
 | 🟢 Torchlight | 1.0.5 | 05/11/2026 | [liartes/<br>torchlight-nx](https://github.com/liartes/torchlight-nx) | |  |  
 | | 1.1.0 | 29/10/2026 | [GreenSwampDweller/<br>torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) |  |  
 | Ultra Street Fighter IV | 0.8.1 | 25/10/2026 | [Thorhax/<br>usf4-nx](https://github.com/Thorhax/usf4-nx) | |  |  
+| 🟢 The Witcher 2: Definitive Edition | 0.1.3 | 15/11/2026 | [recomp-nx/<br>tw2de_nx](https://github.com/recomp-nx/tw2de_nx) | | |
 | Zuma | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zuma-nx](https://github.com/ChanseyIsTheBest/zuma-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 | Zuma's Revenge | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zumasrevenge-nx](https://github.com/ChanseyIsTheBest/zumasrevenge-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 
