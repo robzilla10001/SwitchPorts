@@ -367,6 +367,7 @@ Alphabetized by system  (24)
 | Sega Rally | switch-v0.5.3 | 08/10/2026 | [jacquesdupontd/<br>port0r](https://github.com/jacquesdupontd/port0r) | [Link](https://gbatemp.net/threads/sega-rally-1995-arcade-on-switch-full-16-9-hd-textures-10-mods-replays-online-leaderboard.685124/) |  |  
 | Sonic the Fighters | 0.8.3 | 09/10/2026 | [boraeskicioglu/<br>sonic_the_fighters_nx](https://github.com/boraeskicioglu/sonic_the_fighters_nx) | [Link](https://gbatemp.net/threads/sonic-the-fighters-switch-port.685251/) |  |  
 | 🟢 Teenage Mutant Ninja Turtles | 1.0.6 | 09/11/2026 | [cheviman/<br>tmnt-port](https://github.com/cheviman/tmnt-port) | |  |  
+| 🟢 The Simpsons | 1.0.1 | 14/11/2026 | [cheviman/<br>simpsons-port](https://github.com/cheviman/simpsons-port) | |  |
 | Virtua Fighter 2 | 1.1.0 | 10/10/2026 | [Thorhax/<br>VF2-NX-Modern](https://github.com/Thorhax/VF2-NX-Modern) | [Link](https://gbatemp.net/threads/virtua-fighter-2-arcade.685157/unread) |  |  
 
 - 2/10 updated 10/11/2026  
@@ -467,6 +468,7 @@ Alphabetized by system  (24)
 | 🟢 Shank | 1.0.1 | 04/11/2026 | [zhtipu/<br>shank1-nx](https://github.com/zhtipu/shank1-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | Shank 2 | 1.0.0 | 31/10/2026 | [zhtipu/<br>shank2-nx](https://github.com/zhtipu/shank2-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/<br>the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | |  |  
+| 🟢 The Sims 3 | 0.1.0 | 15/11/2026 | [Zumoly/<br>sims3-nx](https://github.com/Zumoly/sims3-nx) | |  |  
 | Silent Hill 3 | 1.0 | 30/10/2026 | [gerisson1996/<br>SILENT-HILL-HD-COLLECTION-NX](https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX) | [Link](https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/) |  |  
 | Silent Hill Homecoming | 1.0 | 30/10/2026 | [gerisson1996/<br>SHH-NX-PORT](https://github.com/gerisson1996/SHH-NX-PORT) | [Link](https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/) |  |  
 | 🟢 Singularity | *pre-release* | 09/11/2026 | [panalexeu/<br>singularity-nx](https://github.com/panalexeu/singularity-nx) | |  |  
@@ -527,6 +529,7 @@ Alphabetized by system  (24)
 | Diddy Kong Racing | 1.2.1 | 12/08/2026 | [boraeskicioglu/<br>goldenballoon_nx](https://github.com/boraeskicioglu/goldenballoon_nx) | [Link](https://gbatemp.net/threads/diddy-kong-racing-golden-balloon-switch-port.683670/) |  |  
 | Donkey Kong 64 | 1.1.2 | 11/10/2026 | [Trinalord777/<br>DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | [Link](https://gbatemp.net/threads/dk64-reconkgpiled-nx-port.685111/) |  |  
 | F-Zero X | 1.0.1 | 14/08/2026 | [PalindromicBreadLoaf/<br>NX-Diffuser](https://github.com/PalindromicBreadLoaf/NX-Diffuser) | |  |  
+| 🟢 GoldenEye 007 | 0.2.0 | 15/11/2026 | [christphe/<br>project-dam-nx](https://github.com/christphe/project-dam-nx) | |  | 
 | The Legend of Zelda: Majora's Mask | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/<br>2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) |  |  
 | | 5.0.1 v3 | 03/09/2026 | [reflex909/<br>2ship2harkinian-Switch](https://github.com/reflex909/2ship2harkinian-Switch) | [Link](https://gbatemp.net/threads/2ship2harkinian-switch-port-gyro-and-rumble-support.683491/) |  |  
 | The Legened of Zelda: Ocarina of Time | 9.3.1-nx2 | 28/10/2026 | [timschneeb/<br>Shipwright-Switch](https://github.com/timschneeb/Shipwright-Switch/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) |  |  
