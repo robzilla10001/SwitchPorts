@@ -428,6 +428,7 @@ Alphabetized by system  (24)
 | Dead Space 2 | 1.3.0 (TU2) | 27/10/2026 | [VasilkovND/<br>ds2-nx](https://github.com/VasilkovND/ds2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
 | Dead Space 3 | 1.0.1 (TU2) | 27/10/2026 | [VasilkovND/<br>ds3-nx](https://github.com/VasilkovND/ds3-nx) |  |  |  
 | 🟢 Dishonored | 0.20 | 11/11/2026 | [cznn999/<br>dishonored-nx](https://github.com/cznn999/dishonored-nx) | [Link](https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/) |  |  
+| 🟢 FarCry 4 | *pre-release* | 12/11/2026 | [Steammaker212<br>/FC4-NX](https://github.com/Steammaker212/FC4-NX) | |  |  
 | Feeding Frenzy | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
 | Feeding Frenzy 2: Shipwreck Showdown | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy2-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
 | 🟢 Gears of War 2 | 1.1.0 | 07/11/2026 | [VasilkovND/<br>gears2-nx](https://github.com/VasilkovND/gears2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260) |  |  
@@ -447,6 +448,7 @@ Alphabetized by system  (24)
 | 🟢 Mass Effect 2 | *pre-release* | 06/11/2026 | [VibePorter/<br>Lazarus](https://github.com/VibePorter/Lazarus) | |  |  
 | 🟢 Max Payne 3 | *released* | 06/11/2026 | [VasilkovND/<br>mp3-nx](https://github.com/VasilkovND/mp3-nx) | |  |  
 | Metal Gear Rising: Revengeance | 0.2.2 | 23/10/2026 | [tuancapoo/<br>mgr-nx-deko](https://github.com/tuancapoo/mgr-nx-deko) | |  |  
+| 🟢 Midnight Club Los Angeles | 0.3.0-c177 | 14/11/2026 | [Wivi2013/<br>mcla-nx](https://github.com/Wivi2013/mcla-nx) |  |  
 | 🟢 Mini Ninjas | 1.0.8 | 05/11/2026 | [infriker/<br>mini-ninjas-nx](https://github.com/infriker/mini-ninjas-nx) | |  |  
 | Monster High: New Ghoul in School | *released* | 21/10/2026 | [adumah/<br>mhnwis-nx](https://github.com/adumah/mhnwis-nx) | |  |  
 | 🟢 Mortal Kombat Komplete Edition | 1.0.6 | 08/11/2026 | [Thorhax/<br>mk9-nx](https://github.com/Thorhax/mk9-nx) | |  |  
@@ -473,10 +475,13 @@ Alphabetized by system  (24)
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/<br>MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) |  |  
 | Sonic Unleashed | 1.0.0 | 02/10/2026 | [ChanseyIsTheBest/<br>UnleashedRecomp-NX](https://github.com/ChanseyIsTheBest/UnleashedRecomp-NX) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/post-10916920) |  |  
 | Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/<br>sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) |  |  
+| 🟢 Timeshift | *pre-release* | 12/11/2026 | [Vasin228/<br>timeshift-nx](https://github.com/Vasin228/timeshift-nx) | |  |  
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/<br>project8-sw](https://github.com/R-drg/project8-sw) | |  |  
 | 🟢 Torchlight | 1.0.5 | 05/11/2026 | [liartes/<br>torchlight-nx](https://github.com/liartes/torchlight-nx) | |  |  
 | | 1.1.0 | 29/10/2026 | [GreenSwampDweller/<br>torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) |  |  
 | Ultra Street Fighter IV | 0.8.1 | 25/10/2026 | [Thorhax/<br>usf4-nx](https://github.com/Thorhax/usf4-nx) | |  |  
+| 🟢 The Witcher 2: Assassins of Kings | *pre-release* | 13/11/2026 | [v1ab1/<br>witcher2nx](https://github.com/v1ab1/witcher2nx) | |  |  
+| 🟢 | 0.1.3 | 15/11/2026 | [recomp-nx/<br>tw2de_nx](https://github.com/recomp-nx/tw2de_nx) | |  |  
 | Zuma | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zuma-nx](https://github.com/ChanseyIsTheBest/zuma-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 | Zuma's Revenge | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zumasrevenge-nx](https://github.com/ChanseyIsTheBest/zumasrevenge-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 
