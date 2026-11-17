@@ -1,0 +1,59 @@
+name: Update status
+description: Post an update to a game status
+title: "Status: "
+labels: ["Status Update"]
+assignees: ["Creators/Testers only"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: System
+      description: The System Header
+      options:
+        - Emulators
+        - Android 32bit
+        - Android 64bit
+        - Arcade
+        - Microsoft Xbox
+        - Microsoft Xbox 360
+        - NEC PC Engine (TurboGrafx-16)
+        - Nintendo DS
+        - Nintendo 3DS
+        - Nintendo 64
+        - Nintendo Gameboy
+        - Nintendo Gameboy Advance
+        - Nintendo Gameboy Color
+        - Nintendo GameCube
+        - Super Nintendo Entertainment System
+        - Nintendo Wii
+        - Nintendo Wii U
+        - PC
+        - Sega Dreamcast
+        - Sega Genesis (32x contained here also)
+        - Sony Playstation
+        - Sony Playstation 2
+        - Sony Playstation 4
+        - Sony Playstation Portable 
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      description: Must exactly match the first column of the existing row (leave off 🟢)
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      description: Project progress
+      options:
+        - ⬛️ = Does not boot
+        - 🟥 = Game boots to title
+        - 🟧 = Boots into game, unplayable
+        - 🟨 = Playable
+        - 🟩 = Completable
+        - ✳️ = Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain.
+    validations:
+      required: true
