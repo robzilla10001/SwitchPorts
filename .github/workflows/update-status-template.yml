@@ -16,8 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.MY_PAT }}
 
       - name: Regenerate status form
         run: python3 .github/scripts/generate_status_template.py
