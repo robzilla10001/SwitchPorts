@@ -63,6 +63,16 @@ general disclaimer as "every piece of software here *POSSIBLY* has been touched 
 some point". If that bothers you, there's the door. And Mathew77, you especially are not welcome.
 You know why.  
 
+# Issues and Pull Requests  
+
+The 'Issues' and 'Pull Requests' tabs have been altered to effect a change: no more title reporting
+via 'Issues'. You will be automatically redirected to create a pull request. If you do not know how
+to make a pull request, congratulations! Today will be a learning day for you (it was for me as well,
+I had no idea how it worked until I tried to test it out). It vastly simplifies the process for
+updating the main README.md, and saves me a bit of time. Plus, you'll know if the title you're trying
+to add exists already. It's win-win. I've also updated the status issue template; more on that below.  
+![Issues template](.github/images/issues.png)
+
 # SwitchPorts
 ## Software Ported to Nintendo Switch  
 
@@ -84,6 +94,16 @@ violators will be ignored.
 (this was optimistic as hell, I don't have the time, apologies).
 
 ## Recent Changes:
+- I have revamped the `Status` update issue template.
+  <p align="center">  
+    <img src=".github/images/status_1.png" width="49%" /> <img src=".github/images/status_2.png" width="49%" />  
+  </p>  
+- Please provide an apt title for the issue, select the system, select the title from the
+  system selected previously (ONLY select from a system you've selected in the previous
+  dropdown, or it will not work), select a status update (Project Progress) and select create.
+  If you have permissions, it will do the rest of the work for you. Congratulations! You just
+  contributed to the SwitchPorts database! I know, I know, it's not *really* a database and it's
+  just my little GitHub, but I greatly appreciate your contributions!  
 - We have a new column; replacing `FW 21+?` will be `Status`, followed by the following
   icons to indicate status/level of readiness:  
   ⬛️ = Does not boot  
@@ -98,11 +118,6 @@ violators will be ignored.
   will auto update the list; if you are an Author or Tester and are not on the list, please
   post in the open issue, and I will address it as soon as I can.
 - 🟢 - indicates the title is new and/or updated in a recent edit. Most recent commit <7 days.
-- Removed non-linked GBATemp Thread place holders. See the discussion topic linked above to
-  discuss any title that doesn't have a dedicated thread. I briefly considered making a thread
-  for each title missing one, but A.) didn't feel like flooding GBATemp and catching a vacation,
-  and B.) Just seems like a waste of time.
-- Moved archived/dead projects to DEAD.md.
 
 <a id="toc"></a>  
 ## Table of Contents  
