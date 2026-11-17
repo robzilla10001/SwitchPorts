@@ -107,7 +107,7 @@ violators will be ignored.
 <a id="toc"></a>  
 ## Table of Contents  
 
-Alphabetized by system  (24)
+Alphabetized by system  (24)  
 ⎯ [Emulators](#emu)  
 ⎯ [Android 32bit](#and32)  
 ⎯ [Android 64bit](#and64)  
@@ -331,6 +331,7 @@ Alphabetized by system  (24)
 | Sonic Jump Fever | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/<br>sonicjumpfever_nx](https://github.com/ChanseyIsTheBest/sonicjumpfever_nx) | |  |  
 | Sonic Runners Adventure | 0.1.46 | 18/08/2026 | [boraeskicioglu/<br>sonic_runners_adventure_nx](https://github.com/boraeskicioglu/sonic_runners_adventure_nx) | [Link](https://gbatemp.net/threads/sonic-runners-adventure-switch-port.683857/) |  |  
 | Sonic Triple Trouble 16-bit | 1.0.0 | 29/06/2026 | [boraeskiicioglu/<br>sst16bit_nx](https://github.com/boraeskicioglu/stt16bit_nx) | [Link](https://gbatemp.net/threads/sonic-triple-trouble-16-bit-switch-port.682814/) |  |  
+| 🟢 Soulcalibur II | 0.4.0 | 16/11/2026 | [markaurel13/<br>soulcalibur2-nx](https://github.com/markaurel13/soulcalibur2-nx) | [Link](https://gbatemp.net/threads/soulcalibur-ii-for-nintendo-switch-includes-all-the-console-exclusive-characters-switch-port.686581/) |  |  
 | Stick With It | 1.0.0 | 08/07/2026 | [souldbminerr/<br>swi_nx](https://github.com/souldbminerr/swi-nx) | [Link](https://gbatemp.net/threads/stick-with-it-switch-port.683200/) |  |  
 | Stone Story RPG | 1.0.0 | 17/10/2026 | [xflipperkast/<br>stonestory_nx](https://github.com/xflipperkast/stonestory_nx) | |  |  
 | Streets of Rage X | 1.0.1 | 14/08/2026 | [delsonazevedo/<br>sorx_nx](https://github.com/delsonazevedo/sorx_nx) | |  |  
