@@ -436,6 +436,7 @@ Alphabetized by system  (24)
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | Alice: Madness Returns | 0.2-beta | 05/11/2026 | [adumah/<br>alice-nx](https://github.com/adumah/alice-nx) | |  |  
+| Angry Birds Trilogy | 1.0 | 16/11/2026 | [slicey64/<br>rehatched-nx](https://github.com/slicey64/rehatched-nx) | |  |  
 | Bakugan: Battle Brawlers | 0.2.3 | 02/11/2026 | [Wiredlainn/<br>Bakugan-NX](https://gitlab.com/wiredlainn/Bakugan-NX) | |  |  
 | Bangai-O HD: Missile Fury | 1.0.1 | 04/11/2026 | [ChanseyIsTheBest/<br>bangaio-nx](https://github.com/ChanseyIsTheBest/bangaio-nx) | [Link](https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/) |  |  
 | Banjo-Kazooie: Nuts & Bolts | 1.0.2 | 04/11/2026 | [ChanseyIsTheBest/<br>renut-nx](https://github.com/ChanseyIsTheBest/renut-nx) | [Link](https://gbatemp.net/threads/banjo-kazooie-nuts-bolts-renut-switch-port.686095/) |  |  
