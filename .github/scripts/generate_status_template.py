@@ -26,7 +26,7 @@ CATEGORIES = [
     {"label": "Arcade", "anchor": "arc", "column": "Game"},
     {"label": "Microsoft Xbox", "anchor": "xbox", "column": "Game"},
     {"label": "Microsoft Xbox 360", "anchor": "x360", "column": "Game"},
-    {"label": "NEC PC Engine (TurboGrafx-16)", "anchor": "pce", "column": "Game"}
+    {"label": "NEC PC Engine (TurboGrafx-16)", "anchor": "pce", "column": "Game"},
     {"label": "Nintendo DS", "anchor": "nds", "column": "Game"},
     {"label": "Nintendo 3DS", "anchor": "3ds", "column": "Game"},
     {"label": "Nintendo 64", "anchor": "n64", "column": "Game"},
