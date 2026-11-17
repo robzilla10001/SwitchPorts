@@ -1,5 +1,5 @@
 name: Update status template from README
- 
+
 on:
   push:
     branches: [main]          # change if your default branch is different
@@ -7,26 +7,31 @@ on:
       - README.md
       - .github/scripts/generate_status_template.py
   workflow_dispatch:          # lets you run it manually from the Actions tab
- 
+
+permissions:
+  contents: write             # lets the built-in token push the commit
+
 jobs:
   regenerate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ github.token }}
-          
-      - name: Regenerate issue form
+          token: ${{ secrets.MY_PAT }}
+
+      - name: Regenerate status form
         run: python3 .github/scripts/generate_status_template.py
- 
+
       - name: Commit if changed
         run: |
-          if git diff --quiet -- .github/ISSUE_TEMPLATE/issue.yml; then
-            echo "Issue template already up to date."
+          FILE=.github/ISSUE_TEMPLATE/update-status.yml
+          # --porcelain also catches the file being brand new (untracked)
+          if [ -z "$(git status --porcelain -- "$FILE")" ]; then
+            echo "Status template already up to date."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/ISSUE_TEMPLATE/issue.yml
-          git commit -m "Update issue template from README"
-          git push_template.py
+          git add "$FILE"
+          git commit -m "Update status template from README"
+          git push
