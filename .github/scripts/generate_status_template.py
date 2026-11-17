@@ -92,15 +92,27 @@ def clean_cell(cell):
     return re.sub(r"\s+", " ", cell).strip()
 
 
+# The |---|---| row under a table's headers (dashes, colons, pipes, spaces).
+SEPARATOR_RE = re.compile(r"^\s*\|?\s*:?-+:?\s*(\|\s*:?-*:?\s*)*\|?\s*$")
+
+# Invisible characters that sometimes sneak into copied/pasted markdown.
+INVISIBLE = {ord(c): None for c in "\ufeff\u200b\u200c\u200d\u2060"}
+INVISIBLE[0x00A0] = " "   # non-breaking space -> normal space
+
+
 def read_column(lines, anchor, column):
+    lines = [l.translate(INVISIBLE) for l in lines]
     start = find_anchor_line(lines, anchor)
     if start is None:
         sys.exit(f"ERROR: could not find #{anchor} in {README}")
 
-    # Walk forward to the first table, giving up if we reach another section.
+    # Walk forward to the first table's |---| separator row, giving up if we
+    # reach another section. The header row is the line just above it.
     i = start + 1
     headings_seen = 0 if HEADING_RE.match(lines[start]) else -1
-    while i < len(lines) and not lines[i].lstrip().startswith("|"):
+    while i < len(lines) and not (
+        SEPARATOR_RE.match(lines[i]) and "|" in lines[i] + lines[i - 1]
+    ):
         if HEADING_RE.match(lines[i]):
             headings_seen += 1
             if headings_seen > 0:
@@ -109,7 +121,7 @@ def read_column(lines, anchor, column):
     if i >= len(lines):
         sys.exit(f"ERROR: no table found under #{anchor}")
 
-    header = [clean_cell(c) for c in split_row(lines[i])]
+    header = [clean_cell(c) for c in split_row(lines[i - 1])]
     try:
         col = [h.lower() for h in header].index(column.lower())
     except ValueError:
@@ -117,8 +129,8 @@ def read_column(lines, anchor, column):
                  f"(columns: {', '.join(header)})")
 
     values, seen = [], set()
-    for line in lines[i + 2:]:               # skip header + |---| row
-        if not line.lstrip().startswith("|"):
+    for line in lines[i + 1:]:               # rows after the |---| line
+        if not line.strip() or "|" not in line or HEADING_RE.match(line):
             break
         cells = split_row(line)
         if col < len(cells):
@@ -129,7 +141,6 @@ def read_column(lines, anchor, column):
     if not values:
         sys.exit(f"ERROR: '{column}' column under #{anchor} is empty")
     return values
-
 
 def q(s):
     """Quote a string safely for YAML (JSON strings are valid YAML)."""
