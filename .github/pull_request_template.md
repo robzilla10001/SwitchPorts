@@ -1,6 +1,7 @@
 ## Description
 <!-- Provide a brief summary of the changes introduced in this pull request and why they are needed. -->
 
+
 ## Which System is this for?
 <!-- Mark the relevant option with an "x". -->
 - [ ] Emulators
@@ -26,11 +27,7 @@
 - [ ] Sony Playstation
 - [ ] Sony Playstation 2
 - [ ] Sony Playstation 4
-- [ ]Sony Playstation Portable 
-
-## What is the new line?
-<!-- Please include the new line in this format:  
-| 🟢 Name | version | date of update | [displayname/project](https://github.com/displayname/project) | GBATemp Link | leave blank |  {leave 2 spaces at the end} -->
+- [ ] Sony Playstation Portable 
 
 ## Checklist
 - [ ] The project linked is in English.
