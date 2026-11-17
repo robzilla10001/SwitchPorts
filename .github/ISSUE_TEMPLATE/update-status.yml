@@ -1,59 +1,653 @@
-name: Update status
+# AUTO-GENERATED from README.md by .github/scripts/generate_status_template.py
+# Do not edit by hand -- edit the script or the README instead.
+name: "⁉️ Status"
 description: Post an update to a game status
-title: "Status: "
-labels: ["Status Update"]
-assignees: ["Creators/Testers only"]
+title: "[Status]: "
+labels: ["status"]
 body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting! Pick a system, then pick the game from that system's list.
   - type: dropdown
-    id: section
+    id: system
     attributes:
       label: System
-      description: The System Header
       options:
-        - Emulators
-        - Android 32bit
-        - Android 64bit
-        - Arcade
-        - Microsoft Xbox
-        - Microsoft Xbox 360
-        - NEC PC Engine (TurboGrafx-16)
-        - Nintendo DS
-        - Nintendo 3DS
-        - Nintendo 64
-        - Nintendo Gameboy
-        - Nintendo Gameboy Advance
-        - Nintendo Gameboy Color
-        - Nintendo GameCube
-        - Super Nintendo Entertainment System
-        - Nintendo Wii
-        - Nintendo Wii U
-        - PC
-        - Sega Dreamcast
-        - Sega Genesis (32x contained here also)
-        - Sony Playstation
-        - Sony Playstation 2
-        - Sony Playstation 4
-        - Sony Playstation Portable 
+        - "Emulators"
+        - "Android 32bit"
+        - "Android 64bit"
+        - "Arcade"
+        - "Microsoft Xbox"
+        - "Microsoft Xbox 360"
+        - "NEC PC Engine (TurboGrafx-16)"
+        - "Nintendo DS"
+        - "Nintendo 3DS"
+        - "Nintendo 64"
+        - "Nintendo Gameboy"
+        - "Nintendo Gameboy Advance"
+        - "Nintendo Gameboy Color"
+        - "Nintendo GameCube"
+        - "Super Nintendo Entertainment System"
+        - "Nintendo Wii"
+        - "Nintendo Wii U"
+        - "PC"
+        - "Sega Dreamcast"
+        - "Sega Genesis (32x contained here also)"
+        - "Sony Playstation"
+        - "Sony Playstation 2"
+        - "Sony Playstation 4"
+        - "Sony Playstation Portable"
     validations:
       required: true
-  - type: input
-    id: game
+  - type: dropdown
+    id: item_emu
     attributes:
-      label: Game
-      description: Must exactly match the first column of the existing row (leave off 🟢)
-    validations:
-      required: true
+      label: "Emulators - which title?"
+      description: "Only fill this in if you chose Emulators above."
+      options:
+        - "Dekopon"
+        - "Raika Azahar"
+        - "UAE4ALL2 HD"
+        - "🟢 Flycast"
+        - "FreeJ2ME"
+        - "Yokoi"
+        - "Kirikiroid2-NX"
+        - "Model2 NX"
+        - "🟢 Supermodel-NX"
+        - "Tico"
+        - "🟢 RetroArch"
+        - "🟢 DrasticDS"
+        - "🟢 Dolphin"
+        - "🟢 Nezumiiruka"
+        - "Duckstation"
+        - "🟢 NetherSX2"
+        - "ARMSX2"
+        - "PPSSPP"
+        - "🟢 PPSSPP-NX"
+        - "System22-nx"
+        - "🟢 YabaSanshiro"
+        - "🟢 Vita3K"
+        - "D.Smile NX"
+        - "🟢 Cemu"
+        - "Autorun"
+  - type: dropdown
+    id: item_and32
+    attributes:
+      label: "Android 32bit - which game?"
+      description: "Only fill this in if you chose Android 32bit above."
+      options:
+        - "Amazing Spider-Man 2"
+        - "Angry Birds Forever"
+        - "Angry Birds Space HD"
+        - "Angry Birds: Star Wars 2"
+        - "Asphalt 8: Airborne Retry"
+        - "Assassin's Creed: Altair's Chronicles HD"
+        - "Call of Duty - Black Ops: Zombies"
+        - "🟢 Call of Duty: Strike Team"
+        - "Costume Quest"
+        - "Dan The Man"
+        - "Dark Knight Rises"
+        - "Dead Space: Sabotage"
+        - "Ducktales: Remastered"
+        - "Disney Crossy Road"
+        - "Flappy Birds Family"
+        - "🟢 Jet Set Radio"
+        - "Labyrinth 2"
+        - "Modern Combat 3: Fallen Nation"
+        - "Modern Combat 4: Zero Hour"
+        - "🟢 Need for Speed: Most Wanted"
+        - "N.O.V.A. 3: Near Orbit Vanguard Alliance"
+        - "Plants vs. Zombies Touch"
+        - "Rayman: Jungle Run"
+        - "Rayman: Fiesta Run"
+        - "Smash Hit"
+        - "🟢 Space Hulk"
+        - "Steven Universe: Attack the Light"
+        - "Sonic & Sega All Stars Racing"
+        - "Teen Titans Go!"
+        - "Teen Titans GO Figure!"
+        - "Ultimate Spider-man: Total Mayhem"
+  - type: dropdown
+    id: item_and64
+    attributes:
+      label: "Android 64bit - which game?"
+      description: "Only fill this in if you chose Android 64bit above."
+      options:
+        - "🟢 Adventures of Mana"
+        - "🟢 After Burner Climax"
+        - "Angry Birds Classic"
+        - "🟢 Angry Birds 2"
+        - "Angry Birds Epic: All Stars"
+        - "🟢 Angry Birds Journey"
+        - "Angry Birds Reloaded"
+        - "🟢 Animal Crossing: Pocket Camp"
+        - "Bad Piggies"
+        - "Baldi's Basic Classic"
+        - "Banana Kong"
+        - "Bloons Adventure Time TD"
+        - "Bloons Pop!"
+        - "Bloons Supermonkey 2"
+        - "Bloons TD 5 Mobile"
+        - "Bombsquad"
+        - "Bombsquad Explodinary"
+        - "Bombsquad: Joyride"
+        - "Bouncemasters"
+        - "Burger Shop 2"
+        - "Burger Shop"
+        - "Call of Duty - Black Ops: Zombies"
+        - "🟢 Castle of Illusion"
+        - "🟢 Castlevania Symphony of the Night"
+        - "🟢 Chaos Rings III"
+        - "🟢 Chrono Trigger"
+        - "Clay Jam Classic"
+        - "Color Sheep"
+        - "🟢 Counter Strike Source"
+        - "Crazy Taxi"
+        - "🟢 Cut the Rope"
+        - "🟢 Cut the Rope 2"
+        - "Cut the Rope Experiments"
+        - "Cut the Rope Magic"
+        - "Cut the Rope Time Travel"
+        - "Data Defense"
+        - "Deep 3D: Submarine Odyssey"
+        - "Deus Ex Go"
+        - "Dr. Mario Mania"
+        - "Duke Dashington Remastered"
+        - "Earn 2 Die"
+        - "The Elder Scrolls II: Daggerfall Unity"
+        - "The Executive"
+        - "Far Cry"
+        - "🟢 Final Fantasy Dimensions"
+        - "🟢 Final Fantasy Dimension II"
+        - "🟢 Final Fantasy III 3D Remake"
+        - "🟢 Final Fantasy IV 3D Remake"
+        - "🟢 Final Fantasy IV The After Years"
+        - "Flappy Bird"
+        - "Fruit Ninja Classic +"
+        - "Galaxy on Fire"
+        - "🟢 Geometry Dash"
+        - "Gizmoduck"
+        - "Grand Theft Auto 3"
+        - "🟢 Grand Theft Auto Chinatown Wars"
+        - "🟢 Grand Theft Auto Liberty City Stories"
+        - "🟢 Grand Theft Auto San Andreas"
+        - "Granny"
+        - "🟢 Half Life 2"
+        - "Happy Wheels"
+        - "Heart Star"
+        - "Hill Climb Racing"
+        - "Hitman Go"
+        - "How Many Dudes?"
+        - "Infinity Blade"
+        - "Jackie Chan Stuntmaster"
+        - "🟢 Jetpack Joyride"
+        - "Killer Bean Unleashed"
+        - "🟢 Kingdom Hearts Union χ Dark Road"
+        - "Lara Croft Go"
+        - "🟢 Layton Brothers Mystery Room"
+        - "🟢 LEGO Batman Beyond Gotham"
+        - "🟢 LEGO Ninjago Shadow of Ronin"
+        - "🟢 LEGO Star Wars The Complete Saga"
+        - "🟢 LEGO Star Wars The Force Awakens"
+        - "Level UP: Mario's Minigames Mayhem"
+        - "🟢 Max Payne"
+        - "🟢 Mega Man X Regenesis"
+        - "Metroid Prime Origins"
+        - "MUL.MASH.TAB.BA.GAL.GAL"
+        - "NBA Jam"
+        - "Osmos"
+        - "Papa Pear Saga"
+        - "Papa's Burgeria to Go!"
+        - "Papa's Cluckeria to Go!"
+        - "Papa's Paleteria to Go!"
+        - "Papa's Pizzeria To Go!"
+        - "Papers, Please"
+        - "Pizza vs. Skeletons"
+        - "Phigros"
+        - "Phigros CN"
+        - "Plants vs. Zombies: Fusion"
+        - "Plants vs. Zombies 2"
+        - "Plants vs. Zombies 2: Reflourished"
+        - "Pocket Crystal League"
+        - "POINPY"
+        - "Poor Bunny!"
+        - "Pou"
+        - "🟢 Professor Layton Curious Village HD"
+        - "🟢 Professor Layton Lost Hope HD"
+        - "🟢 Professor Layton Pandora's Box HD"
+        - "🟢 Real Drift Car Racing"
+        - "RVGL"
+        - "Slay the Spire 2"
+        - "Slither.io"
+        - "🟢 Soda Dungeon 2"
+        - "Sonic 4 Episode 2"
+        - "Sonic Dash"
+        - "Sonic Dash 2: Sonic Boom"
+        - "Sonic Jump"
+        - "Sonic Jump Fever"
+        - "Sonic Runners Adventure"
+        - "Sonic Triple Trouble 16-bit"
+        - "🟢 Soulcalibur II"
+        - "Stick With It"
+        - "Stone Story RPG"
+        - "Streets of Rage X"
+        - "🟢 Subway Surfers"
+        - "Super Mario 63 Redux"
+        - "Super Mario 127"
+        - "Super Mario Bros. Remastered"
+        - "Super Mario World Remastered Plus"
+        - "🟢 Swordigo"
+        - "🟢 Team Fortress 2 ReClassic"
+        - "Ticket to Earth"
+        - "Total Party Kill"
+        - "Valkyrie Profile Lenneth"
+        - "🟢 Very Little Nightmares"
+        - "VVVVVV"
+        - "Where's My Water"
+        - "Where's My Water 2"
+        - "Ys Chronicles 1"
+        - "ZOOKEEPER DX"
+  - type: dropdown
+    id: item_arc
+    attributes:
+      label: "Arcade - which game?"
+      description: "Only fill this in if you chose Arcade above."
+      options:
+        - "Cyber Troopers Virtual-On"
+        - "Daytona USA"
+        - "Killer Instinct"
+        - "Killer Instinct 2"
+        - "OutRun"
+        - "🟢 Outrunners"
+        - "Sega Rally"
+        - "Sonic the Fighters"
+        - "🟢 Teenage Mutant Ninja Turtles"
+        - "🟢 The Simpsons"
+        - "Virtua Fighter 2"
+  - type: dropdown
+    id: item_xbox
+    attributes:
+      label: "Microsoft Xbox - which game?"
+      description: "Only fill this in if you chose Microsoft Xbox above."
+      options:
+        - "Black"
+        - "🟢 Bloody Roar Extreme"
+        - "Burnout 3: Takedown"
+        - "Castlevania: Curse of Darkness"
+        - "Cold Fear"
+        - "🟢 Conker: Live & Reloaded"
+        - "🟢 Dead or Alive 2 Ultimate"
+        - "Dead or Alive 3"
+        - "Def Jam: Fight for NY"
+        - "FIFA Street"
+        - "🟢 FIFA Street 2"
+        - "Flatout 2"
+        - "🟢 The Godfather"
+        - "🟢 Halo: Combat Evolved"
+        - "🟢 Midnight Club 3: Dub Edition"
+        - "🟢 Mortal Kombat: Shaolin Monks"
+        - "MVP Baseball '05"
+        - "Need for Speed: Carbon"
+        - "Need for Speed: Underground"
+        - "Need for Speed: Underground 2"
+        - "🟢 Splinter Cell: Chaos Theory"
+        - "🟢 Splinter Cell: Double Agent"
+        - "SSX Tricky"
+        - "🟢 Tom and Jerry: War of the Whiskers"
+  - type: dropdown
+    id: item_x360
+    attributes:
+      label: "Microsoft Xbox 360 - which game?"
+      description: "Only fill this in if you chose Microsoft Xbox 360 above."
+      options:
+        - "🟢 Alice: Madness Returns"
+        - "🟢 Bakugan: Battle Brawlers"
+        - "🟢 Bangai-O HD: Missile Fury"
+        - "🟢 Banjo-Kazooie: Nuts & Bolts"
+        - "BattleBlock Theater"
+        - "🟢 Beautiful Katamari"
+        - "Bejeweled 3"
+        - "Blue Dragon"
+        - "🟢 Call of Duty: Black Ops II"
+        - "🟢 Castlevania: Harmony of Despair"
+        - "🟢 Castlevania: Lords of Shadow"
+        - "🟢 Condemned: Criminal Origins"
+        - "🟢 Condemned 2"
+        - "🟢 Dante's Inferno"
+        - "🟢 Dark Souls II: Scholar of the First Sin"
+        - "Dead Space 1"
+        - "Dead Space 2"
+        - "Dead Space 3"
+        - "🟢 Dishonored"
+        - "🟢"
+        - "🟢 FarCry 4"
+        - "Feeding Frenzy"
+        - "Feeding Frenzy 2: Shipwreck Showdown"
+        - "🟢 Final Fantasy XIII-2"
+        - "🟢 Gears of War 2"
+        - "Grand Theft Auto IV"
+        - "🟢 Guardian Heroes"
+        - "🟢 Guitar Hero III: Legends of Rock"
+        - "Guwange"
+        - "🟢 Hard Corps: Uprising"
+        - "🟢 Hexic HD"
+        - "🟢 Hexic 2"
+        - "🟢 Kameo: Elements of Power"
+        - "Ketsui: Kizuna Jigoku Tachi Extra"
+        - "🟢 A Kingdom for Keflings"
+        - "🟢 The King of Fighters 2002 Unlimited Match"
+        - "🟢 LEGO Batman: The Videogame"
+        - "🟢 Lost Odyssey"
+        - "Mass Effect"
+        - "🟢 Mass Effect 2"
+        - "🟢 Max Payne 3"
+        - "Metal Gear Rising: Revengeance"
+        - "🟢 Midnight Club Los Angeles"
+        - "🟢 Mini Ninjas"
+        - "Monster High: New Ghoul in School"
+        - "🟢 Mortal Kombat Komplete Edition"
+        - "Mushihimesama Futari"
+        - "🟢 Naruto: Rise of a Ninja"
+        - "🟢 Need for Speed: Carbon"
+        - "Need for Speed: Most Wanted"
+        - "🟢 Nights into Dreams"
+        - "🟢 PAC-MAN Championship Edition DX"
+        - "Peggle"
+        - "Peggle 2"
+        - "🟢 Pure"
+        - "🟢 Ridge Racer 6"
+        - "🟢 Scud Race"
+        - "🟢 Shank"
+        - "Shank 2"
+        - "The Simpson's Game"
+        - "🟢 The Sims 3"
+        - "Silent Hill 3"
+        - "Silent Hill Homecoming"
+        - "🟢 Singularity"
+        - "Skate 3"
+        - "🟢 Sonic Adventure 2"
+        - "Sonic The Hedgehog (2006)"
+        - "Sonic Unleashed"
+        - "Space Channel 5: Part 2"
+        - "🟢 Timeshift"
+        - "Tony Hawk's Project 8"
+        - "🟢 Torchlight"
+        - "Ultra Street Fighter IV"
+        - "🟢 The Witcher 2: Assassins of Kings"
+        - "Zuma"
+        - "Zuma's Revenge"
+  - type: dropdown
+    id: item_pce
+    attributes:
+      label: "NEC PC Engine (TurboGrafx-16) - which game?"
+      description: "Only fill this in if you chose NEC PC Engine (TurboGrafx-16) above."
+      options:
+        - "🟢 Castlevania: Rondo of Blood"
+  - type: dropdown
+    id: item_nds
+    attributes:
+      label: "Nintendo DS - which game?"
+      description: "Only fill this in if you chose Nintendo DS above."
+      options:
+        - "🟢 Metroid Prime: Hunters"
+  - type: dropdown
+    id: item_3ds
+    attributes:
+      label: "Nintendo 3DS - which game?"
+      description: "Only fill this in if you chose Nintendo 3DS above."
+      options:
+        - "🟢 The Legend of Zelda: Ocarina of Time 3D"
+        - "🟢 Metroid: Samus Returns"
+  - type: dropdown
+    id: item_n64
+    attributes:
+      label: "Nintendo 64 - which game?"
+      description: "Only fill this in if you chose Nintendo 64 above."
+      options:
+        - "Banjo Kazooie"
+        - "Bomberman 64"
+        - "Castlevania: Legacy of Darkness"
+        - "Conker's Bad Fur Day"
+        - "Diddy Kong Racing"
+        - "Donkey Kong 64"
+        - "F-Zero X"
+        - "🟢 GoldenEye 007"
+        - "The Legend of Zelda: Majora's Mask"
+        - "The Legened of Zelda: Ocarina of Time"
+        - "Mario Kart 64"
+        - "Mega Man 64"
+        - "Paper Mario"
+        - "Perfect Dark"
+        - "Snowboard Kids 2"
+        - "🟢 StarCraft64"
+        - "Star Wars: Rogue Squadron"
+        - "Super Mario 64"
+        - "Super Smash Bros."
+        - "Wave Race 64"
+  - type: dropdown
+    id: item_gb
+    attributes:
+      label: "Nintendo Gameboy - which game?"
+      description: "Only fill this in if you chose Nintendo Gameboy above."
+      options:
+        - "🟢 Pokemon Gen 1"
+        - "🟢 Pokemon Gen 2"
+  - type: dropdown
+    id: item_gba
+    attributes:
+      label: "Nintendo Gameboy Advance - which game?"
+      description: "Only fill this in if you chose Nintendo Gameboy Advance above."
+      options:
+        - "The Legend of Zelda: The Minish Cap"
+        - "Mario Kart: Super Circuit"
+        - "Metroid: Zero Mission"
+        - "🟢 Pokemon: FullDex"
+        - "Sonic Advance 2"
+  - type: dropdown
+    id: item_gbc
+    attributes:
+      label: "Nintendo Gameboy Color - which game?"
+      description: "Only fill this in if you chose Nintendo Gameboy Color above."
+      options:
+        - "The Legend of Zelda: Link's Awakening DX"
+        - "The Legend of Zelda: Oracle of Seasons / Oracle of Ages"
+  - type: dropdown
+    id: item_ngc
+    attributes:
+      label: "Nintendo GameCube - which game?"
+      description: "Only fill this in if you chose Nintendo GameCube above."
+      options:
+        - "Animal Crossing"
+        - "The Legend of Zelda: Twilight Princess"
+        - "🟢"
+        - "The Legend of Zelda: Wind Waker"
+        - "Luigi's Mansion"
+        - "🟢 Mario Kart: Double Dash!"
+        - "🟢 Metroid Prime 2: Echoes"
+        - "🟢 Sonic Riders"
+        - "🟢 The SpongeBob SquarePants Movie"
+        - "🟢 Super Mario Strikers"
+        - "Super Smash Bros. Melee"
+  - type: dropdown
+    id: item_snes
+    attributes:
+      label: "Super Nintendo Entertainment System - which game?"
+      description: "Only fill this in if you chose Super Nintendo Entertainment System above."
+      options:
+        - "Donkey Kong Country"
+        - "Donkey Kong Country 2"
+        - "Donkey Kong Country 3"
+        - "F-Zero"
+        - "Illusion of Gaia"
+        - "Mega Man X"
+        - "Starfox"
+        - "🟢 Super Mario All-Stars"
+        - "🟢 Super Mario World"
+  - type: dropdown
+    id: item_wii
+    attributes:
+      label: "Nintendo Wii - which game?"
+      description: "Only fill this in if you chose Nintendo Wii above."
+      options:
+        - "🟢 Mario Kart Wii"
+  - type: dropdown
+    id: item_wiiu
+    attributes:
+      label: "Nintendo Wii U - which game?"
+      description: "Only fill this in if you chose Nintendo Wii U above."
+      options:
+        - "🟢 The Legend of Zelda: Wind Waker HD"
+  - type: dropdown
+    id: item_pc
+    attributes:
+      label: "PC - which game?"
+      description: "Only fill this in if you chose PC above."
+      options:
+        - "0 A.D."
+        - "🟢 Age of Empires II: The Age of Kings"
+        - "Alien vs. Predator: Gold"
+        - "Atomic Bomberman"
+        - "The Binding of Isaac: Repentance+"
+        - "Black & White"
+        - "🟢 Call of Duty - Black Ops II"
+        - "Call of Duty / United Offensive"
+        - "Carmageddon"
+        - "Castlevania ReVamped"
+        - "Commander Keen"
+        - "Cosmology of Kyoto"
+        - "🟢 Death Rally"
+        - "Descent"
+        - "Descent 2"
+        - "🟢 Deus EX"
+        - "Diablo"
+        - "Doom"
+        - "Driver 2"
+        - "Elder Scrolls III Morrowind"
+        - "Fallout"
+        - "Fallout 2"
+        - "Fallout: New Vegas"
+        - "Freespace 2"
+        - "🟢 Half Life"
+        - "🟢 Heroes of Might & Magic II"
+        - "Heroes of Might & Magic III"
+        - "Insaniquarium"
+        - "Jazz Jackrabbit 2"
+        - "The Legend of Zelda: Oni Link Begins"
+        - "The Legend of Zelda: Return of the Hylian"
+        - "The Legend of Zelda: Time To Triumph"
+        - "Luanti"
+        - "Marble Blast Collection"
+        - "Mari0"
+        - "Mari0: Alesan99's Entities"
+        - "McOsu"
+        - "🟢 Medal of Honor: Allied Assault"
+        - "Mega Man W"
+        - "Minecraft Java 1.12.2"
+        - "🟢 Minecraft Rust"
+        - "🟢 Nazi Zombies: Portable"
+        - "Need for Speed II / III"
+        - "One Must Fall: 2097"
+        - "Outrun 2006: Coast 2 Coast"
+        - "Plants Vs Zombies"
+        - "🟢 PokeMMO"
+        - "Project Zomboid"
+        - "Quake"
+        - "Quake 2"
+        - "🟢 Quake 4"
+        - "RollerCoaster Tycoon 2"
+        - "Sheep, Dog 'n' Wolf: Rewooled"
+        - "Silent Hill"
+        - "🟢 Silent Hill 2"
+        - "Silent Hill 3"
+        - "Silent Hill 4: The Room"
+        - "The Simpsons: Hit and Run"
+        - "🟢 Sly Cooper and the Thievius Raccoonus"
+        - "Sonic R"
+        - "Space Cadet"
+        - "Starbound"
+        - "Super Mario War"
+        - "🟢 Terraria (+ Mod Loader)"
+        - "Touhou 6: Embodiment of the Scarlet Devil"
+        - "Touhou 7.5: Immaterial and Missing Power"
+        - "Touhou 7: Perfect Cherry Blossom"
+        - "Touhou 8: Imperishable Night"
+        - "Touhou 9: Phantasmagoria of Flower View"
+        - "Touhou Wonderful Waking World"
+        - "Touhou 10: Mountain of Faith"
+        - "Touhou 11: Subterranean Animism"
+        - "Touhou 12: Undefined Fantastic Object"
+        - "Touhou 15: Legacy of Lunatic Kingdom"
+        - "🟢 Ultimate Spider-Man"
+        - "Undertale Yellow"
+        - "Velikolepny Vovochka"
+        - "Warcraft"
+        - "Warcraft II"
+        - "Wolfenstein 3D"
+        - "Zuma Deluxe"
+  - type: dropdown
+    id: item_dc
+    attributes:
+      label: "Sega Dreamcast - which game?"
+      description: "Only fill this in if you chose Sega Dreamcast above."
+      options:
+        - "🟢 Sonic Adventure"
+        - "🟢 Crazy Taxi"
+        - "🟢 Crazy Taxi 2"
+  - type: dropdown
+    id: item_gen
+    attributes:
+      label: "Sega Genesis (32x contained here also) - which game?"
+      description: "Only fill this in if you chose Sega Genesis (32x contained here also) above."
+      options:
+        - "🟢 Arcus Odyssey"
+        - "Virtua Racing Deluxe (32x)"
+        - "🟢 Mickey & Donald Collection"
+  - type: dropdown
+    id: item_psx
+    attributes:
+      label: "Sony Playstation - which game?"
+      description: "Only fill this in if you chose Sony Playstation above."
+      options:
+        - "🟢 Digimon World 3"
+        - "🟢 Lain"
+        - "Ms. PacMan Maze Madness"
+        - "WipEout"
+        - "🟢 Tekken 3"
+  - type: dropdown
+    id: item_ps2
+    attributes:
+      label: "Sony Playstation 2 - which game?"
+      description: "Only fill this in if you chose Sony Playstation 2 above."
+      options:
+        - "Dragonball Z: Tenkaichi Budokai 3"
+        - "Jak and Daxter Trilogy"
+        - "🟢 Rampage: Total Destruction"
+        - "🟢 Sly Cooper"
+  - type: dropdown
+    id: item_ps4
+    attributes:
+      label: "Sony Playstation 4 - which game?"
+      description: "Only fill this in if you chose Sony Playstation 4 above."
+      options:
+        - "🟢 P.T. (Silent Hills)"
+  - type: dropdown
+    id: item_psp
+    attributes:
+      label: "Sony Playstation Portable - which game?"
+      description: "Only fill this in if you chose Sony Playstation Portable above."
+      options:
+        - "🟢 Ben 10: Protector of Earth"
   - type: dropdown
     id: status
     attributes:
-      label: Status
-      description: Project progress
+      label: Status?
+      description: Project Progress
       options:
-        - ⬛️ = Does not boot
-        - 🟥 = Game boots to title
-        - 🟧 = Boots into game, unplayable
-        - 🟨 = Playable
-        - 🟩 = Completable
-        - ✳️ = Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain.
+        - "⬛️ = Does not boot"
+        - "🟥 = Game boots to title"
+        - "🟧 = Boots into game, unplayable"
+        - "🟨 = Playable"
+        - "🟩 = Completable"
+        - "✳️ = Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain."
     validations:
       required: true
