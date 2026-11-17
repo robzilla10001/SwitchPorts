@@ -310,6 +310,7 @@ body:
       description: "Only fill this in if you chose Microsoft Xbox 360 above."
       options:
         - "Alice: Madness Returns"
+        - "Angry Birds Trilogy"
         - "Bakugan: Battle Brawlers"
         - "Bangai-O HD: Missile Fury"
         - "Banjo-Kazooie: Nuts & Bolts"
