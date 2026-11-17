@@ -33,3 +33,7 @@
 - [ ] The project linked is in English.
 - [ ] The project linked contains no copyrighted materials.
 - [ ] The project linked does not match a project already listed in README.md or DEAD.md.
+
+## Edit
+- [ ] This edit conforms to the style already in use here, specifically:  
+      ```| 🟢 Name | version | updated date | [displayname/<br>game](https://github.com/displayname/game) | GBATemp Link | {leave blank} |  <-- Leave 2 spaces at the end```
