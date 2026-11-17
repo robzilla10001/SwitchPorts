@@ -121,7 +121,7 @@ Alphabetized by system  (24)
 ⎯ [Nintendo Gameboy](#gb)  
 ⎯ [Nintendo Gameboy Advance](#gba)  
 ⎯ [Nintendo Gameboy Color](#gbc)  
-⎯ [Nintendo GameCube](#gc)  
+⎯ [Nintendo GameCube](#ngc)  
 ⎯ [Super Nintendo Entertainment System](#snes)  
 ⎯ [Nintendo Wii](#wii)  
 ⎯ [Nintendo Wii U](#wiiu)  
@@ -430,12 +430,15 @@ Alphabetized by system  (24)
 | Dead Space 2 | 1.3.0 (TU2) | 27/10/2026 | [VasilkovND/<br>ds2-nx](https://github.com/VasilkovND/ds2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994) |  |  
 | Dead Space 3 | 1.0.1 (TU2) | 27/10/2026 | [VasilkovND/<br>ds3-nx](https://github.com/VasilkovND/ds3-nx) |  |  |  
 | 🟢 Dishonored | 0.20 | 11/11/2026 | [cznn999/<br>dishonored-nx](https://github.com/cznn999/dishonored-nx) | [Link](https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/) |  |  
+| 🟢 | *released* | 16/11/2026 | [VibePorter/<br>Dunwall](https://github.com/VibePorter/Dunwall) | |  |  
 | 🟢 FarCry 4 | *pre-release* | 12/11/2026 | [Steammaker212<br>/FC4-NX](https://github.com/Steammaker212/FC4-NX) | |  |  
 | Feeding Frenzy | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
 | Feeding Frenzy 2: Shipwreck Showdown | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy2-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
+| 🟢 Final Fantasy XIII-2 | 1.1 | 17/11/2026 | [BlackDes1/<br>FFXIII-2-NX](https://github.com/BlackDes1/FFXIII-2-NX) | |  |  
 | 🟢 Gears of War 2 | 1.1.0 | 07/11/2026 | [VasilkovND/<br>gears2-nx](https://github.com/VasilkovND/gears2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260) |  |  
 | Grand Theft Auto IV | v35 | 23/10/2026 | [kabba536/<br>Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch](https://github.com/kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10939691) |  |  
 | 🟢 Guardian Heroes | 0.79 | 03/11/2026 | [rashevskyv/<br>guardian-heroes-recomp-public](https://github.com/rashevskyv/guardian-heroes-recomp-public) | [Link](https://gbatemp.net/threads/guardian-heroes-xbla-xbox-360-for-switch-static-recompilation-port.685995/) |  |  
+| 🟢 Guitar Hero III: Legends of Rock | *released* | 13/11/2026
 | Guwange | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>guwange-nx](https://github.com/ChanseyIsTheBest/guwange-nx) | [Link](https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/) |  |  
 | 🟢 Hard Corps: Uprising | 0.303 *pre-release* | 05/11/2026 | [rashevskyv/<br>hard-corps-uprising-recompiled](https://github.com/rashevskyv/hard-corps-uprising-recompiled) | [Link](https://gbatemp.net/threads/hard-corps-uprising-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation-port.686230/) |  |  
 | 🟢 Hexic HD | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/<br>hexichd-nx](https://github.com/ChanseyIsTheBest/hexichd-nx) | [Link](https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/) |  |  
@@ -469,7 +472,7 @@ Alphabetized by system  (24)
 | 🟢 Shank | 1.0.1 | 04/11/2026 | [zhtipu/<br>shank1-nx](https://github.com/zhtipu/shank1-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | Shank 2 | 1.0.0 | 31/10/2026 | [zhtipu/<br>shank2-nx](https://github.com/zhtipu/shank2-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | The Simpson's Game | 1.0.1 | 06/10/2026 | [R-drg/<br>the-simpsons-game-nx](https://github.com/R-drg/the-simpsons-game-nx) | |  |  
-| 🟢 The Sims 3 | 0.1.0 | 15/11/2026 | [Zumoly/<br>sims3-nx](https://github.com/Zumoly/sims3-nx) | |  |  
+| 🟢 The Sims 3 | 0.1.1 | 16/11/2026 | [Zumoly/<br>sims3-nx](https://github.com/Zumoly/sims3-nx) | |  |  
 | Silent Hill 3 | 1.0 | 30/10/2026 | [gerisson1996/<br>SILENT-HILL-HD-COLLECTION-NX](https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX) | [Link](https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/) |  |  
 | Silent Hill Homecoming | 1.0 | 30/10/2026 | [gerisson1996/<br>SHH-NX-PORT](https://github.com/gerisson1996/SHH-NX-PORT) | [Link](https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/) |  |  
 | 🟢 Singularity | *pre-release* | 09/11/2026 | [panalexeu/<br>singularity-nx](https://github.com/panalexeu/singularity-nx) | |  |  
@@ -588,7 +591,7 @@ Alphabetized by system  (24)
 - 0/4 updated 10/11/2026  
 ⎯ [Top](#toc)  
 
-<a id="gc"></a>  
+<a id="ngc"></a>  
 ### Nintendo GameCube
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
