@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/robzilla10001/SwitchPorts/pulls
     about: New games are not submitted as issues. Please open a Pull Request to add a new game.
   - name: 📋 Status update list request
-    url: https://github.com/OWNER/REPO/issues/38
+    url: https://github.com/robzilla10001/SwitchPorts/issues/38
     about: Please don't open a new issue. Add your request as a comment on the existing open status update issue.
