@@ -83,13 +83,25 @@ def split_row(line):
     return [c.strip().replace("\\|", "|") for c in re.split(r"(?<!\\)\|", line)]
 
 
+# Markers to remove from the start of a name (add more if needed).
+STRIP_PREFIXES = ["🟢"]
+
+
 def clean_cell(cell):
     """Strip markdown formatting so only the plain name is left."""
     cell = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", cell)        # images
     cell = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", cell)    # links
     cell = re.sub(r"<[^>]+>", "", cell)                     # HTML tags
     cell = re.sub(r"[*_`~]", "", cell)                      # bold/italic/code
-    return re.sub(r"\s+", " ", cell).strip()
+    cell = re.sub(r"\s+", " ", cell).strip()
+    stripped = True
+    while stripped:                                         # leading markers
+        stripped = False
+        for p in STRIP_PREFIXES:
+            if cell.startswith(p):
+                cell = cell[len(p):].lstrip("\ufe0f ").strip()
+                stripped = True
+    return cell
 
 
 # The |---|---| row under a table's headers (dashes, colons, pipes, spaces).
