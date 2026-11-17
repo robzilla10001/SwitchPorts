@@ -43,7 +43,7 @@ CATEGORIES = [
     {"label": "Sony Playstation", "anchor": "psx", "column": "Game"},
     {"label": "Sony Playstation 2", "anchor": "ps2", "column": "Game"},
     {"label": "Sony Playstation 4", "anchor": "ps4", "column": "Game"},
-    {"label": "Sony Playstation Portable ", "anchor": "psp", "column": "Game"},
+    {"label": "Sony Playstation Portable", "anchor": "psp", "column": "Game"},
 ]
 
 README = Path("README.md")
@@ -151,7 +151,7 @@ def build_yaml(sections):
     out = [
         "# AUTO-GENERATED from README.md by .github/scripts/generate_status_template.py",
         "# Do not edit by hand -- edit the script or the README instead.",
-        "name: ⁉️ Status: ",
+        'name: "⁉️ Status"',
         "description: Post an update to a game status",
         'title: "[Status]: "',
         'labels: ["status"]',
@@ -187,12 +187,12 @@ def build_yaml(sections):
         "      label: Status?",
         "      description: Project Progress",
         "      options:",
-        "        - {q('⬛️ = Does not boot')}",
-        "        - {q('🟥 = Game boots to title')}",
-        "        - {q('🟧 = Boots into game, unplayable')}",
-        "        - {q('🟨 = Playable')}",        
-        "        - {q('🟩 = Completetable')}",
-        "        - {q('✳️ = Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain.')}",
+        f"        - {q('⬛️ = Does not boot')}",
+        f"        - {q('🟥 = Game boots to title')}",
+        f"        - {q('🟧 = Boots into game, unplayable')}",
+        f"        - {q('🟨 = Playable')}",
+        f"        - {q('🟩 = Completable')}",
+        f"        - {q('✳️ = Feature complete; only sporadic bug fixes, enhancements and QOL improvements remain.')}",
         "    validations:",
         "      required: true",
     ]
