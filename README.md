@@ -277,8 +277,8 @@ Alphabetized by system  (24)
 | Final Fantasy Dimensions | 1.0.1 | 03/11/2026 | [NaGaa95/<br>ffd_nx](https://github.com/NaGaa95/ffd_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/) |  |  
 | Final Fantasy Dimension II | 1.0.2 | 03/11/2026 | [NaGaa95/<br>ffd2_nx](https://github.com/NaGaa95/ffd2_nx) | [Link](https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/) |  |  
 | Final Fantasy III 3D Remake | 1.0.1 | 03/11/2026 | [NaGaa95/<br>ff3_3d_nx](https://github.com/NaGaa95/ff3_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/) |  |  
-| Final Fantasy IV 3D Remake | 1.0.4 | 03/11/2026 | [NaGaa95/<br>ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/) |  |  
-| | 1.0.4 | 24/07/2026 | [GlitchedDeveloper/<br>ff4_nx](https://github.com/GlitchedDeveloper/ff4_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.683136/) |  |
+| Final Fantasy IV 3D Remake (NaGaa95) | 1.0.4 | 03/11/2026 | [NaGaa95/<br>ff4_3d_nx](https://github.com/NaGaa95/ff4_3d_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/) |  |  
+| Final Fantasy IV 3D Remake (GlitchedDeveloper) | 1.0.4 | 24/07/2026 | [GlitchedDeveloper/<br>ff4_nx](https://github.com/GlitchedDeveloper/ff4_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.683136/) |  |
 | Final Fantasy IV The After Years | 1.0.2 | 03/11/2026 | [NaGaa95/<br>ff4tay_nx](https://github.com/NaGaa95/ff4tay_nx) | [Link](https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/) |  |  
 | Flappy Bird | 1.0.0 | 28/08/2026 | [aks796/<br>flappy_bird_nx](https://github.com/aks796/flappy_bird_nx) | |  |  
 | Fruit Ninja Classic + | 1.0.2 | 18/08/2026 | [ChanseyIsTheBest/<br>fruitninjaclassic_nx](https://github.com/ChanseyIsTheBest/fruitninjaclassic_nx) | [Link](https://gbatemp.net/threads/fruit-ninja-classic-switch-port.683634/) |  |  
