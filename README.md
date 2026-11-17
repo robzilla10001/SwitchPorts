@@ -463,7 +463,7 @@ Alphabetized by system  (24)
 | Gears of War 2 | 1.1.0 | 07/11/2026 | [VasilkovND/<br>gears2-nx](https://github.com/VasilkovND/gears2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260) |  |  
 | Grand Theft Auto IV | v35 | 23/10/2026 | [kabba536/<br>Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch](https://github.com/kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10939691) |  |  
 | Guardian Heroes | 0.79 | 03/11/2026 | [rashevskyv/<br>guardian-heroes-recomp-public](https://github.com/rashevskyv/guardian-heroes-recomp-public) | [Link](https://gbatemp.net/threads/guardian-heroes-xbla-xbox-360-for-switch-static-recompilation-port.685995/) |  |  
-| 🟢 Guitar Hero III: Legends of Rock | *released* | 13/11/2026 | []() | |  |  
+| 🟢 Guitar Hero III: Legends of Rock | *released* | 13/11/2026 | [guillermedev75/<br>gh3-nx](https://github.com/guillermedev75/gh3-nx) | |  |  
 | Guwange | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>guwange-nx](https://github.com/ChanseyIsTheBest/guwange-nx) | [Link](https://gbatemp.net/threads/guwange-xbox-360-ver-switch-port.685699/) |  |  
 | 🟢 Hard Corps: Uprising | 0.310 *pre-release* | 15/11/2026 | [rashevskyv/<br>hard-corps-uprising-recompiled](https://github.com/rashevskyv/hard-corps-uprising-recompiled) | [Link](https://gbatemp.net/threads/hard-corps-uprising-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation-port.686230/) |  |  
 | Hexic HD | 1.0.0 | 04/11/2026 | [ChanseyIsTheBest/<br>hexichd-nx](https://github.com/ChanseyIsTheBest/hexichd-nx) | [Link](https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/) |  |  
