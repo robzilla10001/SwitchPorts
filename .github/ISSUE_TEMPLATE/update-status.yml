@@ -11,22 +11,30 @@ body:
       description: The System Header
       options:
         - Emulators
+        - Emulators
         - Android 32bit
         - Android 64bit
         - Arcade
-        - Nintendo Gameboy
-        - Nintendo Gameboy Color
-        - Nintendo Gameboy Advance
-        - Nintendo GameCube
-        - Sega Genesis
-        - Nintendo 64
-        - PC
-        - Sony Playstation
-        - Sony Playstation 2
-        - Super Nintendo Entertainment System
         - Microsoft Xbox
         - Microsoft Xbox 360
+        - NEC PC Engine (TurboGrafx-16)
+        - Nintendo DS
+        - Nintendo 3DS
+        - Nintendo 64
+        - Nintendo Gameboy
+        - Nintendo Gameboy Advance
+        - Nintendo Gameboy Color
+        - Nintendo GameCube
+        - Super Nintendo Entertainment System
+        - Nintendo Wii
         - Nintendo Wii U
+        - PC
+        - Sega Dreamcast
+        - Sega Genesis (32x contained here also)
+        - Sony Playstation
+        - Sony Playstation 2
+        - Sony Playstation 4
+        - Sony Playstation Portable 
     validations:
       required: true
   - type: input
