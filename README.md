@@ -829,6 +829,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | Dragonball Z: Tenkaichi Budokai 3 | 1.7.2 | 01/11/2026 | [alexyt2021es/<br>DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | |  |  
 | 🟢 Jak and Daxter Trilogy | 1.1.2-beta | 15/11/2026 | [fildicio/<br>jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/) |  |  
+| 🟢 Need for Speed: Hot Pursuit 2 | 1.0 | 18/11/2026 | [HDErick/<br>NFSHP2_Switch_Port](https://github.com/HDErick/NFSHP2_Switch_Port) | |  |  
 | 🟢 Rampage: Total Destruction | 1.2.8 | 11/11/2026 | [jjmhalew/<br>RampageRE](https://github.com/jjmhalew/RampageRE) | [Link](https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/) |  |  
 | 🟢 Resident Evil Code: Veronica X | 1.1 | 16/11/2026 | [gerisson1996/<br>RESIDENT-CODE-VERONICA-NX-PORT](https://github.com/gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT) | |  |  
 | Scooby-Doo! Night of 100 Frights | v1.0 | 16/10/2026 | [matthewperiut/<br>night100](https://github.com/matthewperiut/night100) |  |  | 
