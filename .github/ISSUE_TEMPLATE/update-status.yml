@@ -422,7 +422,7 @@ body:
       label: "Nintendo 3DS - which game?"
       description: "Only fill this in if you chose Nintendo 3DS above."
       options:
-        - "The Legend of Zelda: Ocarina of Time 3D"
+        - "The Legend of Zelda:Ocarina of Time 3D"
         - "Metroid: Samus Returns"
   - type: dropdown
     id: item_n64
@@ -438,9 +438,9 @@ body:
         - "Donkey Kong 64"
         - "F-Zero X"
         - "GoldenEye 007"
-        - "The Legend of Zelda: Majora's Mask (YoshiCrystal9)"
-        - "The Legend of Zelda: Majora's Mask (reflex909)"
-        - "The Legened of Zelda: Ocarina of Time"
+        - "The Legend of Zelda:Majora's Mask (YoshiCrystal9)"
+        - "The Legend of Zelda:Majora's Mask (reflex909)"
+        - "The Legened of Zelda:Ocarina of Time"
         - "Mario Kart 64"
         - "Mega Man 64"
         - "Paper Mario (Thorhax)"
@@ -469,8 +469,8 @@ body:
       label: "Nintendo Gameboy Advance - which game?"
       description: "Only fill this in if you chose Nintendo Gameboy Advance above."
       options:
-        - "The Legend of Zelda: The Minish Cap (HayatoG)"
-        - "The Legend of Zelda: The Minish Cap (Alexgg1014)"
+        - "The Legend of Zelda:The Minish Cap (HayatoG)"
+        - "The Legend of Zelda:The Minish Cap (Alexgg1014)"
         - "Mario Kart: Super Circuit"
         - "Metroid: Zero Mission"
         - "Pokemon: FullDex"
@@ -481,10 +481,10 @@ body:
       label: "Nintendo Gameboy Color - which game?"
       description: "Only fill this in if you chose Nintendo Gameboy Color above."
       options:
-        - "The Legend of Zelda: Link's Awakening DX (delsonazevedo)"
-        - "The Legend of Zelda: Link's Awakening DX (Alexgg1014)"
-        - "The Legend of Zelda: Oracle of Seasons / Oracle of Ages (toniisound/oracles-nx)"
-        - "The Legend of Zelda: Oracle of Seasons / Oracle of Ages (toniisound/oracles-project)"
+        - "The Legend of Zelda:Link's Awakening DX (delsonazevedo)"
+        - "The Legend of Zelda:Link's Awakening DX (Alexgg1014)"
+        - "The Legend of Zelda:Oracle of Seasons / Oracle of Ages (toniisound/oracles-nx)"
+        - "The Legend of Zelda:Oracle of Seasons / Oracle of Ages (toniisound/oracles-project)"
   - type: dropdown
     id: item_ngc
     attributes:
@@ -492,10 +492,10 @@ body:
       description: "Only fill this in if you chose Nintendo GameCube above."
       options:
         - "Animal Crossing"
-        - "The Legend of Zelda: Twilight Princess (HayatoG)"
-        - "The Legend of Zelda: Twilight Princess (souldbminderr)"
-        - "The Legend of Zelda: Twilight Princess (Alexgg1014)"
-        - "The Legend of Zelda: Wind Waker"
+        - "The Legend of Zelda:Twilight Princess (HayatoG)"
+        - "The Legend of Zelda:Twilight Princess (souldbminderr)"
+        - "The Legend of Zelda:Twilight Princess (Alexgg1014)"
+        - "The Legend of Zelda:Wind Waker"
         - "Luigi's Mansion"
         - "Mario Kart: Double Dash!"
         - "Metroid Prime 2: Echoes"
@@ -517,7 +517,7 @@ body:
         - "Donkey Kong Country 3 (1weell)"
         - "F-Zero"
         - "Illusion of Gaia"
-        - "The Legend of Zelda: A Link to the Past"
+        - "The Legend of Zelda:A Link to the Past"
         - "Mega Man X"
         - "Starfox"
         - "Super Mario All-Stars"
@@ -537,7 +537,7 @@ body:
       label: "Nintendo Wii U - which game?"
       description: "Only fill this in if you chose Nintendo Wii U above."
       options:
-        - "The Legend of Zelda: Wind Waker HD"
+        - "The Legend of Zelda:Wind Waker HD"
   - type: dropdown
     id: item_pc
     attributes:
@@ -576,9 +576,9 @@ body:
         - "Heroes of Might & Magic III"
         - "Insaniquarium"
         - "Jazz Jackrabbit 2"
-        - "The Legend of Zelda: Oni Link Begins"
-        - "The Legend of Zelda: Return of the Hylian"
-        - "The Legend of Zelda: Time To Triumph"
+        - "The Legend of Zelda:Oni Link Begins"
+        - "The Legend of Zelda:Return of the Hylian"
+        - "The Legend of Zelda:Time To Triumph"
         - "Luanti"
         - "Marble Blast Collection"
         - "Mari0"
