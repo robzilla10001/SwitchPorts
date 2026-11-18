@@ -550,7 +550,7 @@ Alphabetized by system  (24)
 ### Nintendo 3DS  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
-| 🟢 The Legend of Zelda: Ocarina of Time 3D | 0.2.7 | 16/11/2026 | [JohnUzoka/<br>TriAevum-Switch](https://github.com/JohnUzoka/TriAevum-Switch) | |  |  
+| 🟢 The Legend of Zelda:<br>Ocarina of Time 3D | 0.2.7 | 16/11/2026 | [JohnUzoka/<br>TriAevum-Switch](https://github.com/JohnUzoka/TriAevum-Switch) | |  |  
 | 🟢 Metroid: Samus Returns | 0.6.0 | 11/11/2026 | [FurryLilManChild/<br>MSR-nx](https://github.com/FurryLilManChild/MSR-nx) | |  |  
 
 - 2/2 updated 17/11/2026  
@@ -568,9 +568,9 @@ Alphabetized by system  (24)
 | Donkey Kong 64 | 1.1.2 | 11/10/2026 | [Trinalord777/<br>DK64Recomp-NX](https://github.com/Trinalord777/DK64Recomp-NX) | [Link](https://gbatemp.net/threads/dk64-reconkgpiled-nx-port.685111/) |  |  
 | F-Zero X | 1.0.1 | 14/08/2026 | [PalindromicBreadLoaf/<br>NX-Diffuser](https://github.com/PalindromicBreadLoaf/NX-Diffuser) | |  |  
 | 🟢 GoldenEye 007 | 0.2.0 | 15/11/2026 | [christphe/<br>project-dam-nx](https://github.com/christphe/project-dam-nx) | |  | 
-| The Legend of Zelda: Majora's Mask (YoshiCrystal9) | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/<br>2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) |  |  
-| The Legend of Zelda: Majora's Mask (reflex909) | 5.0.1 v3 | 03/09/2026 | [reflex909/<br>2ship2harkinian-Switch](https://github.com/reflex909/2ship2harkinian-Switch) | [Link](https://gbatemp.net/threads/2ship2harkinian-switch-port-gyro-and-rumble-support.683491/) |  |  
-| 🟢 The Legened of Zelda: Ocarina of Time | 9.3.1-nx3 | 15/11/2026 | [timschneeb/<br>Shipwright-Switch](https://github.com/timschneeb/Shipwright-Switch/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) |  |  
+| The Legend of Zelda:<br>Majora's Mask (YoshiCrystal9) | 4.0.0 nx | 30/01/2026 | [YoshiCrystal9/<br>2ship2harkinian-Switch](https://github.com/YoshiCrystal9/2ship2harkinian-Switch/) | [Link](https://gbatemp.net/threads/majoras-mask-switch-port-2ship-2harkinian.667996/) |  |  
+| The Legend of Zelda:<br>Majora's Mask (reflex909) | 5.0.1 v3 | 03/09/2026 | [reflex909/<br>2ship2harkinian-Switch](https://github.com/reflex909/2ship2harkinian-Switch) | [Link](https://gbatemp.net/threads/2ship2harkinian-switch-port-gyro-and-rumble-support.683491/) |  |  
+| 🟢 The Legened of Zelda:<br>Ocarina of Time | 9.3.1-nx3 | 15/11/2026 | [timschneeb/<br>Shipwright-Switch](https://github.com/timschneeb/Shipwright-Switch/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) |  |  
 | Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/<br>SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [Link](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) |  |  
 | Mega Man 64 | 0.9.1 | 22/10/2026 | [adumah/<br>MegaMan64Recomp-NX](https://github.com/adumah/MegaMan64Recomp-NX) | |  |  
 | Paper Mario (Thorhax) | 1.0.2 | 01/10/2026 | [Thorhax/<br>PaperBoat-NX-Modern](https://github.com/Thorhax/PaperBoat-NX-Modern) | |  |  
@@ -603,8 +603,8 @@ Alphabetized by system  (24)
 ### Nintendo Gameboy Advance  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
-| The Legend of Zelda: The Minish Cap (HayatoG) | v0.25 | 04/06/2026 | [HayatoG/<br>tmc](https://github.com/HayatoG/tmc) | |  |  
-| The Legend of Zelda: The Minish Cap (Alexgg1014) | 2.0.1 | 17/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-the-minish-cap-aleks-ultimate-nx-edition-dual-screen-flip-grip-support-touch-retroachievements.683892/) |  |  
+| The Legend of Zelda:<br>The Minish Cap (HayatoG) | v0.25 | 04/06/2026 | [HayatoG/<br>tmc](https://github.com/HayatoG/tmc) | |  |  
+| The Legend of Zelda:<br>The Minish Cap (Alexgg1014) | 2.0.1 | 17/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-the-minish-cap-aleks-ultimate-nx-edition-dual-screen-flip-grip-support-touch-retroachievements.683892/) |  |  
 | 🟢 Mario Kart: Super Circuit | 0.2.1 | 14/11/2026 | [Niecks90/<br>mksc-nx](https://github.com/Niecks90/mksc-nx) | |  | 
 | Metroid: Zero Mission | 1.3 | 28/10/2026 | [JJTapiaXX/<br>Metroid-Zero-Mission-NX](https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX) | [Link](https://gbatemp.net/threads/metroid-zero-mission-nx.685276/) |  |  
 | 🟢 Pokemon: FullDex | 1.6 | 16/11/2026 | [mamesj/pokemon-fulldex/](https://github.com/mamesj/pokemon-fulldex/releases/tag/all-games-v2) | Link |  |  
@@ -617,10 +617,10 @@ Alphabetized by system  (24)
 ### Nintendo Gameboy Color
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |
-| The Legend of Zelda: Link's Awakening DX (delsonazevedo) | 1.7.3 | 25/04/2026 | [delsonazevedo/<br>Zelda-LA-DX-HD-Updated](https://github.com/delsonazevedo/Zelda-LA-DX-HD-Updated) | |  |   
-| The Legend of Zelda: Link's Awakening DX (Alexgg1014) | 1.2.0 | 16/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-zelda-links-awakening-dx-hd-aleks-ultimate-nx-edition-switch-homebrew-60fps-flip-grip-touch-second-screen.684512/unread) |  |  
-| The Legend of Zelda: Oracle of Seasons / Oracle of Ages (toniisound/oracles-nx) | 1.0.0 | 10/10/2026 | [toniisound/<br>oracles-nx](https://github.com/toniisound/oracles-nx) | [Link](https://gbatemp.net/threads/release-oracles-nx-1-0-native-switch-port-of-oracle-of-ages-oracle-of-seasons.685197/) |  |  
-| The Legend of Zelda: Oracle of Seasons / Oracle of Ages (toniisound/oracles-project) | 1.3.0 | 29/10/2026 | [toniisound/<br>The-Oracles-Project-NX](https://github.com/toniisound/The-Oracles-Project-NX) | [Link](https://gbatemp.net/threads/release-the-oracles-project-nx-1-1-0-oracle-of-ages-seasons-for-switch-widescreen-languages-mods.685427/) |  |  
+| The Legend of Zelda:<br>Link's Awakening DX (delsonazevedo) | 1.7.3 | 25/04/2026 | [delsonazevedo/<br>Zelda-LA-DX-HD-Updated](https://github.com/delsonazevedo/Zelda-LA-DX-HD-Updated) | |  |   
+| The Legend of Zelda:<br>Link's Awakening DX (Alexgg1014) | 1.2.0 | 16/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-zelda-links-awakening-dx-hd-aleks-ultimate-nx-edition-switch-homebrew-60fps-flip-grip-touch-second-screen.684512/unread) |  |  
+| The Legend of Zelda:<br>Oracle of Seasons / Oracle of Ages (toniisound/oracles-nx) | 1.0.0 | 10/10/2026 | [toniisound/<br>oracles-nx](https://github.com/toniisound/oracles-nx) | [Link](https://gbatemp.net/threads/release-oracles-nx-1-0-native-switch-port-of-oracle-of-ages-oracle-of-seasons.685197/) |  |  
+| The Legend of Zelda:<br>Oracle of Seasons / Oracle of Ages (toniisound/oracles-project) | 1.3.0 | 29/10/2026 | [toniisound/<br>The-Oracles-Project-NX](https://github.com/toniisound/The-Oracles-Project-NX) | [Link](https://gbatemp.net/threads/release-the-oracles-project-nx-1-1-0-oracle-of-ages-seasons-for-switch-widescreen-languages-mods.685427/) |  |  
 
 - 0/4 updated 17/11/2026  
 ⎯ [Top](#toc)  
@@ -630,10 +630,10 @@ Alphabetized by system  (24)
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | Animal Crossing | 1.0.1 | 29/10/2026 | [digdat0/<br>ACGC-Switch-Port](https://github.com/digdat0/ACGC-Switch-Port) | [Link](https://gbatemp.net/threads/animal-crossing-gcnx-switch-port.685302/) |  |  
-| The Legend of Zelda: Twilight Princess (HayatoG) | 1.4.3 | 02/07/2026 | [HayatoG/<br>dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) |  |  
-| The Legend of Zelda: Twilight Princess (souldbminderr) | 2.0.0.25 | 19/06/2026 | [souldbminerr/<br>dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) |  |  
-| The Legend of Zelda: Twilight Princess (Alexgg1014) | 1.1.3 | 09/11/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) |  |  
-| The Legend of Zelda: Wind Waker | 1.0.2 | 27/10/2026 | [centollOS/<br>SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) |  |  
+| The Legend of Zelda:<br>Twilight Princess (HayatoG) | 1.4.3 | 02/07/2026 | [HayatoG/<br>dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) |  |  
+| The Legend of Zelda:<br>Twilight Princess (souldbminderr) | 2.0.0.25 | 19/06/2026 | [souldbminerr/<br>dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) |  |  
+| The Legend of Zelda:<br>Twilight Princess (Alexgg1014) | 1.1.3 | 09/11/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread) |  |  
+| The Legend of Zelda:<br>Wind Waker | 1.0.2 | 27/10/2026 | [centollOS/<br>SwitchWaker](https://github.com/centollOS/SwitchWaker) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) |  |  
 | Luigi's Mansion | 1.0.1 | 01/11/2026 | [StevensND/<br>lm-nx](https://github.com/StevensND/lm-nx) | [Link](https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/) |  |  
 | 🟢 Mario Kart: Double Dash! | 2.0.1 | 15/11/2026 | [digdat0/<br>mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) |  |  
 | Metroid Prime 2: Echoes | 0.5.0 | 09/11/2026 | [FurryLilManChild/<br>MP2-nx](https://github.com/FurryLilManChild/MP2-nx) | |  |  
@@ -657,7 +657,7 @@ Alphabetized by system  (24)
 | Donkey Kong Country 3 (1weell) | 1.1 | 22/09/2026 | [1weell/<br>DKC2Recomp-Switch](https://github.com/1weell/DKC2Recomp-Switch) | |  |  
 | F-Zero | 0.3.0 | 19/09/2026 | [Thorhax/<br>F-Zero-NX-Modern](https://github.com/Thorhax/F-Zero-NX-Modern) | |  |  
 | Illusion of Gaia | 1.0.0 | 16/10/2026 | [mrOt4/<br>babel-recomp](https://github.com/mrOt4/babel-recomp) | |  |  
-| The Legend of Zelda: A Link to the Past | 1.3.0 | 17/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) |  |  
+| The Legend of Zelda:<br>A Link to the Past | 1.3.0 | 17/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) |  |  
 | Mega Man X | 1.2.0 | 23/10/2026 | [Thorhax/<br>MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) |  |  
 | Starfox | 0.0.8.8.3 | 01/11/2026 | [kandowontu2/<br>starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) |  |  
 | 🟢 Super Mario All-Stars | 1.0.1 | 17/11/2026 | [simplePsyduck/<br>SuperMarioAllStars-NX](https://github.com/simplePsyduck/SuperMarioAllStars-NX) | |  |  
@@ -681,7 +681,7 @@ Alphabetized by system  (24)
 ### Nintendo Wii U  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 The Legend of Zelda: Wind Waker HD | 1.3.0 | 12/11/2026 | [centollOS/<br>SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) |  |  
+| 🟢 The Legend of Zelda:<br>Wind Waker HD | 1.3.0 | 12/11/2026 | [centollOS/<br>SwitchWakerHD](https://github.com/centollOS/SwitchWakerHD) | [Link](https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/) |  |  
 
 - 1/1 Updated 17/11/2026  
 ⎯ [Top](#toc)  
@@ -722,9 +722,9 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Heroes of Might & Magic III | 1.8.0 R2 | 06/07/2026 | [NaGaa95/<br>vcmi_nx](https://github.com/NaGaa95/vcmi_nx/) | |  |  
 | Insaniquarium | 1.0.1 | 06/09/2026 | [ChanseyIsTheBest/<br>insaniquarium_nx](https://github.com/ChanseyIsTheBest/insaniquarium_nx) | [Link](https://gbatemp.net/threads/insaniquarium-deluxe-switch-port.684222/) |  |  
 | Jazz Jackrabbit 2 | 3.9.0 | 17/10/2026 | [deathkiller/<br>jazz2](https://github.com/deathkiller/jazz2) | |  |  
-| The Legend of Zelda: Oni Link Begins | 1.1.1 | 25/08/2026 | [worthis/<br>ZeldaOLB-new-engine](https://github.com/worthis/ZeldaOLB-new-engine) |  |  |  
-| The Legend of Zelda: Return of the Hylian | 1.1.4 | 25/08/2026 | [worthis/<br>ZeldaROTH-new-engine](https://github.com/worthis/ZeldaROTH-new-engine) |  |  |  
-| The Legend of Zelda: Time To Triumph | *released* | 27/07/2026 | [worthis/<br>Zelda3T](https://github.com/worthis/Zelda3T) |  |  |  
+| The Legend of Zelda:<br>Oni Link Begins | 1.1.1 | 25/08/2026 | [worthis/<br>ZeldaOLB-new-engine](https://github.com/worthis/ZeldaOLB-new-engine) |  |  |  
+| The Legend of Zelda:<br>Return of the Hylian | 1.1.4 | 25/08/2026 | [worthis/<br>ZeldaROTH-new-engine](https://github.com/worthis/ZeldaROTH-new-engine) |  |  |  
+| The Legend of Zelda:<br>Time To Triumph | *released* | 27/07/2026 | [worthis/<br>Zelda3T](https://github.com/worthis/Zelda3T) |  |  |  
 | Luanti | 0.1.0 | 15/10/2026 | [adumah/Luanti-NX/](https://github.com/adumah/Luanti-NX/) | |  |  
 | Marble Blast Collection | 1.3.0 | 30/08/2026 | [ChanseyIsTheBest/<br>MBHaxe-Switch](https://github.com/ChanseyIsTheBest/MBHaxe-Switch) | [Link](https://gbatemp.net/threads/mbhaxe-switch-port-marble-blast-gold-ultra-platinum-platinum-quest.684096/) |  |  
 | Mari0 | 1.0.0 | 13/08/2026 | [delsonazevedo/<br>mari0-switch](https://github.com/delsonazevedo/mari0-switch) | |  |  
