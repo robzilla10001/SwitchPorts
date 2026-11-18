@@ -448,6 +448,7 @@ Alphabetized by system  (24)
 | Beautiful Katamari | 1.0.1 | 04/11/2026 | [ChanseyIsTheBest/<br>katamari-nx](https://github.com/ChanseyIsTheBest/katamari-nx) | [Link](https://gbatemp.net/threads/beautiful-katamari-switch-port.686128/) |  |  
 | Bejeweled 3 | 1.0.1 | 25/10/2026 | [ChanseyIsTheBest/<br>bejeweled3-nx](https://github.com/ChanseyIsTheBest/bejeweled3-nx) | [Link](https://gbatemp.net/threads/bejeweled-3-xbox-360-ver-switch-port.685689/unread) |  |  
 | 🟢 Blue Dragon | 1.3.6 | 15/11/2026 | [Ad0ky/<br>reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
+| 🟢 Blur | 1.0.0 | 18/11/2026 | [ChanseyIsTheBest/<br>blur-nx](https://github.com/ChanseyIsTheBest/blur-nx) | |  |  
 | Call of Duty: Black Ops II | 1.1.0 | 03/11/2026  | [AlvaroEPena/<br>bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
 | Castlevania: Harmony of Despair | 0.311 | 06/11/2026 | [rashevskyv/<br>cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | [Link](https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/) |  |  
 | Castlevania: Lords of Shadow | 0.5.0 | 03/11/2026 | [FurryLilManChild/<br>LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
