@@ -37,6 +37,7 @@ body:
         - "Sony Playstation 2"
         - "Sony Playstation 4"
         - "Sony Playstation Portable"
+        - "Sony Playstation Vita"
     validations:
       required: true
   - type: dropdown
