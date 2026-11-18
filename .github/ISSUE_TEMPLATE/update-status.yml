@@ -235,6 +235,7 @@ body:
         - "Stick With It"
         - "Stone Story RPG"
         - "Streets of Rage X"
+        - "Stupid Zombies"
         - "Subway Surfers"
         - "Super Mario 63 Redux"
         - "Super Mario 127"
@@ -278,6 +279,7 @@ body:
       options:
         - "Black"
         - "Bloody Roar Extreme"
+        - "Buffy the Vampire Slayer"
         - "Burnout 3: Takedown"
         - "Castlevania: Curse of Darkness"
         - "Cold Fear"
@@ -306,6 +308,7 @@ body:
         - "Splinter Cell: Chaos Theory"
         - "Splinter Cell: Double Agent"
         - "SSX Tricky"
+        - "StarCraft: Ghost"
         - "Tom and Jerry: War of the Whiskers"
   - type: dropdown
     id: item_x360
@@ -334,6 +337,7 @@ body:
         - "Dead Space 3"
         - "Dishonored (cznn999)"
         - "Dishonored (VibePorter)"
+        - "F.E.A.R."
         - "FarCry 4"
         - "Feeding Frenzy"
         - "Feeding Frenzy 2: Shipwreck Showdown"
@@ -379,6 +383,7 @@ body:
         - "The Simpson's Game"
         - "The Sims 3"
         - "Silent Hill 3"
+        - "Silent Hill Downpour"
         - "Silent Hill Homecoming"
         - "Singularity"
         - "Skate 3"
@@ -503,6 +508,7 @@ body:
       label: "Super Nintendo Entertainment System - which game?"
       description: "Only fill this in if you chose Super Nintendo Entertainment System above."
       options:
+        - "Disney's Magical Quest Trilogy"
         - "Donkey Kong Country (souldbminerr)"
         - "Donkey Kong Country (mrOt4)"
         - "Donkey Kong Country 2"
@@ -522,6 +528,7 @@ body:
       description: "Only fill this in if you chose Nintendo Wii above."
       options:
         - "Mario Kart Wii"
+        - "New Super Mario Bros. Wii"
         - "Super Paper Mario"
   - type: dropdown
     id: item_wiiu
@@ -619,8 +626,10 @@ body:
         - "Velikolepny Vovochka"
         - "Warcraft"
         - "Warcraft II"
+        - "Woody Woodpecker: Escape from Buzz Buzzard Park"
         - "Wolfenstein 3D"
         - "Your Turn to Die"
+        - "Yume Nikki"
         - "Zuma Deluxe"
   - type: dropdown
     id: item_dc
@@ -640,6 +649,8 @@ body:
         - "Arcus Odyssey"
         - "Virtua Racing Deluxe (32x)"
         - "Mickey & Donald Collection"
+        - "Ristar"
+        - "Tiny Toon Adventures: Buster's Hidden Treasure"
   - type: dropdown
     id: item_psx
     attributes:
@@ -661,6 +672,7 @@ body:
         - "Jak and Daxter Trilogy"
         - "Rampage: Total Destruction"
         - "Resident Evil Code: Veronica X"
+        - "Scooby-Doo! Night of 100 Frights"
         - "Sly Cooper"
   - type: dropdown
     id: item_ps4
@@ -676,6 +688,7 @@ body:
       description: "Only fill this in if you chose Sony Playstation Portable above."
       options:
         - "Ben 10: Protector of Earth"
+        - "Grand Theft Auto: Vice City Stories"
   - type: dropdown
     id: status
     attributes:
