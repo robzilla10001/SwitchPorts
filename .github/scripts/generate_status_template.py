@@ -44,6 +44,7 @@ CATEGORIES = [
     {"label": "Sony Playstation 2", "anchor": "ps2", "column": "Game"},
     {"label": "Sony Playstation 4", "anchor": "ps4", "column": "Game"},
     {"label": "Sony Playstation Portable", "anchor": "psp", "column": "Game"},
+    {"label": "Sony Playstation Vita", "anchor": "psv", "column": "Game"},
 ]
 
 README = Path("README.md")
