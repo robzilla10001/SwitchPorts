@@ -829,7 +829,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation 4
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 P.T. (Silent Hills) | 1.0.2 | 11/11/2026 | [r4lix/<br>pt-nx](https://github.com/r4lix/pt-nx) | | |  
+| 🟢 P.T. (Silent Hills) | 1.0.2 | 11/11/2026 | [r4lix/<br>pt-nx](https://github.com/r4lix/pt-nx) | |  |  
 
 - 1/1 updated 17/11/2026  
 ⎯ [Top](#toc)
@@ -838,7 +838,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation Portable  
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| Ben 10: Protector of Earth | 1.1.4 | 05/11/2026 | [LaLemniscata/<br>ben10-nx](https://github.com/LaLemniscata/ben10-nx) | | |  
+| Ben 10: Protector of Earth | 1.1.4 | 05/11/2026 | [LaLemniscata/<br>ben10-nx](https://github.com/LaLemniscata/ben10-nx) | |  |  
 
 - 1/1 updated 17/11/2026  
 ⎯ [Top](#toc)
@@ -847,7 +847,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation Vita 
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| God of War Collection | 1.2 | 17/11/2026 | [gerisson1996/<br>gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | | |  
+| 🟢 God of War Collection | 1.2 | 17/11/2026 | [gerisson1996/<br>gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | |  |  
 
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
