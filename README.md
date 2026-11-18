@@ -463,7 +463,8 @@ Alphabetized by system  (24)
 | F.E.A.R. | v0.2.1 | 06/11/2026 | [infriker/<br>fear-nx](https://github.com/infriker/fear-nx) |  |  | 
 | 🟢 FarCry 4 | *pre-release* | 12/11/2026 | [Steammaker212<br>/FC4-NX](https://github.com/Steammaker212/FC4-NX) | |  |  
 | Feeding Frenzy | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
-| Feeding Frenzy 2: Shipwreck Showdown | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy2-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |   
+| Feeding Frenzy 2: Shipwreck Showdown | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy2-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy2-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
+| 🟢 Final Fantasy XIII | 1.0.0 | 17/11/2026 | [recomp-nx/<br>fnxf_xiii](https://github.com/recomp-nx/fnxf_xiii) | |  |  
 | 🟢 Final Fantasy XIII-2 | 1.1 | 17/11/2026 | [BlackDes1/<br>FFXIII-2-NX](https://github.com/BlackDes1/FFXIII-2-NX) | |  |  
 | Gears of War 2 | 1.1.0 | 07/11/2026 | [VasilkovND/<br>gears2-nx](https://github.com/VasilkovND/gears2-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260) |  |  
 | Grand Theft Auto IV | v35 | 23/10/2026 | [kabba536/<br>Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch](https://github.com/kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10939691) |  |  
@@ -840,7 +841,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation 4
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 P.T. (Silent Hills) | 1.0.2 | 11/11/2026 | [r4lix/<br>pt-nx](https://github.com/r4lix/pt-nx) | | |  
+| 🟢 P.T. (Silent Hills) | 1.0.2 | 11/11/2026 | [r4lix/<br>pt-nx](https://github.com/r4lix/pt-nx) | |  |  
 
 - 1/1 updated 17/11/2026  
 ⎯ [Top](#toc)
@@ -856,9 +857,9 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation Vita 
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 God of War Collection | v1.0 | 16/11/2026 | [gerisson1996/<br>gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) |  |  |
+| 🟢 God of War Collection | v1.3 | 18/11/2026 | [gerisson1996/<br>gow-collection-nx](https://github.com/gerisson1996/gow-collection-nx) | |  |  
 
-- 1/1 updated 17/11/2026  
+- created 18/11/2026  
 ⎯ [Top](#toc)
 
 ### Special Thanks  
