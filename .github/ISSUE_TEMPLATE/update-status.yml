@@ -692,6 +692,13 @@ body:
         - "Ben 10: Protector of Earth"
         - "Grand Theft Auto: Vice City Stories"
   - type: dropdown
+    id: item_psv
+    attributes:
+      label: "Sony Playstation Vita - which game?"
+      description: "Only fill this in if you chose Sony Playstation Vita above."
+      options:
+        - "God of War Collection"
+  - type: dropdown
     id: status
     attributes:
       label: Status?
