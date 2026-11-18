@@ -147,7 +147,7 @@ Alphabetized by system  (24)
 ⎯ [Sony Playstation 2](#ps2)  
 ⎯ [Sony Playstation 4](#ps4)  
 ⎯ [Sony Playstation Portable](#psp)
-- [Sony Playstation Vita](#psv)
+- [Sony Playstation Vita](#psv)  
 ⎯ [Special Thanks](#special-thanks)  
 
 
