@@ -324,6 +324,7 @@ Alphabetized by system  (25)
 | Papa's Paleteria to Go! | 1.0.0 | 18/10/2026 | [xflipperkast/<br>papaspaleteria_nx](https://github.com/xflipperkast/papaspaleteria_nx) | |  |  
 | Papa's Pizzeria To Go! | 1.0.0 | 20/08/2026 | [xflipperkast/<br>papapizzatg_nx](https://github.com/xflipperkast/papapizzatg_nx) | [Link](https://gbatemp.net/threads/papas-pizzeria-to-go-switch-port.683889/) |  |  
 | Papers, Please | 1.0.1 | 28/07/2026 | [ChanseyIsTheBest/<br>papersplease_nx](https://github.com/ChanseyIsTheBest/papersplease_nx) | [Link](https://gbatemp.net/threads/papers-please-switch-port.683337/) |  |  
+| 🟢 PewDiePie: Legend of Brofist | 1.0.2 | 18/11/2026 | [xflipperkast/<br>PewDiePie_NX](https://github.com/xflipperkast/PewDiePie_NX) | |  |  
 | Pizza vs. Skeletons | 1.0.0 | 02/09/2026 | [ChanseyIsTheBest/pvs_nx/](https://github.com/ChanseyIsTheBest/pvs_nx/) | [Link](https://gbatemp.net/threads/pizza-vs-skeletons-switch-port.684163/) |  |  
 | Phigros | 1.0.3 | 20/08/2026 | [ChanseyIsTheBest/<br>phigros_nx](https://github.com/ChanseyIsTheBest/phigros_nx) | [Link](https://gbatemp.net/threads/phigros-switch-port.683727/) |  |  
 | Phigros CN  | 2.2.0  | 30/09/2026  | [6eone6/<br>phigros_nx_cn](https://github.com/6eone6/phigros_nx_cn) | |  |  
@@ -464,7 +465,7 @@ Alphabetized by system  (25)
 | Dead Space 3 | 1.0.1 (TU2) | 27/10/2026 | [VasilkovND/<br>ds3-nx](https://github.com/VasilkovND/ds3-nx) |  |  |  
 | 🟢 Dishonored (cznn999) | 0.50 | 15/11/2026 | [cznn999/<br>dishonored-nx](https://github.com/cznn999/dishonored-nx) | [Link](https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/) |  |  
 | 🟢 Dishonored (VibePorter) | *released* | 16/11/2026 | [VibePorter/<br>Dunwall](https://github.com/VibePorter/Dunwall) | |  |  
-| 🟢 Dragon Ball Z: Budokai 3 HD (alexyt2021es) | 0.4 | 09/11/2026 | [alexyt2021es/<br>Budokai-NX](https://gitlab.com/alexyt2021es/Budokai-NX/-/blob/main/README_EN.md) | |  |  
+| 🟢 Dragon Ball Z: Budokai 3 HD (alexyt2021es) | 1.0 | 14/11/2026 | [alexyt2021es/<br>Budokai-NX](https://gitlab.com/alexyt2021es/Budokai-NX/-/blob/main/README_EN.md) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (novapowers0) | 1.5.6.2 | 08/11/2026 | [novapowers0/<br>DBZ-Budokai-3-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (ramonDias07) | 0.1.40 | 17/11/2026 | [ramonDias07/<br>Budokai3-nx](https://github.com/ramonDias07/Budokai3-nx) | [Link](https://gbatemp.net/threads/release-dragon-ball-z-budokai-3-hd-for-nintendo-switch-budokai3-nx.686629/#post-10950258) |  |  
 | F.E.A.R. | v0.2.1 | 06/11/2026 | [infriker/<br>fear-nx](https://github.com/infriker/fear-nx) |  |  | 
@@ -524,11 +525,11 @@ Alphabetized by system  (25)
 | Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/<br>sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) |  |  
 | 🟢 Timeshift | *pre-release* | 16/11/2026 | [Vasin228/<br>timeshift-nx](https://github.com/Vasin228/timeshift-nx) | |  |  
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/<br>project8-sw](https://github.com/R-drg/project8-sw) | |  |  
-| Torchlight (liartes) | 1.0.5 | 05/11/2026 | [liartes/<br>torchlight-nx](https://github.com/liartes/torchlight-nx) | |  |  
+| 🟢 Torchlight (liartes) | 1.0.6 | 18/11/2026 | [liartes/<br>torchlight-nx](https://github.com/liartes/torchlight-nx) | |  |  
 | 🟢 Torchlight (GreenSwampDweller) | 1.1.1 | 12/11/2026 | [GreenSwampDweller/<br>torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) |  |  
 | Ultra Street Fighter IV | 0.8.1 | 25/10/2026 | [Thorhax/<br>usf4-nx](https://github.com/Thorhax/usf4-nx) | |  |  
 | 🟢 The Witcher 2: Assassins of Kings | *pre-release* | 13/11/2026 | [v1ab1/<br>witcher2nx](https://github.com/v1ab1/witcher2nx) | |  |  
-| 🟢 The Witcher 2: Definitive Edition | 0.1.3 | 15/11/2026 | [recomp-nx/<br>tw2de_nx](https://github.com/recomp-nx/tw2de_nx) | |  |  
+| 🟢 The Witcher 2: Definitive Edition | 0.1.4 | 17/11/2026 | [recomp-nx/<br>tw2de_nx](https://github.com/recomp-nx/tw2de_nx) | |  |  
 | Zuma | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zuma-nx](https://github.com/ChanseyIsTheBest/zuma-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 | Zuma's Revenge | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zumasrevenge-nx](https://github.com/ChanseyIsTheBest/zumasrevenge-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 
@@ -750,6 +751,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | One Must Fall: 2097 | 0.8.7 | 10/09/2026 | [Thorhax/<br>OpenOMF-NX-Modern](https://github.com/Thorhax/OpenOMF-NX-Modern) | [Link](https://gbatemp.net/threads/preliminary-list-of-updated-homebrew-apps-and-tools-for-fw-21-0-0-ams-1-10-0-please-add-your-findings.677217/post-10907101) |  |  
 | Outrun 2006: Coast 2 Coast | test-1 | 07/10/2026 | [r4dius/<br>outrun2-decomp](https://github.com/r4dius/outrun2-decomp) | [Link](https://gbatemp.net/threads/outrun-2006-coast-2-coast-decomp.685083/) |  |  
 | Plants Vs Zombies | 2026-07-02 | 02/07/2026 | [HayatoG/<br>PVZ-Portable](https://github.com/HayatoG/PvZ-Portable/) | |  |  
+| 🟢 Plants Vs. Zombies: DLC Edition | *beta*-2.5 | 18/11/2026 | [aks796/<br>pvzdlc_nx](https://github.com/aks796/pvzdlc_nx) | |  |  
 | PokeMMO | 1.1.9 | 09/11/2026 | [Petit-Prince-dev/<br>PokeMMO-NX](https://github.com/Petit-Prince-dev/PokeMMO-NX) | [Link](https://gbatemp.net/threads/pokemmo-is-now-running-natively-on-the-nintendo-switch.685027/) |  |  
 | Project Zomboid | 0.5 | 29/10/2026 | [etonedemid/<br>zomboid-switch](https://github.com/etonedemid/zomboid-switch) | |  |  
 | Quake | 0.93.3 NX | 04/09/2026 | [Thorhax/<br>Quakespasm-NX-Modern](https://github.com/Thorhax/Quakespasm-NX-Modern) | |  |  
