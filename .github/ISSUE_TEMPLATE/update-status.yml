@@ -659,7 +659,7 @@ body:
       description: "Only fill this in if you chose Sega Genesis (32x contained here also) above."
       options:
         - "Arcus Odyssey"
-        - "Virtua Deluxe (32x)"
+        - "Virtua Racing Deluxe (32x)"
         - "Mickey & Donald Collection"
         - "Ristar"
         - "Tiny Toon Adventures: Buster's Hidden Treasure"
