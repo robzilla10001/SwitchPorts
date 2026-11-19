@@ -809,7 +809,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Arcus Odyssey | 1.0.0 | 16/11/2026 | [sixtyeightk/<br>AODX-Recomp](https://github.com/sixtyeightk/AODX-Recomp) | |  |  
-| Virtua  Deluxe (32x) | 1.0.0 | 02/10/2026 | [Thorhax/<br>sega-vr-disasm](https://github.com/Thorhax/sega-vr-disasm) | |  |  
+| Virtua Racing Deluxe (32x) | 1.0.0 | 02/10/2026 | [Thorhax/<br>sega-vr-disasm](https://github.com/Thorhax/sega-vr-disasm) | |  |  
 | 🟢 Mickey & Donald Collection | 1.1.2 | 17/11/2026 | [simplePsyduck/<br>MickeyAndDonaldCollection-NX](https://github.com/simplePsyduck/MickeyAndDonaldCollection-NX) | [Link](https://gbatemp.net/threads/mickey-donald-collection-castle-of-illusion-quackshot-world-of-illusion.686415/) |  |  
 | 🟢 Ristar | beta-v1 | 17/11/2026 | [simplePsyduck/<br>Ristar_nx](https://github.com/simplePsyduck/Ristar_nx) |  |  | 
 | 🟢 Tiny Toon Adventures: Buster's Hidden Treasure | v1.0 | 17/11/2026 | [simplePsyduck/<br>BustersHiddenTreasure-NX](https://github.com/simplePsyduck/BustersHiddenTreasure-NX) |  |  |
