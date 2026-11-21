@@ -196,7 +196,9 @@ Alphabetized by system  (25)
 | Angry Birds Forever | 1.0.0 | 06/10/2026 | [aks796/<br>abforever_nx](https://github.com/aks796/abforever_nx) | |  |
 | Angry Birds Space HD | 1.0.2 | 01/10/2026 | [aks796/<br>abspace_nx](https://github.com/aks796/abspace_nx) | |  |  
 | Angry Birds: Star Wars 2 | 1.0.2 | 07/10/2026 | [markaurel13/<br>abstarwars2_nx](https://github.com/markaurel13/abstarwars2_nx) | |  |  
-| 🟢 Asphalt 6: Adrenaline | 0.7.9 | 17/11/2026 | [7UNC46/<br>a6_nx](https://github.com/7UNC46/a6_nx) | |  |  
+| 🟢 Asphalt 5 HD | 0.3.0 | 22/11/2026 | [7UNC46/<br>a5_nx](https://github.com/7UNC46/a5_nx) | |  |  
+| 🟢 Asphalt 6: Adrenaline | 0.8.0 | 19/11/2026 | [7UNC46/<br>a6_nx](https://github.com/7UNC46/a6_nx) | |  |  
+| 🟢 Asphalt 7: Heat | 0.2.0 | 22/11/2026 | [7UNC46/<br>a7_nx](https://github.com/7UNC46/a7_nx) | |  |  
 | Asphalt 8: Airborne Retry | 1.0.3 | 01/10/2026 | [aks796/<br>a8retry_nx](https://github.com/aks796/a8retry_nx) | |  |  
 | Assassin's Creed: Altair's Chronicles HD | 0.1.1 | 18/10/2026 | [iqbalriz/<br>assassinscreed_nx](https://github.com/iqbalriz/assassinscreed_nx) | |  |  
 | Call of Duty - Black Ops: Zombies | 1.0.0 | 28/09/2026 | [r4lix/<br>codboz-nx](https://github.com/r4lix/codboz-nx) | |  |
