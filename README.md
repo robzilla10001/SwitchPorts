@@ -466,7 +466,6 @@ Alphabetized by system  (25)
 | 🟢 Dishonored (cznn999) | 0.50 | 15/11/2026 | [cznn999/<br>dishonored-nx](https://github.com/cznn999/dishonored-nx) | [Link](https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/) |  |  
 | 🟢 Dishonored (VibePorter) | *released* | 16/11/2026 | [VibePorter/<br>Dunwall](https://github.com/VibePorter/Dunwall) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (alexyt2021es) | 1.0 | 14/11/2026 | [alexyt2021es/<br>Budokai-NX](https://gitlab.com/alexyt2021es/Budokai-NX/-/blob/main/README_EN.md) | |  |  
-| 🟢 Dragon Ball Z: Budokai 3 HD (novapowers0) | 1.5.6.2 | 08/11/2026 | [novapowers0/<br>DBZ-Budokai-3-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (ramonDias07) | 0.1.40 | 17/11/2026 | [ramonDias07/<br>Budokai3-nx](https://github.com/ramonDias07/Budokai3-nx) | [Link](https://gbatemp.net/threads/release-dragon-ball-z-budokai-3-hd-for-nintendo-switch-budokai3-nx.686629/#post-10950258) |  |  
 | F.E.A.R. | v0.2.1 | 06/11/2026 | [infriker/<br>fear-nx](https://github.com/infriker/fear-nx) |  |  | 
 | 🟢 FarCry 4 | *pre-release* | 12/11/2026 | [Steammaker212<br>/FC4-NX](https://github.com/Steammaker212/FC4-NX) | |  |  
