@@ -55,8 +55,9 @@ body:
         - "Kirikiroid2-NX"
         - "Model2 NX"
         - "Supermodel-NX"
-        - "Tico"
+        - "pEMU"
         - "RetroArch"
+        - "Tico"
         - "DrasticDS"
         - "Dolphin"
         - "Nezumiiruka"
@@ -78,6 +79,7 @@ body:
       label: "Android 32bit - which game?"
       description: "Only fill this in if you chose Android 32bit above."
       options:
+        - "Adventure Time: Card Wars"
         - "Amazing Spider-Man 2"
         - "Angry Birds Forever"
         - "Angry Birds Space HD"
@@ -105,6 +107,7 @@ body:
         - "Plants vs. Zombies Touch"
         - "Rayman: Jungle Run"
         - "Rayman: Fiesta Run"
+        - "Samurai II: Vengeance"
         - "Smash Hit"
         - "Space Hulk"
         - "Steven Universe: Attack the Light"
@@ -233,6 +236,8 @@ body:
         - "Sonic 4 Episode 2"
         - "Sonic Dash"
         - "Sonic Dash 2: Sonic Boom"
+        - "Sonic Dream Team (aks796)"
+        - "Sonic Dream Team (Thorhax)"
         - "Sonic Jump"
         - "Sonic Jump Fever"
         - "Sonic Runners Adventure"
@@ -274,7 +279,8 @@ body:
         - "SegaSonic the Hedgehog"
         - "Sonic the Fighters"
         - "Teenage Mutant Ninja Turtles"
-        - "The Simpsons"
+        - "The Simpsons (cheviman)"
+        - "The Simpsons (Thorhax)"
         - "Virtua Fighter 2"
   - type: dropdown
     id: item_xbox
@@ -309,6 +315,7 @@ body:
         - "Need for Speed: Carbon"
         - "Need for Speed: Underground"
         - "Need for Speed: Underground 2"
+        - "Shadow the Hedgehog"
         - "Sonic Heroes"
         - "Soulcalibur II"
         - "Spider-Man 2"
@@ -341,6 +348,7 @@ body:
         - "Castlevania: Lords of Shadow"
         - "Condemned: Criminal Origins"
         - "Condemned 2"
+        - "Culdcept Saga"
         - "Dante's Inferno"
         - "Dark Souls II: Scholar of the First Sin"
         - "Deadpool"
@@ -403,7 +411,8 @@ body:
         - "Skate 3"
         - "Sonic Adventure 2"
         - "Sonic The Hedgehog (2006)"
-        - "Sonic the Hedgehog 4: Episode I"
+        - "Sonic the Hedgehog 4: Episode 1"
+        - "Sonic the Hedgehog 4: Episode 2"
         - "Sonic Unleashed"
         - "Space Channel 5: Part 2"
         - "Timeshift"
@@ -488,6 +497,7 @@ body:
         - "Medabots: Rokusho and Metabee"
         - "Metroid: Zero Mission"
         - "Pokemon: FullDex"
+        - "Sonic Advance"
         - "Sonic Advance 2"
   - type: dropdown
     id: item_gbc
@@ -544,7 +554,8 @@ body:
       description: "Only fill this in if you chose Nintendo Wii above."
       options:
         - "Mario Kart Wii"
-        - "New Super Mario Bros. Wii"
+        - "New Super Mario Bros. Wii (schuler-ph)"
+        - "New Super Mario Bros. Wii (timschneeb)"
         - "Super Paper Mario"
   - type: dropdown
     id: item_wiiu
@@ -694,6 +705,7 @@ body:
         - "Rampage: Total Destruction"
         - "Resident Evil Code: Veronica X"
         - "Scooby-Doo! Night of 100 Frights"
+        - "Shadow of the Colossus"
         - "Sly Cooper"
   - type: dropdown
     id: item_ps4
