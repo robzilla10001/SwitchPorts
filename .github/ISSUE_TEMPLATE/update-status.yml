@@ -302,6 +302,7 @@ body:
         - "Ice Age 2: The Meltdown"
         - "Jet Set Radio Future"
         - "Madagascar"
+        - "Manhunt"
         - "Midnight Club 3: Dub Edition"
         - "Mortal Kombat: Shaolin Monks"
         - "MVP Baseball '05"
@@ -334,6 +335,7 @@ body:
         - "Blue Dragon"
         - "Blur"
         - "Call of Duty: Black Ops II"
+        - "Call of Duty: Modern Warfare 2"
         - "CastleMiner Z"
         - "Castlevania: Harmony of Despair"
         - "Castlevania: Lords of Shadow"
@@ -685,6 +687,7 @@ body:
       label: "Sony Playstation 2 - which game?"
       description: "Only fill this in if you chose Sony Playstation 2 above."
       options:
+        - "Downhill Domination"
         - "Dragonball Z: Tenkaichi Budokai 3"
         - "Jak and Daxter Trilogy"
         - "Need for Speed: Hot Pursuit 2"
