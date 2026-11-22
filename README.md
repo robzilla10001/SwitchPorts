@@ -422,6 +422,7 @@ Alphabetized by system  (25)
 | Ice Age 2: The Meltdown | 0.3.2 | 02/11/2026 | [Meluxz/<br>iceage2-sw](https://github.com/Meluxz/iceage2-sw) | |  |  
 | 🟢 Jet Set Radio Future | 0.5.5 | 16/11/2026 | [Eladerino/<br>JetSetRadioFuture-Unleashed-NX](https://github.com/Eladerino/JetSetRadioFuture-Unleashed-NX) | |  |  
 | 🟢 Madagascar | 0.1.8 | 12/11/2026 | [gerisson1996/<br>MADAGASCAR-NX-PORT](https://github.com/gerisson1996/MADAGASCAR-NX-PORT) | |  |  
+| 🟢 Manhunt | 1.0.0 | 20/11/2026 | [marmota94/<br>manhunt1_nx](https://github.com/marmota94/manhunt1_nx) | |  |  
 | Midnight Club 3: Dub Edition | 1.1.0 | 05/11/2026 | [laureladastra/<br>mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991) |  |  
 | 🟢 Mortal Kombat: Shaolin Monks | 0.4.1 | 10/11/2026 | [Thorhax/<br>ShaolinMonks-NX](https://github.com/Thorhax/ShaolinMonks-NX) | |  |  
 | MVP Baseball '05 | 0.2.0 | 27/10/2026 | [xsaja/<br>mvp-nx](https://github.com/xsaja/mvp-nx) | [Link](https://gbatemp.net/threads/mvp-baseball-05-xbox-switch-port.686056/) |  |  
@@ -456,6 +457,7 @@ Alphabetized by system  (25)
 | 🟢 Blue Dragon | 1.3.6 | 15/11/2026 | [Ad0ky/<br>reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
 | 🟢 Blur | 1.0.0 | 18/11/2026 | [ChanseyIsTheBest/<br>blur-nx](https://github.com/ChanseyIsTheBest/blur-nx) | [Link](https://gbatemp.net/threads/blur-xbox-360-ver-switch-port.686647/) |  |  
 | Call of Duty: Black Ops II | 1.1.0 | 03/11/2026  | [AlvaroEPena/<br>bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
+| 🟢 Call of Duty: Modern Warfare 2 | 1.0.1 | 21/11/2026 | [kyokoxdev/<br>mw2nx](https://github.com/kyokoxdev/mw2nx) | |  |  
 | 🟢 CastleMiner Z | *released* | 22/11/2026 | [Bizzerowasnotavailable/<br>castleminerz-nx](https://github.com/Bizzerowasnotavailable/castleminerz-nx) | |  |  
 | Castlevania: Harmony of Despair | 0.311 | 06/11/2026 | [rashevskyv/<br>cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | [Link](https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/) |  |  
 | Castlevania: Lords of Shadow | 0.5.0 | 03/11/2026 | [FurryLilManChild/<br>LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
@@ -843,6 +845,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation 2
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
+| 🟢 Downhill Domination | 0.8.10 | 20/11/2026 | [marmota94/<br>downhill-revived](https://github.com/marmota94/downhill-revived) | |  |  
 | Dragonball Z: Tenkaichi Budokai 3 | 1.7.2 | 01/11/2026 | [alexyt2021es/<br>DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | |  |  
 | 🟢 Jak and Daxter Trilogy | 1.1.2-beta | 15/11/2026 | [fildicio/<br>jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/) |  |  
 | 🟢 Need for Speed: Hot Pursuit 2 | 1.0 | 18/11/2026 | [HDErick/<br>NFSHP2_Switch_Port](https://github.com/HDErick/NFSHP2_Switch_Port) | |  |  
