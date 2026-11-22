@@ -433,6 +433,7 @@ Alphabetized by system  (25)
 | 🟢 Spider-Man 2 | 0.4.1 | 13/11/2026 | [SantiBros/<br>SpiderMan2-2004-NX](https://github.com/SantiBros/SpiderMan2-2004-NX) | |  |  
 | 🟢 Splinter Cell: Chaos Theory | 0.3.0 | 11/11/2026 | [itouchdennis/<br>scct-nx](https://github.com/itouchdennis/scct-nx) | |  |  
 | Splinter Cell: Double Agent | 0.4.9 | 04/11/2026 | [itouchdennis/<br>scda-nx](https://github.com/itouchdennis/scda-nx) | |  |  
+| 🟢 Splinter Cell: Pandora Tomorrow | 0.3.7 | 22/11/2026 | [itouchdennis/<br>scpt-nx](https://github.com/itouchdennis/scpt-nx) | |  |  
 | SSX Tricky | 0.1.1 | 22/10/2026 | [DevCrashDay/<br>OpenTrickyNX](https://github.com/DevCrashDay/OpenTrickyNX) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10930586) |  |  
 | 🟢 StarCraft: Ghost | v0.4.0 | 15/11/2026 | [Thorhax/<br>ScGhost-NX](https://github.com/Thorhax/ScGhost-NX) |  |  |
 | Tom and Jerry: War of the Whiskers | 0.94.1 | 02/11/2026 | [JohnJames29/<br>WOTW-NX](https://github.com/JohnJames29/WOTW-NX) | |  |  
