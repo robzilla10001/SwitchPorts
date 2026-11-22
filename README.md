@@ -727,6 +727,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Call of Duty / United Offensive | 0.4.0 / 0.3.0 | 01/11/2026 | [cznn999/<br>cod-nx](https://github.com/cznn999/cod-nx) | [Link](https://gbatemp.net/threads/release-call-of-duty-2003-united-offensive-nintendo-switch-native-port.685952/) |  |  
 | Carmageddon | 1.2-nx | 28/10/2026 | [jackazz86/<br>dethrace-switch-fw21](https://github.com/jackazz86/dethrace-switch-fw21) | |  |  
 | Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/<br>cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) |  |  
+| 🟢 Command and Conquer: Red Alert 2 | 1.4.3 | 11/11/2026 | [Thorhax/<br>ra2-engine-switch](https://github.com/Thorhax/ra2-engine-switch) | |  |  
 | Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
 | Cosmology of Kyoto | 1.0.0 | 30/10/2026 | [seamusduncmcgrath/<br>CosmologyOfKyoto-Recompiled](https://github.com/seamusduncmcgrath/CosmologyOfKyoto-Recompiled) | |  |
 | 🟢 Death Rally | 1.2.0 | 17/11/2026 | [VLPLAY-Games/<br>dRally_S](https://github.com/VLPLAY-Games/dRally_S) | |  |  
