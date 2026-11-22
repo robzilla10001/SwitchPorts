@@ -455,7 +455,7 @@ Alphabetized by system  (25)
 | 🟢 Blue Dragon | 1.3.6 | 15/11/2026 | [Ad0ky/<br>reblue](https://github.com/Ad0ky/reblue) | [Link](https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/) |  |  
 | 🟢 Blur | 1.0.0 | 18/11/2026 | [ChanseyIsTheBest/<br>blur-nx](https://github.com/ChanseyIsTheBest/blur-nx) | [Link](https://gbatemp.net/threads/blur-xbox-360-ver-switch-port.686647/) |  |  
 | Call of Duty: Black Ops II | 1.1.0 | 03/11/2026  | [AlvaroEPena/<br>bo2-360-nx](https://github.com/AlvaroEPena/bo2-360-nx) | [Link](https://gbatemp.net/threads/black-ops-ii-switch-port.686105/) |  |  
-| CastleMinerZ| released | 22/11/2026 | [Bizzerowasnotavailable/castleminerz-nx](https://github.com/Bizzerowasnotavailable/castleminerz-nx) ||  |  
+| 🟢 CastleMiner Z| *released* | 22/11/2026 | [Bizzerowasnotavailable/<br>castleminerz-nx](https://github.com/Bizzerowasnotavailable/castleminerz-nx) | |  |  
 | Castlevania: Harmony of Despair | 0.311 | 06/11/2026 | [rashevskyv/<br>cvhd-recomp](https://github.com/rashevskyv/cvhd-recomp) | [Link](https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/) |  |  
 | Castlevania: Lords of Shadow | 0.5.0 | 03/11/2026 | [FurryLilManChild/<br>LoS1-nx](https://github.com/FurryLilManChild/LoS1-nx) | |  |  
 | Condemned: Criminal Origins | 0.2.0 | 02/11/2026 | [ipungsx/<br>condemnedCOx360-Port-Switch](https://github.com/ipungsx/condemnedCOx360-Port-Switch) | |  |  
