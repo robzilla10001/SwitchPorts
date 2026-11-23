@@ -366,7 +366,7 @@ Alphabetized by system  (25)
 | Subway Surfers | 1.0.4 | 03/11/2026 | [NaGaa95/<br>subwaysurfers_nx](https://github.com/NaGaa95/subwaysurfers_nx) | [Link](https://gbatemp.net/threads/subway-surfers-switch-port.683440/) |  |  
 | Super Mario 63 Redux | 1.0.0 | 15/09/2026 | [aks796/<br>sm63redux_nx](https://github.com/aks796/sm63redux_nx) | |  |  
 | Super Mario 127 | 1.0.0 | 14/09/2026 | [aks796/<br>sm127_nx](https://github.com/aks796/sm127_nx) | |  |  
-| Super Mario Bros. Remastered | 1.0.0 | 28/07/2026 | [delsonazevedo/Super-Mario-Bros.-Remastered-Switch](https://github.com/delsonazevedo/Super-Mario-Bros.-Remastered-Switch) |  |  |  
+| Super Mario Bros. Remastered | 1.0.0 | 28/07/2026 | [delsonazevedo/<br>Super-Mario-Bros.-Remastered-Switch](https://github.com/delsonazevedo/Super-Mario-Bros.-Remastered-Switch) |  |  |  
 | Super Mario World Remastered Plus | 1.0.1 | 14/08/2026 | [delsonazevedo/<br>Super-Mario-World-Remastered-Plus-Switch](https://github.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/page-3#post-10885621) |  |  
 | Swordigo | 1.0.2 | 03/11/2026 | [NaGaa95/<br>swordigo_nx](https://github.com/NaGaa95/swordigo_nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678) |  |  
 | Team Fortress 2 ReClassic | 1.0.2 | 03/11/2026 | [NaGaa95/<br>tf2_nx](https://github.com/NaGaa95/tf2_nx) | [Link](https://gbatemp.net/threads/team-fortress-2-switch-port.682734/) |  |
@@ -545,6 +545,7 @@ Alphabetized by system  (25)
 | Ultra Street Fighter IV | 0.8.1 | 25/10/2026 | [Thorhax/<br>usf4-nx](https://github.com/Thorhax/usf4-nx) | |  |  
 | The Witcher 2: Assassins of Kings | *pre-release* | 13/11/2026 | [v1ab1/<br>witcher2nx](https://github.com/v1ab1/witcher2nx) | |  |  
 | 🟢 The Witcher 2: Definitive Edition | 0.2.0 | 20/11/2026 | [recomp-nx/<br>tw2de_nx](https://github.com/recomp-nx/tw2de_nx) | |  |  
+| 🟢 X-Men Origins: Wolverine - Uncaged Edition | 0.1.16 | 22/11/2026 | [ramonDias07/<br>XMOW-nx](https://github.com/ramonDias07/XMOW-nx) | |  |  
 | Zuma | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zuma-nx](https://github.com/ChanseyIsTheBest/zuma-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 | Zuma's Revenge | 1.0.1 | 28/10/2026 | [ChanseyIsTheBest/<br>zumasrevenge-nx](https://github.com/ChanseyIsTheBest/zumasrevenge-nx) | [Link](https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/) |  |  
 
@@ -907,5 +908,5 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
 
-- 104/549 total updated 23/11/2026  
+- 103/549 total updated 23/11/2026  
 ⎯ [Top](#toc)  
