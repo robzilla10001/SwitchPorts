@@ -699,8 +699,10 @@ body:
       label: "Sony Playstation 2 - which game?"
       description: "Only fill this in if you chose Sony Playstation 2 above."
       options:
-        - "Downhill Domination"
-        - "Dragonball Z: Tenkaichi Budokai 3"
+        - "Downhill Domination (marmota94)"
+        - "Downhill Domination (alexyt2021es)"
+        - "Dragonball Z: Budokai Tenkaichi 3"
+        - "Dragonball Z: Budokai Tenkaichi 4"
         - "Jak and Daxter Trilogy"
         - "Need for Speed: Hot Pursuit 2"
         - "Rampage: Total Destruction"
