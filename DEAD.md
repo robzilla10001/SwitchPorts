@@ -14,6 +14,7 @@ and posts about what is missing. Check here first please?
 
 Alphabetized by system  
 ⎯ [Android 64bit](#and64)  
+⎯ [Microsoft Xbox](#xbox)  
 ⎯ [Nintendo 64](#n64)  
 ⎯ [PC](#pc)  
 ⎯ [Super Nintendo Entertainment System](#snes)  
@@ -47,8 +48,16 @@ Alphabetized by system
 | 🟠 The Room: Old Sins | 1.0.0 | 08/10/2026 | [ChanseyIsTheBest/theroom4_nx](https://github.com/ChanseyIsTheBest/theroom4_nx/) | [Link](https://gbatemp.net/threads/the-room-three-old-sins-switch-port.683590/) | Yes |  
 | 🟠 Zombotron Re-Boot | 1.0.2 | 16/08/2026 | [StevensND/<br>zombotron_nx](https://github.com/StevensND/zombotron_nx) | [Link](https://gbatemp.net/threads/zombotron-re-boot-nintendo-switch-port.684161/) |  |  
 
-
 ⎯ [Top](#toc)  
+
+
+<a id="xbox"></a>  
+### Microsoft Xbox  
+| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
+| --- | --- | --- | --- | --- | --- |  
+| 🟠 Midnight Club 3: Dub Edition | 1.1.0 | 05/11/2026 | [laureladastra/<br>mcdub3-nx](https://github.com/laureladastra/mcdub3-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991) |  |    
+
+⎯ [Top](#toc)
 
 <!-- <a id="arc"></a>  
 ### Arcade
@@ -106,7 +115,6 @@ Alphabetized by system
 | 🔴 Doom 64 | 0.2.0-nx *pre-release* | 23/10/2019 | [fgsfdsfgs/Doom64EX](https://github.com/fgsfdsfgs/Doom64EX) |  | No |  
 | 🔴 StarFox | 2.0.0 | 24/05/2025 | [HarbourMasters/Starship](https://github.com/HarbourMasters/Starship/) | [Link](https://gbatemp.net/threads/starship-sf64-nintendo-switch-port.668344/) | ??? |  
 
-
 ⎯ [Top](#toc)  
 
 <!--### Nintendo Entertainment System  
@@ -144,8 +152,6 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 Unreal / Unreal Gold | r2 | 26/12/2022 | [fgsfdsfgs/unreal_nx](https://github.com/fgsfdsfgs/unreal_nx) |  | No |  
 | 🔴 XCOM | 1.0 | 20/11/2024 | [alexart878/OpenXcom-switch](https://github.com/alexart878/OpenXcom-switch) | [Link](https://gbatemp.net/threads/openxcom-port-for-nintendo-switch.663495/) | No |  -->
 
-
-
 ⎯ [Top](#toc)  
 
 <!-- <a id="psx"></a>  
@@ -171,16 +177,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | 🔴 The Legend of Zelda: A Link to the Past | 0.3 | 16/08/2023 | [Snesrev/Zelda3](https://github.com/snesrev/zelda3/) | [Link](https://gbatemp.net/threads/the-legend-of-zelda-a-link-to-the-past-aleks-ultimate-nx.683965/) | No |  
 | 🔴 Super Metroid | n/a | n/a | [Snesrev/SM](https://github.com/snesrev/sm/) | [Link](https://gbatemp.net/threads/super-metroid-sm-nintendo-switch-port.628933/) | ??? |  
 
-
 ⎯ [Top](#toc)
-
-<!-- <a id="xbox"></a>  
-### Microsoft Xbox  
-| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
-| --- | --- | --- | --- | --- | --- |  
-  
-
-⎯ [Top](#toc)  -->
 
 <!-- <a id="x360"></a>  
 ### Microsoft Xbox 360
