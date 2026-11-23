@@ -252,7 +252,6 @@ body:
         - "Super Mario 127"
         - "Super Mario Bros. Remastered"
         - "Super Mario World Remastered Plus"
-        - "Survive - Wilderness Survival"
         - "Swordigo"
         - "Team Fortress 2 ReClassic"
         - "Ticket to Earth"
@@ -310,7 +309,6 @@ body:
         - "Jet Set Radio Future"
         - "Madagascar"
         - "Manhunt"
-        - "Midnight Club 3: Dub Edition"
         - "Mortal Kombat: Shaolin Monks"
         - "MVP Baseball '05"
         - "Need for Speed: Carbon"
@@ -324,7 +322,6 @@ body:
         - "Splinter Cell: Double Agent"
         - "Splinter Cell: Pandora Tomorrow"
         - "SSX Tricky"
-        - "StarCraft: Ghost"
         - "Tom and Jerry: War of the Whiskers"
   - type: dropdown
     id: item_x360
@@ -676,7 +673,6 @@ body:
       description: "Only fill this in if you chose Sega Dreamcast above."
       options:
         - "Sonic Adventure"
-        - "Sonic Adventure Remastered"
         - "Crazy Taxi"
         - "Crazy Taxi 2"
   - type: dropdown
