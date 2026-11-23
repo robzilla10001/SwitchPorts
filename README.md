@@ -481,6 +481,7 @@ Alphabetized by system  (25)
 | Dead Space 3 | 1.0.1 (TU2) | 27/10/2026 | [VasilkovND/<br>ds3-nx](https://github.com/VasilkovND/ds3-nx) |  |  |  
 | 🟢 Dishonored (cznn999) | 0.50 | 15/11/2026 | [cznn999/<br>dishonored-nx](https://github.com/cznn999/dishonored-nx) | [Link](https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/) |  |  
 | 🟢 Dishonored (VibePorter) | *released* | 16/11/2026 | [VibePorter/<br>Dunwall](https://github.com/VibePorter/Dunwall) | |  |  
+| 🟢 Dragon Ball Raging Blast 2 | 0.2.0 | 02/11/2026 | [brickyup/<br>raging-blast-2-switch](https://github.com/brickyup/raging-blast-2-switch) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (alexyt2021es) | 1.0 | 14/11/2026 | [alexyt2021es/<br>Budokai-NX](https://gitlab.com/alexyt2021es/Budokai-NX/-/blob/main/README_EN.md) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (ramonDias07) | 0.1.40 | 17/11/2026 | [ramonDias07/<br>Budokai3-nx](https://github.com/ramonDias07/Budokai3-nx) | [Link](https://gbatemp.net/threads/release-dragon-ball-z-budokai-3-hd-for-nintendo-switch-budokai3-nx.686629/#post-10950258) |  |  
 | F.E.A.R. | v0.2.1 | 06/11/2026 | [infriker/<br>fear-nx](https://github.com/infriker/fear-nx) |  |  | 
