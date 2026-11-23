@@ -522,7 +522,7 @@ Alphabetized by system  (25)
 | Peggle | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/<br>peggle1-nx](https://github.com/ChanseyIsTheBest/peggle1-nx) | |  |  
 | Peggle 2 | 1.0.2 | 22/10/2026 | [ChanseyIsTheBest/<br>peggle2-nx](https://github.com/ChanseyIsTheBest/peggle2-nx) | [Link](https://gbatemp.net/threads/peggle-2-switch-port.685349/) |  |  
 | 🟢 Pure | 0.25 | 12/11/2026 | [cznn999/<br>pure-nx](https://github.com/cznn999/pure-nx) | [Link](https://gbatemp.net/threads/release-pure-2008-xbox-360-nintendo-switch-native-port.686407/) |  |  
-| 🟢 Ridge Racer 6 | 1.0.1 | 10/11/2026 | [ChanseyIsTheBest/<br>rr6-nx](https://github.com/ChanseyIsTheBest/rr6-nx) | |  |  
+| 🟢 Ridge Racer 6 | 1.0.2 | 22/11/2026 | [ChanseyIsTheBest/<br>rr6-nx](https://github.com/ChanseyIsTheBest/rr6-nx) | |  |  
 | 🟢 Scud Race | 1.0.1 | 11/11/2026 | [Thorhax/<br>scudrace-nx](https://github.com/Thorhax/scudrace-nx) | |  |  
 | 🟢 Shank | 1.0.2 | 14/11/2026 | [zhtipu/<br>shank1-nx](https://github.com/zhtipu/shank1-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
 | 🟢 Shank 2 | 1.0.1 | 14/11/2026 | [zhtipu/<br>shank2-nx](https://github.com/zhtipu/shank2-nx) | [Link](https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/) |  |  
@@ -537,7 +537,7 @@ Alphabetized by system  (25)
 | 🟢 Sonic & All-Stars Racing Transformed | 1.0.0 | 22/11/2026 | [ChanseyIsTheBest/<br>sasrt-nx](https://github.com/ChanseyIsTheBest/sasrt-nx) | |  |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/<br>MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) |  |  
 | 🟢 Sonic the Hedgehog 4: Episode 1 | 1.0 | 20/11/2026 | [FurryLilManChild/<br>S4ep1-nx](https://github.com/FurryLilManChild/S4ep1-nx) | |  |  
-| 🟢 Sonic the Hedgehog 4: Episode 2 | 0.5.0 | 19/11/2026 | [FurryLilManChild/<br>S4ep2-XBLA-nx](https://github.com/FurryLilManChild/S4ep2-XBLA-nx) | |  |  
+| 🟢 Sonic the Hedgehog 4: Episode 2 | 0.5.1 | 22/11/2026 | [FurryLilManChild/<br>S4ep2-XBLA-nx](https://github.com/FurryLilManChild/S4ep2-XBLA-nx) | |  |  
 | Sonic Unleashed | 1.0.0 | 02/10/2026 | [ChanseyIsTheBest/<br>UnleashedRecomp-NX](https://github.com/ChanseyIsTheBest/UnleashedRecomp-NX) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/post-10916920) |  |  
 | Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/<br>sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) |  |  
 | 🟢 Timeshift | *pre-release* | 16/11/2026 | [Vasin228/<br>timeshift-nx](https://github.com/Vasin228/timeshift-nx) | |  |  
