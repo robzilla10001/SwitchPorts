@@ -857,8 +857,10 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Sony Playstation 2
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Downhill Domination | 0.8.10 | 20/11/2026 | [marmota94/<br>downhill-revived](https://github.com/marmota94/downhill-revived) | |  |  
-| 🟢 Dragonball Z: Tenkaichi Budokai 3 | 1.9 | 20/11/2026 | [alexyt2021es/<br>DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX) | |  |  
+| 🟢 Downhill Domination (marmota94) | 0.8.10 | 20/11/2026 | [marmota94/<br>downhill-revived](https://github.com/marmota94/downhill-revived) | |  |  
+| 🟢 Downhill Domination (alexyt2021es) | 1.0 | 15/11/2026 | [alexyt2021es/<br>Downhill-NX](https://gitlab.com/alexyt2021es/Downhill-NX/-/blob/main/README_EN.md) | |  |  
+| 🟢 Dragonball Z: Budokai Tenkaichi 3 | 2.0 | 20/11/2026 | [alexyt2021es/<br>DBT-NX](https://gitlab.com/alexyt2021es/DBT-NX/-/blob/main/README_EN.md) | |  |  
+| 🟢 Dragonball Z: Budokai Tenkaichi 4 | B14 Rev2 | [alexyt2021es/<br>Tenkaichi4-NX](https://gitlab.com/alexyt2021es/Tenkaichi4-NX/-/blob/main/README_EN.md) | |  |  
 | 🟢 Jak and Daxter Trilogy | 1.1.2-beta | 15/11/2026 | [fildicio/<br>jak-project-switch](https://github.com/fildicio/jak-project-switch) | [Link](https://gbatemp.net/threads/opengoal-port-on-nintendo-switch.684945/) |  |  
 | 🟢 Need for Speed: Hot Pursuit 2 | 1.0 | 18/11/2026 | [HDErick/<br>NFSHP2_Switch_Port](https://github.com/HDErick/NFSHP2_Switch_Port) | |  |  
 | 🟢 Rampage: Total Destruction | 1.2.8 | 11/11/2026 | [jjmhalew/<br>RampageRE](https://github.com/jjmhalew/RampageRE) | [Link](https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/) |  |  
