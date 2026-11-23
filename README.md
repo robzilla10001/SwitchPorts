@@ -228,6 +228,7 @@ Alphabetized by system  (25)
 | Sonic & Sega All Stars Racing | 1.0.3 | 01/10/2026 | [aks796/<br>sonic_allstars_nx](https://github.com/aks796/sonic_allstars_nx) | |  |  
 | Teen Titans Go! | 0.1.0 | 31/10/2026 | [iqbalriz/<br>teenytitans_nx](https://github.com/iqbalriz/teenytitans_nx) | |  |  
 | Teen Titans GO Figure! | 0.1.0 | 31/10/2026 | [iqbalriz/<br>teenyfigure_nx](https://github.com/iqbalriz/teenyfigure_nx) | |  |  
+| 🟢 Titan Souls | 1.0.1 | 20/11/2026 | [siiiimooooon/<br>TitanSouls-nx](https://github.com/siiiimooooon/TitanSouls-nx) | |  |  
 | Ultimate Spider-man: Total Mayhem | 1.0.0 | 04/10/2026 | [boraeskicioglu/spiderman<br>_total_mayhem_nx](https://github.com/boraeskicioglu/spiderman_total_mayhem_nx) | [Link](https://gbatemp.net/threads/ultimate-spider-man-total-mayhem-switch-port.685255/) |  |  
 
 - 0/31 Updated 17/11/2026  
@@ -455,6 +456,7 @@ Alphabetized by system  (25)
 | --- | --- | --- | --- | --- | --- |  
 | Alice: Madness Returns | 0.2-beta | 05/11/2026 | [adumah/<br>alice-nx](https://github.com/adumah/alice-nx) | |  |  
 | 🟢 Angry Birds Trilogy | 1.0 | 16/11/2026 | [slicey64/<br>rehatched-nx](https://github.com/slicey64/rehatched-nx) | |  |  
+| 🟢 Asura's Wrath | 1.0.1 | 22/11/2026 | [BanhMi93P/<br>asura-nx](https://github.com/BanhMi93P/asura-nx) | |  |  
 | Bakugan: Battle Brawlers | 0.2.3 | 02/11/2026 | [Wiredlainn/<br>Bakugan-NX](https://gitlab.com/wiredlainn/Bakugan-NX) | |  |  
 | Bangai-O HD: Missile Fury | 1.0.1 | 04/11/2026 | [ChanseyIsTheBest/<br>bangaio-nx](https://github.com/ChanseyIsTheBest/bangaio-nx) | [Link](https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/) |  |  
 | Banjo-Kazooie: Nuts & Bolts | 1.0.2 | 04/11/2026 | [ChanseyIsTheBest/<br>renut-nx](https://github.com/ChanseyIsTheBest/renut-nx) | [Link](https://gbatemp.net/threads/banjo-kazooie-nuts-bolts-renut-switch-port.686095/) |  |  
@@ -532,6 +534,7 @@ Alphabetized by system  (25)
 | 🟢 Singularity | *pre-release* | 17/11/2026 | [panalexeu/<br>singularity-nx](https://github.com/panalexeu/singularity-nx) | |  |  
 | Skate 3 | 0.1.5 | 30/10/2026 | [JohnUzoka/<br>skate-3-rust-engine](https://github.com/JohnUzoka/skate-3-rust-engine) | |  |  
 | Sonic Adventure 2 | 1.0.6 | 04/11/2026 | [ChanseyIsTheBest/<br>sa2-nx](https://github.com/ChanseyIsTheBest/sa2-nx) | [Link](https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/) |  |  
+| 🟢 Sonic & All-Stars Racing Transformed | 1.0.0 | 22/11/2026 | [ChanseyIsTheBest/<br>sasrt-nx](https://github.com/ChanseyIsTheBest/sasrt-nx) | |  |  
 | Sonic The Hedgehog (2006) | 1.0.3 | 02/10/2026 | [ChanseyIsTheBest/<br>MarathonRecomp-NX](https://github.com/ChanseyIsTheBest/MarathonRecomp-NX) | [Link](https://gbatemp.net/threads/marathon-recompiled-sonic-the-hedgehog-2006-switch-port.682907/post-10916486) |  |  
 | 🟢 Sonic the Hedgehog 4: Episode 1 | 1.0 | 20/11/2026 | [FurryLilManChild/<br>S4ep1-nx](https://github.com/FurryLilManChild/S4ep1-nx) | |  |  
 | 🟢 Sonic the Hedgehog 4: Episode 2 | 0.5.0 | 19/11/2026 | [FurryLilManChild/<br>S4ep2-XBLA-nx](https://github.com/FurryLilManChild/S4ep2-XBLA-nx) | |  |  
@@ -664,6 +667,7 @@ Alphabetized by system  (25)
 | 🟢 Metroid Prime 2: Echoes | 0.5.1 | 21/11/2026 | [FurryLilManChild/<br>MP2-nx](https://github.com/FurryLilManChild/MP2-nx) | |  |  
 | 🟢 Sonic Riders | 0.8.6 | 16/11/2026 | [teclilla18/<br>sonic-riders-recomp](https://github.com/teclilla18/sonic-riders-recomp) | [Link](https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/) |  |  
 | 🟢 The SpongeBob SquarePants Movie | *released* | 17/11/2026 | [csskillbad/<br>Spongebob_movie-switch](https://github.com/csskillbad/Spongebob_movie-switch) | |  |  
+| 🟢 Starfox Adventures | 1.0.0 | 22/11/2026 | [digdat0/<br>sfa-nx](https://github.com/digdat0/sfa-nx) | |  |  
 | Super Mario Strikers | 2.0.0 | 09/11/2026 |[new-coke/<br>strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) |  |  
 | Super Smash Bros. Melee | 0.2.5 *beta* | 06/10/2026 | [KawaiiBunga/<br>Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | |  |  
 
@@ -686,7 +690,7 @@ Alphabetized by system  (25)
 | Mega Man X | 1.2.0 | 23/10/2026 | [Thorhax/<br>MegaManX-NX](https://github.com/Thorhax/MegaManX-NX) | [Link](https://gbatemp.net/threads/megaman-x-recomp-nx.685184/) |  |  
 | Starfox | 0.0.8.8.3 | 01/11/2026 | [kandowontu2/<br>starfox-enhanced](https://github.com/kandowontu2/starfox-enhanced) | [Link](https://gbatemp.net/threads/star-fox-enhanced.684201/) |  |  
 | 🟢 Super Mario All-Stars | 1.0.1 | 17/11/2026 | [simplePsyduck/<br>SuperMarioAllStars-NX](https://github.com/simplePsyduck/SuperMarioAllStars-NX) | [Link](https://gbatemp.net/threads/super-mario-all-stars-for-nintendo-switch-true-widescreen-co-op-multiplayer-msu-1-support-cheats-achievements-more.686444/) |  |  
-| Super Mario World | 1.0.1 | 02/11/2026 | [wiredlainn/<br>wide-snes-NX](https://gitlab.com/wiredlainn/wide-snes-NX) | |  |  
+| 🟢 Super Mario World | 1.0.2 | 22/11/2026 | [wiredlainn/<br>wide-snes-NX](https://gitlab.com/wiredlainn/wide-snes-NX) | |  |  
 
 - 1/12 updated 17/11/2026  
 ⎯ [Top](#toc)
@@ -723,7 +727,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | The Binding of Isaac: Repentance+ | *unreleased* | 01/11/2026 | [antoniotorres02/<br>isaac-switch-native](https://github.com/antoniotorres02/isaac-switch-native) | [Link](https://gbatemp.net/threads/binding-of-isaac-repentance-port.685733/) |  |  
 | Black & White | 0.4.0 | 27/10/2026 | [gitgarage/<br>openblack](https://github.com/gitgarage/openblack) | [Link](https://gbatemp.net/threads/release-openblack-for-switch-black-white-2001-on-nintendo-switch.685558/) |  |  
 | 🟢 Call of Duty - Black Ops | 1.1.0 | 21/11/2026 | [HDErick/<br>OpenBLOPS-NX](https://github.com/HDErick/OpenBLOPS-NX) | |  |  
-| 🟢 Call of Duty - Black Ops II | 0.3.4 | 12/11/2026 | [HDErick/<br>BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | |  |  
+| 🟢 Call of Duty - Black Ops II | 0.4.0 | 22/11/2026 | [HDErick/<br>BO2-Requiem-NX](https://github.com/HDErick/BO2-Requiem-NX) | |  |  
 | Call of Duty / United Offensive | 0.4.0 / 0.3.0 | 01/11/2026 | [cznn999/<br>cod-nx](https://github.com/cznn999/cod-nx) | [Link](https://gbatemp.net/threads/release-call-of-duty-2003-united-offensive-nintendo-switch-native-port.685952/) |  |  
 | Carmageddon | 1.2-nx | 28/10/2026 | [jackazz86/<br>dethrace-switch-fw21](https://github.com/jackazz86/dethrace-switch-fw21) | |  |  
 | Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/<br>cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) |  |  
@@ -745,6 +749,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Fallout: New Vegas | *unreleased* | 28/10/2026 | [DerilDX/<br>nv-rs-nx](https://github.com/DerilDX/nv-rs-nx) | |  |  
 | Freespace 2 | 1.0.1 | 28/06/2026 | [NaGaa95/<br>freespace2_nx](https://github.com/NaGaa95/freespace2_nx) | |  |  
 | 🟢 Half Life | 4248 | 17/11/2026 | [FWGS/<br>xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs/) | [Link](https://gbatemp.net/threads/xash3d-half-life-custom-goldsrc-engine-for-switch.522848/) |  |  
+| 🟢 Harry Potter and the Chamber of Secrets | 1.2.0 | 19/11/2026 | [the-deshpande/<br>hp2_switch](https://github.com/the-deshpande/hp2_switch) | |  |  
 | Heroes of Might & Magic II | 1.1.18 | 08/11/2026 | [ihhub/<br>fheroes2](https://github.com/ihhub/fheroes2/) | |  |  
 | Heroes of Might & Magic III | 1.8.0 R2 | 06/07/2026 | [NaGaa95/<br>vcmi_nx](https://github.com/NaGaa95/vcmi_nx/) | |  |  
 | Insaniquarium | 1.0.1 | 06/09/2026 | [ChanseyIsTheBest/<br>insaniquarium_nx](https://github.com/ChanseyIsTheBest/insaniquarium_nx) | [Link](https://gbatemp.net/threads/insaniquarium-deluxe-switch-port.684222/) |  |  
@@ -817,6 +822,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |  
 | Sonic Adventure | 0.6.0 | 09/11/2026 | [FurryLilManChild/<br>SA-nx](https://github.com/FurryLilManChild/SA-nx) | |  |  
+| 🟢 Sonic Adventure Remastered | 0.5.0 | 22/11/2026 | [FurryLilManChild/<br>SonicAdventureRe-NX](https://github.com/FurryLilManChild/SonicAdventureRe-NX) | |  |  
 | Crazy Taxi | 0.5.0 | 04/11/2026 | [FurryLilManChild/<br>CTDC-nx](https://github.com/FurryLilManChild/CTDC-nx) | |  |  
 | Crazy Taxi 2 | 0.5.0 | 08/11/2026 | [FurryLilManChild/<br>CT2-nx/](https://github.com/FurryLilManChild/CT2-nx/) | |  |  
 
