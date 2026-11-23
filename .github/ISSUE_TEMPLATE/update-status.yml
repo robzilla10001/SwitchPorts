@@ -114,6 +114,7 @@ body:
         - "Sonic & Sega All Stars Racing"
         - "Teen Titans Go!"
         - "Teen Titans GO Figure!"
+        - "Titan Souls"
         - "Ultimate Spider-man: Total Mayhem"
   - type: dropdown
     id: item_and64
@@ -333,6 +334,7 @@ body:
       options:
         - "Alice: Madness Returns"
         - "Angry Birds Trilogy"
+        - "Asura's Wrath"
         - "Bakugan: Battle Brawlers"
         - "Bangai-O HD: Missile Fury"
         - "Banjo-Kazooie: Nuts & Bolts"
@@ -410,6 +412,7 @@ body:
         - "Singularity"
         - "Skate 3"
         - "Sonic Adventure 2"
+        - "Sonic & All-Stars Racing Transformed"
         - "Sonic The Hedgehog (2006)"
         - "Sonic the Hedgehog 4: Episode 1"
         - "Sonic the Hedgehog 4: Episode 2"
@@ -526,6 +529,7 @@ body:
         - "Metroid Prime 2: Echoes"
         - "Sonic Riders"
         - "The SpongeBob SquarePants Movie"
+        - "Starfox Adventures"
         - "Super Mario Strikers"
         - "Super Smash Bros. Melee"
   - type: dropdown
@@ -599,6 +603,7 @@ body:
         - "Fallout: New Vegas"
         - "Freespace 2"
         - "Half Life"
+        - "Harry Potter and the Chamber of Secrets"
         - "Heroes of Might & Magic II"
         - "Heroes of Might & Magic III"
         - "Insaniquarium"
@@ -669,6 +674,7 @@ body:
       description: "Only fill this in if you chose Sega Dreamcast above."
       options:
         - "Sonic Adventure"
+        - "Sonic Adventure Remastered"
         - "Crazy Taxi"
         - "Crazy Taxi 2"
   - type: dropdown
