@@ -456,7 +456,7 @@ Alphabetized by system  (25)
 | --- | --- | --- | --- | --- | --- |  
 | Alice: Madness Returns | 0.2-beta | 05/11/2026 | [adumah/<br>alice-nx](https://github.com/adumah/alice-nx) | |  |  
 | 🟢 Angry Birds Trilogy | 1.0 | 16/11/2026 | [slicey64/<br>rehatched-nx](https://github.com/slicey64/rehatched-nx) | |  |  
-| 🟢 Asura's Wrath | 1.0.1 | 22/11/2026 | [BanhMi93P/<br>asura-nx](https://github.com/BanhMi93P/asura-nx) | |  |  
+| 🟢 Asura's Wrath | 1.0.1 | 22/11/2026 | [BanhMi93P/<br>asura-nx](https://github.com/BanhMi93P/asura-nx) | [Link](https://gbatemp.net/threads/asuras-wrath-2012-native-nintendo-switch-port.686821/) |  |  
 | Bakugan: Battle Brawlers | 0.2.3 | 02/11/2026 | [Wiredlainn/<br>Bakugan-NX](https://gitlab.com/wiredlainn/Bakugan-NX) | |  |  
 | Bangai-O HD: Missile Fury | 1.0.1 | 04/11/2026 | [ChanseyIsTheBest/<br>bangaio-nx](https://github.com/ChanseyIsTheBest/bangaio-nx) | [Link](https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/) |  |  
 | Banjo-Kazooie: Nuts & Bolts | 1.0.2 | 04/11/2026 | [ChanseyIsTheBest/<br>renut-nx](https://github.com/ChanseyIsTheBest/renut-nx) | [Link](https://gbatemp.net/threads/banjo-kazooie-nuts-bolts-renut-switch-port.686095/) |  |  
@@ -483,7 +483,7 @@ Alphabetized by system  (25)
 | 🟢 Dishonored (VibePorter) | *released* | 16/11/2026 | [VibePorter/<br>Dunwall](https://github.com/VibePorter/Dunwall) | |  |  
 | 🟢 Dragon Ball Raging Blast 2 | 0.2.0 | 02/11/2026 | [brickyup/<br>raging-blast-2-switch](https://github.com/brickyup/raging-blast-2-switch) | |  |  
 | 🟢 Dragon Ball Z: Budokai 3 HD (alexyt2021es) | 1.0 | 14/11/2026 | [alexyt2021es/<br>Budokai-NX](https://gitlab.com/alexyt2021es/Budokai-NX/-/blob/main/README_EN.md) | |  |  
-| 🟢 Dragon Ball Z: Budokai 3 HD (ramonDias07) | 0.1.40 | 17/11/2026 | [ramonDias07/<br>Budokai3-nx](https://github.com/ramonDias07/Budokai3-nx) | [Link](https://gbatemp.net/threads/release-dragon-ball-z-budokai-3-hd-for-nintendo-switch-budokai3-nx.686629/#post-10950258) |  |  
+| 🟢 Dragon Ball Z: Budokai 3 HD (ramonDias07) | 0.1.40 | 17/11/2026 | [ramonDias07/<br>Budokai3-nx](https://github.com/ramonDias07/Budokai3-nx) | [Link](https://gbatemp.net/threads/release-dragon-ball-z-budokai-3-hd-for-nintendo-switch-budokai3-nx.686629/) |  |  
 | F.E.A.R. | v0.2.1 | 06/11/2026 | [infriker/<br>fear-nx](https://github.com/infriker/fear-nx) |  |  | 
 | 🟢 FarCry 4 | *pre-release* | 12/11/2026 | [Steammaker212<br>/FC4-NX](https://github.com/Steammaker212/FC4-NX) | |  |  
 | Feeding Frenzy | 1.0.0 | 26/10/2026 | [ChanseyIsTheBest/<br>feedingfrenzy-nx](https://github.com/ChanseyIsTheBest/feedingfrenzy-nx) | [Link](https://gbatemp.net/threads/feeding-frenzy-1-2-xbox-360-ver-switch-port.685866/) |  |  
@@ -665,6 +665,7 @@ Alphabetized by system  (25)
 | Luigi's Mansion | 1.0.1 | 01/11/2026 | [StevensND/<br>lm-nx](https://github.com/StevensND/lm-nx) | [Link](https://gbatemp.net/threads/luigis-mansion-game-cube-switch-port-lm-nx.686090/) |  |  
 | 🟢 Mario Kart: Double Dash! | 2.0.1 | 15/11/2026 | [digdat0/<br>mkdd-nx](https://github.com/digdat0/mkdd-nx) | [Link](https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/) |  |  
 | 🟢 Mario Party 4 | 0.2.0-*preview* | 07/11/2026 | [Yirr777/<br>PartyBoard-NX](https://github.com/Yirr777/PartyBoard-NX) | |  |   
+| 🟢 Metal Gear Solid: The Twin Snakes | *pre-release* | 22/11/2026 | [ramonDias07/<br>MGSTTS-nx](https://github.com/ramonDias07/MGSTTS-nx) | [Link](https://gbatemp.net/threads/wip-metal-gear-solid-the-twin-snakes-for-nintendo-switch-mgstts-nx.686817/) |  |  
 | 🟢 Metroid Prime 2: Echoes | 0.5.1 | 21/11/2026 | [FurryLilManChild/<br>MP2-nx](https://github.com/FurryLilManChild/MP2-nx) | |  |  
 | 🟢 Sonic Riders | 0.8.6 | 16/11/2026 | [teclilla18/<br>sonic-riders-recomp](https://github.com/teclilla18/sonic-riders-recomp) | [Link](https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/) |  |  
 | 🟢 The SpongeBob SquarePants Movie | *released* | 17/11/2026 | [csskillbad/<br>Spongebob_movie-switch](https://github.com/csskillbad/Spongebob_movie-switch) | |  |  
