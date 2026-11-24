@@ -893,7 +893,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |  
 | --- | --- | --- | --- | --- | --- |  
 | Ben 10: Protector of Earth | 1.1.4 | 05/11/2026 | [LaLemniscata/<br>ben10-nx](https://github.com/LaLemniscata/ben10-nx) | | |  
-| Grand Theft Auto: Vice City Stories | v0.4.0 | 18/10/2026 | [fsalamancar/<br>VCSNX](https://github.com/fsalamancar/VCSNX) |  |  |
+| Grand Theft Auto: Vice City Stories | v0.4.0 | 18/10/2026 | [fsalamancar/<br>VCSNX](https://github.com/fsalamancar/VCSNX) |  | 🟧 |
 
 - 0/2 updated 23/11/2026  
 ⎯ [Top](#toc)
