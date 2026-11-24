@@ -611,7 +611,7 @@ Alphabetized by system  (25)
 | Wave Race 64 (1weell) | 0.1.0 | 21/09/2026 | [1weell/<br>RaceWave46-Switch](https://github.com/1weell/RaceWave46-Switch) | |  |  
 | Wave Race 64 (DomazinUS) | RC7 | 17/10/2026 | [DomazinUS/<br>RaceWave46-Switch](https://github.com/DomazinUS/RaceWave46-Switch) | [Link](https://gbatemp.net/threads/release-racewave46-wave-race-64-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.684841/) |  |  
 
-- 4/26 updated 23/11/2026  
+- 3/25 updated 23/11/2026  
 ⎯ [Top](#toc)  
 
 <a id="gb"></a>  
@@ -909,5 +909,5 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 ### Special Thanks  
 Shout out to all the amazing devs working their fingers to bone, grinding out these ports for us. Thanks goes out to `PalindromicBreadLoaf`, `Raibatsu`, `MiaouMeowMiaou`, `1timewire1`, `ticohq`, `LibRetro`, `NaGaa95`, `shooterspps`, `SirSamael`, `ChanseyIsTheBest`, `xflipperkast`, `aks796`, `delsonazevedo`, `GlitchedDeveloper`, `mariob0y`, `boraeskicioglu`, `CostelaCNX`, `StevensND`, `bshurikan`, `lbnuard`, `souldbminerr`, `auggeythecat`, `DI4VOLO`, `bryantheboi`, `HayatoG`, `Alexgg1014`, `YoshiCrystal9`, `reflex909`, `timschneeb`, `HarbourMasters`, `perfect-dark-pc-port`, `capsterx-switch`, `[Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/)`, `alexart878`, `lantas`, `Thorhax`, `jamyaro`, `carstene1ns`, `fgsfdsfgs`, `ryandeering`, `FWGS`, `ihhub`, `KranKRival`, `deathkiller`, `McKay42`, `NZP-Team`, `ZeroArrows`, `ChaykaDed`, `heyjoeway`, `averne`, `RohanBhattacharyya`, `saekaze`, `NalienDev`, `amydevs`, `Snesrev`, `kandowontu`, and `juliopw`. If I missed anyone, I sincerely apologize.
 
-- 104/550 total updated 23/11/2026  
+- 103/549 total updated 23/11/2026  
 ⎯ [Top](#toc)  
