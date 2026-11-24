@@ -3,7 +3,7 @@
 name: "⁉️ Status"
 description: Post an update to a game status
 title: "[Status]: "
-labels: ["Status Update"]
+labels: ["status"]
 body:
   - type: markdown
     attributes:
@@ -50,6 +50,7 @@ body:
         - "Raika Azahar"
         - "UAE4ALL2 HD"
         - "Flycast"
+        - "Hollycast"
         - "FreeJ2ME"
         - "Yokoi"
         - "Kirikiroid2-NX"
