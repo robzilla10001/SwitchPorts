@@ -70,7 +70,8 @@ via 'Issues'. You will be automatically redirected to create a pull request. If 
 to make a pull request, congratulations! Today will be a learning day for you (it was for me as well,
 I had no idea how it worked until I tried to test it out). It vastly simplifies the process for
 updating the main README.md, and saves me a bit of time. Plus, you'll know if the title you're trying
-to add exists already. It's win-win. I've also updated the status issue template; more on that below.  
+to add exists already. It's win-win. I've also updated the status issue template; more on that below.
+Please do not update the section/page totals. Those are only updated during Monday updates.  
 ![Issues template](.github/images/issues.png)
 
 # SwitchPorts
