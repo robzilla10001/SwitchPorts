@@ -559,7 +559,6 @@ Alphabetized by system  (25)
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
 | Castlevania: Rondo of Blood | 1.2.1 | 11/11/2026 | [FurryLilManChild/<br>rondo-nx](https://github.com/FurryLilManChild/rondo-nx) | |  |  
-| Testing | Test | xx/xx/xxxx | [test/<br>fakeentry](https://github.com/RobZilla10001/SwitchPorts) | |  |  
 
 - 0/1 updated 23/11/2026  
 ⎯ [Top](#toc)
