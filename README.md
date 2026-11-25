@@ -540,7 +540,7 @@ Alphabetized by system  (25)
 | 🟢 Sonic the Hedgehog 4: Episode 2 | 0.5.1 | 22/11/2026 | [FurryLilManChild/<br>S4ep2-XBLA-nx](https://github.com/FurryLilManChild/S4ep2-XBLA-nx) | |  |  
 | Sonic Unleashed | 1.0.0 | 02/10/2026 | [ChanseyIsTheBest/<br>UnleashedRecomp-NX](https://github.com/ChanseyIsTheBest/UnleashedRecomp-NX) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/post-10916920) |  |  
 | Space Channel 5: Part 2 | 1.1.0 | 18/10/2026 | [BiroGrafx/<br>sc5p2-nx](https://github.com/BiroGrafx/sc5p2-nx) | [Link](https://gbatemp.net/threads/space-channel-5-part-2-switch-port.685536/) |  |  
-| 🟢 Timeshift | *pre-release* | 22/11/2026 | [Vasin228/<br>timeshift-nx](https://github.com/Vasin228/timeshift-nx) | |  |  
+| 🟢 Timeshift | *pre-release* | 22/11/2026 | [Vasin228/<br>timeshift-nx](https://github.com/Vasin228/timeshift-nx) | | 🟩 |
 | Tony Hawk's Project 8 | 1.0.0 | 01/10/2026 | [R-drg/<br>project8-sw](https://github.com/R-drg/project8-sw) | |  |  
 | 🟢 Torchlight (liartes) | 1.0.6 | 18/11/2026 | [liartes/<br>torchlight-nx](https://github.com/liartes/torchlight-nx) | |  |  
 | 🟢 Torchlight (GreenSwampDweller) | 1.2.0 | 18/11/2026 | [GreenSwampDweller/<br>torchlight-rekindled](https://github.com/GreenSwampDweller/torchlight-rekindled) | [Link](https://gbatemp.net/threads/torchlight-rekindled-port-of-torchlight-2009-on-switch-android.685627/) |  |  
