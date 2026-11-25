@@ -434,7 +434,6 @@ body:
       description: "Only fill this in if you chose NEC PC Engine (TurboGrafx-16) above."
       options:
         - "Castlevania: Rondo of Blood"
-        - "Testing"
   - type: dropdown
     id: item_nds
     attributes:
