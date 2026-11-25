@@ -167,7 +167,7 @@ def build_yaml(sections):
         'name: "⁉️ Status"',
         "description: Post an update to a game status",
         'title: "[Status]: "',
-        'labels: ["status"]',
+        'labels: ["Status Update"]',
         "body:",
         "  - type: markdown",
         "    attributes:",
