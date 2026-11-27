@@ -600,7 +600,7 @@ Alphabetized by system  (25)
 | The Legened of Zelda:<br>Ocarina of Time | 9.3.1-nx3 | 15/11/2026 | [timschneeb/<br>Shipwright-Switch](https://github.com/timschneeb/Shipwright-Switch/) | [Link](https://gbatemp.net/threads/ocarina-of-time-switch-port-ship-of-harkinian.630367/) |  |  
 | Mario Kart 64 | 1.0.0 | 24/02/2026 | [HarbourMasters/<br>SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/) | [Link](https://gbatemp.net/threads/mario-kart-64-nintendo-switch-port.672589/) |  |  
 | Mega Man 64 | 0.9.1 | 22/10/2026 | [adumah/<br>MegaMan64Recomp-NX](https://github.com/adumah/MegaMan64Recomp-NX) | |  |  
-| 🟢 Mystical Ninja Starring Goemon | 1.0.0-alpha.1 | 23/11/2026 | [guiwege/<br>goemon64recomp-nx](https://github.com/guiwege/goemon64recomp-nx) | |  |  
+| 🟢 Mystical Ninja Starring Goemon | 1.1.0 | 27/11/2026 | [guiwege/<br>goemon64recomp-nx](https://github.com/guiwege/goemon64recomp-nx) | |  |  
 | Paper Mario (Thorhax) | 1.0.2 | 01/10/2026 | [Thorhax/<br>PaperBoat-NX-Modern](https://github.com/Thorhax/PaperBoat-NX-Modern) | |  |  
 | Paper Mario (CypherNoodle) | 1.0.2 | 28/09/2026 | [CypherNoodle/<br>PaperBoat-nx](https://github.com/CypherNoodle/PaperBoat-nx) | |  |  
 | Perfect Dark | ??? | 13/08/2026 | [perfect-dark-pc-port/<br>perfect-dark](https://github.com/perfect-dark-pc-port/perfect_dark/) | [Link](https://gbatemp.net/threads/perfect-dark-switch-port.663322/) |  |  
@@ -614,7 +614,7 @@ Alphabetized by system  (25)
 | Wave Race 64 (1weell) | 0.1.0 | 21/09/2026 | [1weell/<br>RaceWave46-Switch](https://github.com/1weell/RaceWave46-Switch) | |  |  
 | Wave Race 64 (DomazinUS) | RC7 | 17/10/2026 | [DomazinUS/<br>RaceWave46-Switch](https://github.com/DomazinUS/RaceWave46-Switch) | [Link](https://gbatemp.net/threads/release-racewave46-wave-race-64-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.684841/) |  |  
 
-- 3/25 updated 23/11/2026  
+- 4/26 updated 27/11/2026  
 ⎯ [Top](#toc)  
 
 <a id="gb"></a>  
