@@ -622,7 +622,8 @@ Alphabetized by system  (25)
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | --- | --- | --- | --- | --- | --- |
 | 🟢 Pokemon Gen 1 | 0.4.8 | 16/11/2026 | [bryanthaboi/<br>gen1recomp](https://github.com/bryanthaboi/gen1recomp) | |  |  
-| Pokemon Gen 2 | 0.8.58 | 12/11/2026 | [UNDERdecoded/<br>Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) | |  |  
+| Pokemon Gen 2 | 0.8.58 | 12/11/2026 | [UNDERdecoded/<br>Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) | |  |
+| 🟢 Pokemon Pinball | 0.2.0 | 24/11/2026 | [Niecks90/<br>pinball-nx](https://github.com/Niecks90/pinball-nx) | |  |
 
 - 1/2 updated 23/11/2026  
 ⎯ [Top](#toc)  
@@ -633,12 +634,13 @@ Alphabetized by system  (25)
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda:<br>The Minish Cap (HayatoG) | v0.25 | 04/06/2026 | [HayatoG/<br>tmc](https://github.com/HayatoG/tmc) | |  |  
 | The Legend of Zelda:<br>The Minish Cap (Alexgg1014) | 2.0.1 | 17/10/2026 | [Alexgg1014/<br>The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition](https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition) | [Link](https://gbatemp.net/threads/release-the-minish-cap-aleks-ultimate-nx-edition-dual-screen-flip-grip-support-touch-retroachievements.683892/) |  |  
-| Mario Kart: Super Circuit | 0.2.1 | 14/11/2026 | [Niecks90/<br>mksc-nx](https://github.com/Niecks90/mksc-nx) | |  |  
+| Mario Kart: Super Circuit | 0.3.0 | 25/11/2026 | [Niecks90/<br>mksc-nx](https://github.com/Niecks90/mksc-nx) | |  |  
 | 🟢 Medabots: Rokusho and Metabee | 0.2.0 | 18/11/2026 | [Niecks90/<br>medabots-nx](https://github.com/Niecks90/medabots-nx) | [Link](https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10950792) |  |  
 | 🟢 Metroid: Zero Mission | 1.4 | 19/11/2026 | [JJTapiaXX/<br>Metroid-Zero-Mission-NX](https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX) | [Link](https://gbatemp.net/threads/metroid-zero-mission-nx.685276/) |  |  
 | Pokemon: FullDex | 1.6 | 16/11/2026 | [mamesj/pokemon-fulldex/](https://github.com/mamesj/pokemon-fulldex/releases/tag/all-games-v2) | |  |  
 | 🟢 Sonic Advance | 0.5.0 | 21/11/2026 | [FurryLilManChild/<br>SonAdvance-nx](https://github.com/FurryLilManChild/SonAdvance-nx) | |  |  
-| Sonic Advance 2 | 0.3 | 16/09/2026 | [boraeskicioglu/<br>sonic_advance2_nx](https://github.com/boraeskicioglu/sonic_advance2_nx) | |  |  
+| Sonic Advance 2 | 0.3 | 16/09/2026 | [boraeskicioglu/<br>sonic_advance2_nx](https://github.com/boraeskicioglu/sonic_advance2_nx) | |  |
+| 🟢 Wario Land 4 | 0.1.1 | 25/11/2026 | [Niecks90/<br>warioland4-nx](https://github.com/Niecks90/warioland4-nx) | |  |
 
 - 3/8 updated 23/11/2026  
 ⎯ [Top](#toc)  
@@ -736,7 +738,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Status? |
 | Carmageddon | 1.2-nx | 28/10/2026 | [jackazz86/<br>dethrace-switch-fw21](https://github.com/jackazz86/dethrace-switch-fw21) | |  |  
 | Castlevania ReVamped | 1.1.3 | 15/10/2026 | [bshurikan/<br>cvrevamped_nx](https://github.com/bshurikan/cvrevamped_nx) | [Link](https://gbatemp.net/threads/castlevania-revamped-nintendo-switch-port.684636/) |  |  
 | Command and Conquer: Red Alert 2 | 1.4.3 | 11/11/2026 | [Thorhax/<br>ra2-engine-switch](https://github.com/Thorhax/ra2-engine-switch) | |  |  
-| *Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
+| Commander Keen | 3.6.0 | 10/02/2026 | [Elias Oenal](https://eliasoenal.com/2020/07/12/commander-keen-for-nintendo-switch/) | [Link](https://gbatemp.net/threads/commander-keen-for-switch.569609/)|  |  
 | Cosmology of Kyoto | 1.0.0 | 30/10/2026 | [seamusduncmcgrath/<br>CosmologyOfKyoto-Recompiled](https://github.com/seamusduncmcgrath/CosmologyOfKyoto-Recompiled) | |  |
 | 🟢 Death Rally | 1.2.0 | 17/11/2026 | [VLPLAY-Games/<br>dRally_S](https://github.com/VLPLAY-Games/dRally_S) | |  |  
 | Descent | 0.58.6 | 09/09/2026 | [Thorhax/<br>Descent1-NX-Modern](https://github.com/Thorhax/Descent1-NX-Modern) | |  |  
